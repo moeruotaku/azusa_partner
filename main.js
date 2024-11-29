@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.11.27.1402
+// @version     2024.11.29.1328
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -23,8 +23,6 @@
     let set_html = (e, h) => e.innerHTML === h || (e.innerHTML = h);
     let bgm_icon = (b_id, style) => `<a href="https://bgm.tv/subject/${b_id}" target="_blank"><div style="display: inline-block; background-image: url('https://bgm.tv/img/favicon.ico'); background-repeat: no-repeat; background-position: 0 -4px; width: 16px; height: 12px; ${style}"></div></a>`;
     let go = (d) => {
-        console.log(Object.values(d).map((e) => e.version));
-        if (Object.values(d).some((v) => !v || !Object.keys(v).length)) return;
         let torrents = Array.from(document.querySelectorAll('.torrents > tbody > tr'));
         for (let i = 0; i < torrents.length; ++i) {
             let tr = torrents[i];
@@ -87,24 +85,15 @@
         }
     };
 
-    if (localStorage.hasOwnProperty('bgm_version')) localStorage.removeItem('bgm_version');
-
-    let v2t = (v) => ((vs) => new Date(`${vs[0]}-${vs[1]}-${vs[2]}`).setMinutes(vs[3], 0))(v.split('.').map((e) => parseInt(e, 10)));
-    // let GM_fetch = (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText);
-    let GM_fetch = async (url) => {
-        console.log(url);
-        const response = await new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject }));
-        return response.responseText;
-    };
+    let v2t = (v) => ((vs) => new Date(`${vs[0]}-${vs[1]}-${vs[2]}`).setMinutes(vs[3], 0, 0))(v.split('.').map((e) => parseInt(e, 10)));
+    let GM_fetch = (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText);
     let get_version = async (url) => GM_fetch(url).then((text) => /^.*@version +([^\/]+)\/\/.*$/.exec(text.replace(/\n/g, ''))?.[1] || '');
     let get_version_data = async (url) => GM_fetch(url).then((text) => ((r) => (r ? [r[1], JSON.parse(r[2].replace(/([0-9]+):/g, '"$1":'))] : ['', {}]))(/^.*@version +([^\/]+)\/\/.*const [\w]+ = (.*);$/.exec(text.replace(/\n/g, ''))));
     let refresh_data = async (n, uid, fid) => {
+        let um = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.meta.js`;
         let ur = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.js`;
-        let fm = `https://update.greasyfork.org/scripts/${fid}/azusa_partner_library_${n}.meta.js`;
         let fr = `https://update.greasyfork.org/scripts/${fid}/azusa_partner_library_${n}.js`;
-
         let d = JSON.parse(localStorage.getItem(n) || '{}');
-
         let v = d.version;
         if (!v) {
             let [fv, fd] = await get_version_data(fr);
@@ -112,12 +101,12 @@
             localStorage.setItem(n, JSON.stringify(fd));
             return [n, fd];
         } else {
-            let fv = await get_version(fm);
-            if (fv === v) return [n, d];
+            let uv = await get_version(um);
+            if (uv === v) return [n, d];
             return [
                 n,
                 d,
-                (v2t(fv) - v2t(v) <= 5 * 24 * 60 * 60 * 1000 //
+                (v2t(uv) - v2t(v) <= 5 * 24 * 60 * 60 * 1000 //
                     ? get_version_data(ur).then(([uv, ud]) => ({ ...d, ...ud, version: uv }))
                     : get_version_data(fr).then(([fv, fd]) => ({ ...fd, version: fv }))
                 ).then((d) => {
@@ -135,6 +124,8 @@
         refresh_data('bgm_tags', '519043', '517533'),
     ]).then(async (rets) => {
         go(Object.fromEntries(rets.map(([n, d, p]) => [n, d])));
-        go(Object.fromEntries(await Promise.all(rets.map(([n, d, p]) => p ?? Promise.resolve([n, d])))));
+        if (rets.some(([n, d, p]) => p)) go(Object.fromEntries(await Promise.all(rets.map(([n, d, p]) => p ?? Promise.resolve([n, d])))));
     });
+
+    if (localStorage.hasOwnProperty('bgm_version')) localStorage.removeItem('bgm_version');
 })();
