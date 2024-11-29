@@ -1,11 +1,14 @@
 // ==UserScript==
-// @name         azusa_partner_library_bgm_a2b_updates
-// @namespace    https://greasyfork.org/users/1396048-moeruotaku
-// @version      2024.11.29.1328
-// @description  bgm_a2b_updates
-// @author       moeruotaku
-// @license      MIT
-// @grant        none
+// @name        azusa_partner_library_bgm_a2b_updates
+// @namespace   https://greasyfork.org/users/1396048-moeruotaku
+// @version     2024.11.29.1349
+// @description bgm_a2b_updates
+// @author      moeruotaku
+// @license     MIT
+// @match       https://azusa.wiki/torrents.php*
+// @match       https://zimiao.icu/torrents.php*
+// @icon        https://bgm.tv/img/favicon.ico
+// @grant       none
 // ==/UserScript==
 
 const bgm_a2b = {
