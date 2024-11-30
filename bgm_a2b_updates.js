@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_a2b_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.11.30.120
+// @version     2024.11.30.1144
 // @description bgm_a2b_updates
 // @author      moeruotaku
 // @license     MIT
@@ -67,5 +67,17 @@ const bgm_a2b = {
   27210: 502,
   27211: 91572,
   27213: 444472,
-  27214: 132528
+  27214: 132528,
+  27216: 398897,
+  27217: 459461,
+  27218: 466038,
+  27219: 337920,
+  27220: 408208,
+  27222: 320495,
+  27223: 332250,
+  27225: 127364,
+  27226: 434772,
+  27227: 177598,
+  27228: 317087,
+  27229: 236546
 };
