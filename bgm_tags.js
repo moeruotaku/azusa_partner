@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.1.1260
+// @version     2024.12.2.63
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12084,6 +12084,7 @@ const bgm_tags = {
   518087: "",
   518578: "PC|BL|游戏|全年龄",
   518714: "漫画",
+  519040: "Windows|猎奇|游戏|PC|AVG|重口|STEAM|无修正|ryona|EROGE|R18",
   519645: "白毛|小说系列|日本|轻小说|日常|治愈|恋爱|GA文庫",
   520079: "Galgame|PC|游戏|FD|R18|ADV",
   520142: "",

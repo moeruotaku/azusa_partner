@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.1.1260
+// @version     2024.12.2.63
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -85,14 +85,15 @@
         }
     };
 
+    let now = Date.now();
     let v2t = (v) => ((vs) => new Date(`${vs[0]}-${vs[1]}-${vs[2]}`).setMinutes(vs[3], 0, 0))(v.split('.').map((e) => parseInt(e, 10)));
     let GM_fetch = (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText);
     let get_version = async (url) => GM_fetch(url).then((text) => /^.*@version +([^\/]+)\/\/.*$/.exec(text.replace(/\n/g, ''))?.[1] || '');
     let get_version_data = async (url) => GM_fetch(url).then((text) => ((r) => (r ? [r[1], JSON.parse(r[2].replace(/([0-9]+):/g, '"$1":'))] : ['', {}]))(/^.*@version +([^\/]+)\/\/.*const [\w]+ = (.*);$/.exec(text.replace(/\n/g, ''))));
     let refresh_data = async (n, uid, fid) => {
-        let um = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.meta.js`;
-        let ur = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.js`;
-        let fr = `https://update.greasyfork.org/scripts/${fid}/azusa_partner_library_${n}.js`;
+        let um = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.meta.js?_=${now}`;
+        let ur = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.js?_=${now}`;
+        let fr = `https://update.greasyfork.org/scripts/${fid}/azusa_partner_library_${n}.js?_=${now}`;
         let d = JSON.parse(localStorage.getItem(n) || '{}');
         let v = d.version;
         if (!v) {
