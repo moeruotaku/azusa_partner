@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.2.63
+// @version     2024.12.3.534
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -6457,6 +6457,7 @@ const bgm_tags = {
   201043: "少女|日本漫画|1991|やぶうち優|青春漫画|萌|校园|CIAO|恋爱",
   201055: "恋爱|校园|少女",
   201102: "Galgame|whirlpool|废萌|萌拔|分割商法|あじ秋刀魚|小鸟居夕花|漩涡社|STEAM|猫娘|汉化",
+  201197: "少女|已完结",
   201203: "",
   201245: "漫画系列|已完结|全2卷",
   201249: "漫画系列|已完结|全3卷",
