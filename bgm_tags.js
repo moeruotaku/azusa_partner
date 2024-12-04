@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.3.688
+// @version     2024.12.4.537
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11928,6 +11928,7 @@ const bgm_tags = {
   433277: "轻小说|萝莉|治愈|小说系列|2022|しらたま|白玉？",
   433578: "百合|漫画|恋爱|艺人|陪酒女|2023|一迅社|百合姬|职场|SM",
   433727: "漫画|格斗|热血|2023|百合|MAAM|卖肉|原创|小学馆|サンドロビッチ・ヤバ子|脑洞",
+  433805: "校园|BG|女攻|青春校园，GB",
   433838: "百合|国产|Galgame|全年龄|STEAM|AVG|PC|全通|游戏|GAL|抄袭",
   433867: "",
   434153: "漫画",
