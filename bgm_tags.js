@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.5.1374
+// @version     2024.12.6.594
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12100,6 +12100,7 @@ const bgm_tags = {
   447922: "",
   448262: "2023|轻小说|オーバーラップ文庫|相模優斗",
   448527: "漫画|韩国|韩漫",
+  448545: "",
   448550: "轻小说|战斗|冒险|小说系列|地下城|WEB",
   448629: "国产|galgame|PC|GAL|STEAM|AVG|伪娘|甜作|汉化",
   448682: "国产|Galgame|历史|零创游戏|AVG|全年龄|萝莉|公路片|PC|GAL|2024",
