@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.9.852
+// @version     2024.12.10.684
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -1682,6 +1682,7 @@ const bgm_covers = {
   35555: "9e/92/35555_eON8r.jpg",
   35572: "21/51/35572_mAB08.jpg",
   35605: "3d/01/35605_ZDl31.jpg",
+  35609: "05/8c/35609_jp.jpg",
   35647: "e4/e2/35647_3uqsv.jpg",
   35686: "82/2d/35686_jp.jpg",
   35698: "1f/7f/35698_6r1A1.jpg",
@@ -3015,10 +3016,12 @@ const bgm_covers = {
   72772: "f7/51/72772_z2D8i.jpg",
   72784: "7b/b6/72784_OB000.jpg",
   72793: "cb/00/72793_75822.jpg",
+  72863: "76/04/72863_jp.jpg",
   72890: "07/7f/72890_YqzQg.jpg",
   72904: "0f/25/72904_zeKlI.jpg",
   72956: "35/b0/72956_w2W3c.jpg",
   72964: "86/d7/72964_W28z8.jpg",
+  73088: "42/b4/73088_73S9o.jpg",
   73092: "18/80/73092_UK8pQ.jpg",
   73096: "1c/32/73096_wVw5z.jpg",
   73112: "d1/ce/73112_hN34S.jpg",
@@ -4589,6 +4592,7 @@ const bgm_covers = {
   123646: "8f/09/123646_jp.jpg",
   123651: "69/ca/123651_jp.jpg",
   123659: "4b/07/123659_jp.jpg",
+  123700: "57/4f/123700_jp.jpg",
   123784: "93/b4/123784_UpFPF.jpg",
   123806: "b5/a7/123806_NRODO.jpg",
   123819: "57/4c/123819_jp.jpg",
@@ -6315,6 +6319,7 @@ const bgm_covers = {
   187039: "f5/4f/187039_0dJfF.jpg",
   187043: "f6/62/187043_tDVQZ.jpg",
   187083: "0a/88/187083_lJaMF.jpg",
+  187087: "b0/92/187087_IJNM0.jpg",
   187248: "79/a4/187248_BdMBn.jpg",
   187291: "26/78/187291_tuuH2.jpg",
   187297: "8d/a3/187297_L5TRR.jpg",
@@ -7353,6 +7358,7 @@ const bgm_covers = {
   221296: "15/f5/221296_XzKzQ.jpg",
   221297: "d0/29/221297_w1OMj.jpg",
   221367: "9e/71/221367_Kua1A.jpg",
+  221460: "a3/08/221460_vpVA7.jpg",
   221523: "ce/17/221523_W9eyB.jpg",
   221531: "1c/32/221531_1q1sn.jpg",
   221535: "8e/36/221535_mjbKO.jpg",
@@ -10120,6 +10126,7 @@ const bgm_covers = {
   331942: "e1/ed/331942_8clPB.jpg",
   332144: "f6/27/332144_aVguC.jpg",
   332185: "ef/f8/332185_AbJTz.jpg",
+  332202: "33/41/332202_1Gndu.jpg",
   332250: "56/9a/332250_XmrMI.jpg",
   332298: "7e/ca/332298_JTxuH.jpg",
   332319: "7f/83/332319_BmzMm.jpg",

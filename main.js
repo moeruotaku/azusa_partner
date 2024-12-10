@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.9.852
+// @version     2024.12.10.684
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
