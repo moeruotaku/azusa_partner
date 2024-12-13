@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.13.647
+// @version     2024.12.13.1327
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11108,6 +11108,7 @@ const bgm_tags = {
   384404: "JRPG|RPG|STEAM",
   384408: "卡牌|NS|RPG|PC|2022",
   384494: "漫画|恋爱|搞笑|2022|雌小鬼|漫画系列|校园|講談社|週刊少年マガジン|nonco|少年漫画",
+  384500: "系列|漫画系列|神鬼|地主|奇幻|日常|土|除灵",
   384699: "轻小说|恋爱|小说系列|内衣|校园|青春日常",
   384788: "伪娘|漫画|漫画系列|2022",
   384885: "高妍|漫画|恋爱|日常|短篇|音乐|台湾|已完结|漫画系列|全2卷|Manga",
