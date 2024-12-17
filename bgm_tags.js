@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.16.541
+// @version     2024.12.17.578
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9778,6 +9778,7 @@ const bgm_tags = {
   317548: "SEEC|民俗|AVG|和风|推理|手游|亲情|女主可爱|悬疑|STEAM|脱出",
   317560: "轻小说",
   317611: "1987|川原正敏|月刊少年マガジン|漫画系列|日本漫画|已完结|全31卷|格斗漫画",
+  317612: "漫画|漫画系列|战斗|热血|黑暗|未完結|圣杯战争|日漫|Coamix|2021|其他",
   317647: "百合|短篇集|漫画|巨乳|2020|漫画短篇集|本子|Manga|短篇|KADOKAWA|合集",
   317672: "key|竜騎士07|Galgame|全年龄|望月けい|2021|GAL|小品|PC|ADV|萝莉",
   317674: "key|Galgame|全年龄|松山剛|PC|2021|小品|纯爱|短篇|ふむゆん|ADV",
@@ -12648,6 +12649,7 @@ const bgm_tags = {
   509029: "设定集",
   509226: "",
   509333: "",
+  509336: "",
   509587: "东方|同人",
   509976: "AVG|Galgame|PC|游戏",
   510392: "轻小说|TwinBox|轻小说分卷|岩波零|2024",
