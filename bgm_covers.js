@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.20.843
+// @version     2024.12.20.1002
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -432,7 +432,6 @@ const bgm_covers = {
   6889: "0a/55/6889_zQmm1.jpg",
   6894: "69/ec/6894_qqqHE.jpg",
   6911: "ed/77/6911_PfZ75.jpg",
-  6931: "c7/03/6931_jp.jpg",
   6967: "b4/40/6967_uckXH.jpg",
   7080: "1c/b5/7080_W50Ix.jpg",
   7128: "e3/01/7128_wU8WH.jpg",
@@ -1108,7 +1107,6 @@ const bgm_covers = {
   22193: "62/f6/22193_jp.jpg",
   22226: "a1/cc/22226_oIO4D.jpg",
   22229: "87/7c/22229_1KwYW.jpg",
-  22258: "dd/7d/22258_jp.jpg",
   22259: "f9/e6/22259_g1ktQ.jpg",
   22342: "c6/f4/22342_ocFlk.jpg",
   22344: "95/6f/22344_FhvX9.jpg",
@@ -1417,7 +1415,6 @@ const bgm_covers = {
   28648: "b5/f7/28648_8owe4.jpg",
   28652: "c9/8c/28652_2cX7J.jpg",
   28665: "f2/c4/28665_Vafq2.jpg",
-  28667: "1f/f6/28667_Tzz70.jpg",
   28671: "ec/ec/28671_yEt2g.jpg",
   28686: "f4/40/28686_2l8ll.jpg",
   28710: "9e/92/28710_5prZW.jpg",
@@ -4974,7 +4971,6 @@ const bgm_covers = {
   138378: "95/32/138378_t3uxI.jpg",
   138419: "b7/57/138419_jp.jpg",
   138434: "e6/e4/138434_12GW3.jpg",
-  138472: "13/1e/138472_jp.jpg",
   138475: "7e/5b/138475_r4H1Q.jpg",
   138582: "ef/06/138582_jp.jpg",
   138583: "a9/f4/138583_jp.jpg",
@@ -5257,7 +5253,6 @@ const bgm_covers = {
   148104: "e0/e8/148104_Wf7iP.jpg",
   148176: "58/c3/148176_Q8s9h.jpg",
   148182: "39/c2/148182_jp.jpg",
-  148236: "f9/05/148236_mqcIn.jpg",
   148277: "d7/a9/148277_DEPjJ.jpg",
   148344: "22/67/148344_4sSN4.jpg",
   148464: "59/56/148464_E2q2d.jpg",
@@ -5533,7 +5528,6 @@ const bgm_covers = {
   161711: "5d/7b/161711_IFBDf.jpg",
   161729: "b3/93/161729_Hr1rx.jpg",
   161787: "aa/a0/161787_dcCHd.jpg",
-  162097: "bf/0b/162097_hGt64.jpg",
   162109: "6a/ff/162109_1zf7c.jpg",
   162185: "22/ad/162185_SuFvw.jpg",
   162221: "05/e0/162221_9G9oe.jpg",
@@ -10870,7 +10864,6 @@ const bgm_covers = {
   369078: "45/8f/369078_n2Uy5.jpg",
   369080: "4f/53/369080_BCe67.jpg",
   369093: "59/30/369093_yDbks.jpg",
-  369096: "df/dd/369096_z9F2I.jpg",
   369109: "cf/13/369109_4hUaF.jpg",
   369127: "37/39/369127_zwxwQ.jpg",
   369692: "38/c5/369692_jf5z2.jpg",
