@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.19.1261
+// @version     2024.12.20.843
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -7737,6 +7737,7 @@ const bgm_tags = {
   236382: "漫画系列",
   236409: "少女漫画|漫画系列",
   236456: "マンガ",
+  236467: "マンガ",
   236545: "漫画|已完结|恋爱|全2卷|墨佳遼|短篇集|少女|奇幻|系列|漫画系列|短篇",
   236546: "漫画|小说改|轻改|异世界|2017|穿越|奇幻|管理国家|漫画系列|政治",
   236552: "漫画系列",
