@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.20.1367
+// @version     2024.12.21.524
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10946,6 +10946,7 @@ const bgm_tags = {
   375025: "轻小说|恋爱|纯爱|たかた|小说|日向あずり|小说系列|日本|角川スニーカー文庫|有web剧透|校园",
   375071: "设定集|设定资料集|画集·设定集",
   375104: "PC|2022|STEAM|恐怖|同人|视频通关|模拟|冒险|云过|DJ",
+  375145: "漫画|BL|BL漫画|BLコミック|志木見ビビ",
   375202: "漫画系列",
   375274: "百合|同人|Galgame|短篇|2021|ADV|校园|なつこん|汉化|2021-12|GAL",
   375316: "漫画|恋爱|搞笑|幼驯染|校园|2022|后宫|日常|党争|講談社|三簾真也",
