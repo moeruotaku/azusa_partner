@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.21.1348
+// @version     2024.12.23.546
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -4957,6 +4957,7 @@ const bgm_tags = {
   137669: "Galgame|Hulotte|桐谷華|实妹|萌拔|后宫|妹|安玖深音|找老婆|废萌|汉化",
   137690: "Galgame|卡牌|RPG|拔作|后宫|アストロノーツ|画风赞|汉化|PC|2015|游戏性",
   137692: "Galgame|Harmorise|汉化|白毛|开飞机|GAL|原画超棒|PC|无修正|2018",
+  137806: "漫画|あfろ|百合|同人|搞笑|脑洞|芳文社|已完结|日常|漫画系列|四格",
   137833: "OST|Deemo|音游|游戏|2015|ゲーム|2015年|游戏音乐|抒情|单曲循环|2013",
   137949: "竜騎士07|Galgame|全年龄|悬疑|和遥キナ|PC|DMM|GAL|AVG|温情|2016",
   137978: "棒球|已完结|漫画系列|日本漫画|¬|コージィ城倉|全35卷|体育漫画|2003",
