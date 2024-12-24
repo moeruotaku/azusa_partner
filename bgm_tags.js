@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.24.607
+// @version     2024.12.24.1260
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12275,6 +12275,7 @@ const bgm_tags = {
   460409: "国产|机甲|PC|俯视射击|百合|STG|养成|游戏|守家",
   460581: "设定集",
   460712: "画集|mignon|已购|R18|2023|双葉社",
+  460743: "Galgame|CRYSTALiA|白毛|2024|废萌|妹|萝莉|秋野花|PC|纯(谈恋)爱|2024-02",
   461111: "国漫|中国|2019",
   461199: "漫画|国漫|中国|mc33910",
   461243: "",
