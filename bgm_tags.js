@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.25.616
+// @version     2024.12.26.514
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10969,6 +10969,7 @@ const bgm_tags = {
   375989: "",
   376125: "漫画|怪兽|战斗|漫画系列|科幻|设定|猎奇|画集|黑暗|奇幻|系列",
   376164: "漫画系列|战斗|犯罪|福利|全5卷|已完结",
+  376200: "轻小说|恋爱|校园|小说|前任|轻书架|前女友|wenku8|哩哔",
   376213: "杉井光|轻小说|推理小说|轻文学|小说|推理|2022|校园|奇幻|青春|一般文芸",
   376258: "少女|漫画系列",
   376352: "百合|漫画|幼驯染|恋爱|搞笑|矢坂しゅう|竹書房|漫画系列|2022|非优先|校园",
