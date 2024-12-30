@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.29.52
+// @version     2024.12.30.1002
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -16,25 +16,29 @@ const bgm_covers = {
   19002: "f1/78/19002_nO49l.jpg",
   46090: "08/a3/46090_r6dEi.jpg",
   47646: "03/45/47646_mm9Sl.jpg",
+  55981: "27/f4/55981_EtZEt.jpg",
   66451: "b4/cb/66451_QkhRq.jpg",
   121995: "13/94/121995_BOOuS.jpg",
   128096: "ac/d4/128096_KY9VU.jpg",
-  137806: "60/99/137806_7Nd7J.jpg",
   165241: "76/62/165241_XCX3v.jpg",
   170184: "7b/94/170184_ZR7MP.jpg",
-  177863: "77/13/177863_gZ3zg.jpg",
-  193081: "e5/e0/193081_LK4M2.jpg",
+  193910: "73/e4/193910_DWrNj.jpg",
   195862: "f6/70/195862_1vg10.jpg",
   209143: "7f/f1/209143_RRLFR.jpg",
+  218102: "62/df/218102_1ACAI.jpg",
   223845: "00/ef/223845_uYfpL.jpg",
   233186: "f9/8b/233186_lFGvg.jpg",
+  254437: "49/28/254437_V0nL4.jpg",
   273501: "e8/57/273501_5OocC.jpg",
+  275492: "de/dc/275492_AA4jS.jpg",
+  280628: "bd/25/280628_Bo00b.jpg",
   286980: "1a/02/286980_oGUGY.jpg",
   287711: "80/5b/287711_8q6fS.jpg",
   294934: "54/dd/294934_XW8Xf.jpg",
   298651: "12/68/298651_B9IiO.jpg",
-  306284: "44/bc/306284_ttlYp.jpg",
   306812: "8d/e8/306812_3NMbn.jpg",
+  308152: "a7/ff/308152_4qU6M.jpg",
+  308570: "f8/51/308570_8hxh0.jpg",
   315497: "56/82/315497_VffSS.jpg",
   316280: "70/4c/316280_p7oVC.jpg",
   316809: "f3/be/316809_76ua8.jpg",
@@ -48,12 +52,13 @@ const bgm_covers = {
   356198: "6b/9b/356198_YFoor.jpg",
   360070: "38/11/360070_4iIuo.jpg",
   376200: "61/3e/376200_Z5N33.jpg",
-  406361: "26/9a/406361_gzAIz.jpg",
+  397208: "40/1a/397208_YlCQd.jpg",
   406538: "68/47/406538_t9WKW.jpg",
   430016: "44/15/430016_Nxfiu.jpg",
   431400: "5b/87/431400_iC5x6.jpg",
   433962: "92/77/433962_XhdY8.jpg",
   437534: "01/bb/437534_4Arr5.jpg",
+  442374: "55/7b/442374_414Ad.jpg",
   450713: "3d/53/450713_xq67Q.jpg",
   452349: "3c/74/452349_8qi18.jpg",
   453125: "50/90/453125_kn4oW.jpg",

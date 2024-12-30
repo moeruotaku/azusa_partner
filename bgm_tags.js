@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2024.12.29.52
+// @version     2024.12.30.1002
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11321,6 +11321,7 @@ const bgm_tags = {
   396955: "中国|Galgame|琉璃花糖制作组|闲踏梧桐|AVG|PC|百合|游戏|国产|GAL|STEAM",
   397042: "漫画系列|已完结|エロ|全5卷",
   397111: "Galgame|CUBE|夏和小|悬疑|明羽杏子|2022|后宫|PC|三河ごーすと|GAL|画风好",
+  397208: "漫画系列|已完结|エロ|全2卷",
   397306: "洛天依|Vocaloid|泛Vocaloid|实体",
   397442: "漫画系列",
   397476: "AVG|PC|游戏",
