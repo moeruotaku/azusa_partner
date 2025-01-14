@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.1.13.528
+// @version     2025.1.14.519
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11626,6 +11626,7 @@ const bgm_tags = {
   409989: "漫画系列",
   410115: "画集|已购|2019",
   410117: "韩国",
+  410127: "轻小说|奇幻|恋爱|晓佳奈",
   410135: "轻小说|恋爱|神鍵裕貴|日常|哩哔|奇幻|wenku8|轻书架|講談社ラノベ文庫",
   410165: "Galgame|whirlpool|白もち桜|废萌|近江谷宥|后宫|双飞|分割商法|2023|GAL|R18",
   410186: "漫画",
