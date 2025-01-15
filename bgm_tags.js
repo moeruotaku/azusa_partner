@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.1.14.519
+// @version     2025.1.15.715
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -3377,6 +3377,7 @@ const bgm_tags = {
   84061: "佐藤秀峰|漫画|社会|青年漫画|2002|漫画系列|モーニング|科普|医学|系列|已完结",
   84062: "漫画",
   84094: "Galgame|Nitroplus|Nitro+|下倉バイオ|凍京NECRO|PC|百合|演出|GAL|深見真|战斗",
+  84162: "SORAHANE|Galgame|妹|2014|双子妹|系统bug|R18|PC|GAL|盘5|妹！",
   84164: "",
   84166: "美食|漫画|2006|漫画系列|竞技",
   84167: "美食|漫画|漫画系列|きくち正太|讲谈社|单元剧|日常|科普|搞笑|日料|食文化",
@@ -12282,6 +12283,7 @@ const bgm_tags = {
   453125: "漫画|科幻|恋爱|猎奇|ハミタ|校园|悬疑|扭曲|奇幻|漫画系列|架空现实",
   453254: "设定集",
   453270: "轻小说|学院|战斗|反派",
+  453351: "轻小说|约会大作战|時崎狂三",
   453395: "",
   453562: "BG|季完",
   453635: "Galgame|国产|吸血鬼|后日谈|纯爱|AsicxArt|STEAM|2023|6+|PC|AVG",
