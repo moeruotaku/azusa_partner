@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.1.23.559
+// @version     2025.1.24.636
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12489,6 +12489,7 @@ const bgm_tags = {
   469606: "百合|国产|AVG|PC|STEAM|全年龄|Windows|Galgame|游戏|短篇|2022",
   470048: "卡牌|NS|lovelive|LL|PC|Roguelike|PS5|Switch|STEAM|游戏|构筑",
   470126: "Galgame|全年龄|萝莉|纯爱|AVG|后宫|国产|STEAM|2023|Android|FD",
+  470276: "falcom|轨迹系列|JRPG|RPG|PS5|法老控|PS4|2024-09|PC|游戏|2024",
   470365: "漫画|恋爱|校园|猫|原创|日常|あきのこ|2023|漫画系列|同桌|连载中",
   470407: "韩漫|BL韩漫",
   470675: "",
@@ -12630,6 +12631,7 @@ const bgm_tags = {
   485046: "画集・設定資料集",
   485103: "画集",
   485105: "",
+  485254: "未来|SF|漫画|短篇|太空",
   485396: "PC|卡牌|肉鸽",
   485472: "BL漫画",
   485820: "卡牌|PC|RPG|卡牌对战|音乐|STEAM|NS|2024|PS4|JRPG|游戏",
