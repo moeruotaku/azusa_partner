@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.1.25.1198
+// @version     2025.1.25.1218
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -1528,6 +1528,7 @@ const bgm_covers = {
   31000: "98/27/31000_5QjlZ.jpg",
   31003: "1d/93/31003_Sr49m.jpg",
   31005: "f8/8f/31005_632wy.jpg",
+  31010: "4d/53/31010_jp.jpg",
   31011: "d8/af/31011_jp.jpg",
   31056: "9c/b8/31056_jp.jpg",
   31059: "0f/73/31059_wsFK6.jpg",
@@ -8910,6 +8911,7 @@ const bgm_covers = {
   286688: "d1/a7/286688_gORty.jpg",
   286695: "d6/40/286695_FA9c9.jpg",
   286696: "0b/89/286696_039q0.jpg",
+  286836: "84/86/286836_TRYXt.jpg",
   286866: "09/9d/286866_37zL7.jpg",
   286869: "b1/e3/286869_aR0VL.jpg",
   286872: "fb/2f/286872_d0aBp.jpg",
@@ -9013,6 +9015,7 @@ const bgm_covers = {
   290163: "81/b4/290163_VBM1v.jpg",
   290213: "77/21/290213_iF1F7.jpg",
   290301: "75/cb/290301_LpgG8.jpg",
+  290313: "51/e1/290313_ATvAV.jpg",
   290335: "c7/38/290335_ISIey.jpg",
   290343: "37/24/290343_V8RQT.jpg",
   290456: "1f/64/290456_Z99d9.jpg",
@@ -10623,6 +10626,7 @@ const bgm_covers = {
   348103: "8d/8f/348103_8desN.jpg",
   348104: "3a/7a/348104_2sssQ.jpg",
   348105: "11/d5/348105_U49x9.jpg",
+  348182: "6f/b1/348182_t3A02.jpg",
   348201: "37/77/348201_Lb4WB.jpg",
   348205: "fa/1f/348205_GeZ19.jpg",
   348253: "b9/2a/348253_Hwb7p.jpg",
@@ -10745,6 +10749,7 @@ const bgm_covers = {
   354420: "82/c6/354420_s8CZm.jpg",
   354543: "af/ac/354543_6PSR8.jpg",
   354579: "6c/4a/354579_SEdbM.jpg",
+  354668: "d2/33/354668_M2r62.jpg",
   354670: "5d/09/354670_T766j.jpg",
   354676: "c1/3f/354676_Ny3e6.jpg",
   354683: "30/8e/354683_7yZm5.jpg",
@@ -12459,6 +12464,7 @@ const bgm_covers = {
   464833: "d3/40/464833_Z9PuS.jpg",
   464903: "d9/bd/464903_Px96V.jpg",
   464941: "48/26/464941_Srl54.jpg",
+  465468: "2e/fe/465468_KWvkq.jpg",
   465673: "89/e0/465673_NAwZ8.jpg",
   466004: "b4/49/466004_G82tZ.jpg",
   466038: "45/0f/466038_Bi5g4.jpg",
