@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.1.25.79
+// @version     2025.1.25.1198
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -33,8 +33,10 @@ const bgm_covers = {
   84162: "63/93/84162_PCyTw.jpg",
   86984: "75/6d/86984_8E8fm.jpg",
   123469: "7b/ae/123469_jeLcL.jpg",
+  124196: "c3/16/124196_siOkU.jpg",
   143035: "93/ad/143035_NtCz7.jpg",
   172751: "ce/f1/172751_jp.jpg",
+  180834: "dd/ec/180834_eV29o.jpg",
   196753: "34/a6/196753_zoNVi.jpg",
   207478: "cc/29/207478_q60qo.jpg",
   212037: "cd/2a/212037_2f8kE.jpg",
@@ -50,12 +52,15 @@ const bgm_covers = {
   250385: "ab/07/250385_z1Y68.jpg",
   254706: "26/08/254706_9CcPc.jpg",
   260215: "da/98/260215_cmD2V.jpg",
+  262771: "f2/ee/262771_6hoqG.jpg",
   265515: "55/35/265515_tF2A1.jpg",
   266498: "f1/5b/266498_3188F.jpg",
   270407: "be/52/270407_287Ee.jpg",
   272611: "f9/28/272611_8ZtZK.jpg",
+  272767: "3a/1f/272767_4MZiS.jpg",
   272768: "36/c0/272768_TxY3X.jpg",
   273878: "94/06/273878_Wp4W8.jpg",
+  276486: "35/9d/276486_iibJI.jpg",
   285270: "9d/d5/285270_yXAL5.jpg",
   288299: "7a/d5/288299_pF6E6.jpg",
   289325: "e7/57/289325_uJB3K.jpg",
@@ -67,6 +72,7 @@ const bgm_covers = {
   302831: "ca/82/302831_8XZAx.jpg",
   308999: "6a/46/308999_k6K2y.jpg",
   309811: "93/95/309811_AbSLQ.jpg",
+  310827: "36/4c/310827_GrhNy.jpg",
   311181: "8b/65/311181_TeDt9.jpg",
   318311: "08/18/318311_dNN1s.jpg",
   324416: "be/06/324416_SmCw2.jpg",
@@ -75,6 +81,7 @@ const bgm_covers = {
   326285: "3a/03/326285_rQAhA.jpg",
   326654: "51/76/326654_ogZG5.jpg",
   327243: "83/c3/327243_n0nvi.jpg",
+  331490: "9a/6e/331490_jKjX0.jpg",
   333519: "2c/86/333519_zn4rR.jpg",
   335289: "f4/1c/335289_L9Ov0.jpg",
   347844: "9c/f3/347844_f1f3A.jpg",
@@ -98,6 +105,7 @@ const bgm_covers = {
   407267: "3b/bc/407267_T94BB.jpg",
   409483: "7d/c7/409483_BzcU5.jpg",
   419648: "db/19/419648_2mh5v.jpg",
+  420815: "26/d7/420815_CPOop.jpg",
   425201: "8f/b7/425201_1E1bP.jpg",
   435772: "66/63/435772_U5m4m.jpg",
   453555: "2a/37/453555_7AaAH.jpg",

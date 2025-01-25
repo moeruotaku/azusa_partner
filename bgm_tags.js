@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.1.25.79
+// @version     2025.1.25.1198
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -8338,6 +8338,7 @@ const bgm_tags = {
   262587: "漫画|职场|餅田まか|已完结|恋爱|漫画系列|2018|全2卷|秋田書店|マンガ|幼",
   262729: "漫画",
   262733: "设定集|画集|传颂之物|公式书|画集・設定資料集",
+  262771: "",
   262829: "漫画|伪娘|恋爱|校园|腰斩|2018|一迅社|B漫|楠元とうか",
   262884: "漫画|异世界|轻小说改|小说改|后宫|奇幻|2018|恋爱|轻改|异世界转生|漫画系列",
   262925: "漫画|魔法|週刊少年ジャンプ|漫画系列|田畠裕基",
