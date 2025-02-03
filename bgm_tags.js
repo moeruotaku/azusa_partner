@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.2.2.581
+// @version     2025.2.3.612
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -4491,6 +4491,7 @@ const bgm_tags = {
   119425: "画集|画集・設定資料集",
   119431: "画集|荒木飛呂彦|jojo|2013|集英社|画集公式书",
   119448: "漫画|单行本|待续",
+  119476: "ASa_Project|Galgame|萌え|纯爱|雪都大法|初恋|ADV|游戏|糖|欢乐|PC",
   119526: "漫画|番外|搞笑|官方同人|海贼王|¬",
   119593: "奇幻|漫画|罗德斯岛战记|角川书店|战斗|水野良|ロードス島伝説|漫画系列|夏元雅人",
   119625: "漫画|東雲太郎|姐控|卖肉|白泉社|短篇|姐相随|漫画系列|后宫",
@@ -12847,6 +12848,7 @@ const bgm_tags = {
   509333: "",
   509336: "",
   509587: "东方|同人",
+  509955: "传说系列|RPG|2025|JRPG|PC|NS|PS5|Switch|XboxOne|日系",
   509976: "AVG|Galgame|PC|游戏",
   510392: "轻小说|岩波零|TwinBox|轻小说分卷|2024|MF文庫J",
   510504: "Galgame|汉化|FD|pulltop|全年龄|纯爱|PC|分割商法|游戏|2022",
