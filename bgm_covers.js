@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.2.3.612
+// @version     2025.2.4.1299
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -6161,6 +6161,7 @@ const bgm_covers = {
   180353: "cd/4b/180353_4idyu.jpg",
   180414: "19/15/180414_jp.jpg",
   180449: "3d/a5/180449_MKsrm.jpg",
+  180460: "f0/7e/180460_jp.jpg",
   180480: "82/f9/180480_tS8zT.jpg",
   180547: "7f/5c/180547_pE7SA.jpg",
   180559: "3a/ca/180559_fGyrj.jpg",
@@ -7758,6 +7759,7 @@ const bgm_covers = {
   235231: "57/bc/235231_8GUV7.jpg",
   235268: "ae/75/235268_IdRdG.jpg",
   235397: "ce/1c/235397_X9ajA.jpg",
+  235408: "90/62/235408_oxyhE.jpg",
   235423: "08/91/235423_v685I.jpg",
   235497: "3a/97/235497_ZmvMV.jpg",
   235519: "aa/d4/235519_t3Vik.jpg",
@@ -10528,6 +10530,7 @@ const bgm_covers = {
   341434: "8a/87/341434_47nze.jpg",
   341482: "3f/9b/341482_yoen5.jpg",
   341641: "a6/0e/341641_c0ucF.jpg",
+  341656: "a1/81/341656_5H17h.jpg",
   341886: "52/2f/341886_CLlwZ.jpg",
   341888: "60/2c/341888_k89yz.jpg",
   341941: "ed/66/341941_XJ26M.jpg",
@@ -12234,6 +12237,7 @@ const bgm_covers = {
   441057: "eb/2a/441057_KYCES.jpg",
   441330: "8a/12/441330_w52lU.jpg",
   441435: "a4/ee/441435_5r5cT.jpg",
+  441439: "bf/ea/441439_ZQGRr.jpg",
   441480: "b1/e7/441480_Oebdz.jpg",
   441702: "e5/e8/441702_fNJjT.jpg",
   441721: "45/90/441721_81eMG.jpg",
@@ -12305,6 +12309,7 @@ const bgm_covers = {
   446380: "9d/e6/446380_NiyG1.jpg",
   446403: "c9/f2/446403_v587I.jpg",
   446409: "c6/c1/446409_7AWj9.jpg",
+  446410: "24/60/446410_R1p8F.jpg",
   446434: "49/2a/446434_0Np3k.jpg",
   446523: "cd/dd/446523_ZiEY7.jpg",
   446584: "29/41/446584_2lb7H.jpg",
@@ -12699,6 +12704,7 @@ const bgm_covers = {
   490401: "",
   490647: "40/9e/490647_zgGb1.jpg",
   490881: "4d/7e/490881_nWEi9.jpg",
+  490905: "81/c3/490905_ru5fm.jpg",
   491177: "d7/77/491177_21IDw.jpg",
   491362: "1d/89/491362_LYUCU.jpg",
   491455: "23/ed/491455_NWNW2.jpg",
