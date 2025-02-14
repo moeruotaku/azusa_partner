@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.2.11.1321
+// @version     2025.2.14.515
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -803,6 +803,7 @@ const bgm_covers = {
   15213: "05/f7/15213_1n27d.jpg",
   15289: "22/62/15289_ZemVB.jpg",
   15327: "7d/c5/15327_3h233.jpg",
+  15335: "1c/2b/15335_3rIG9.jpg",
   15351: "94/f3/15351_2c4OS.jpg",
   15363: "a2/3e/15363_X213G.jpg",
   15439: "65/df/15439_qECwT.jpg",
@@ -3683,6 +3684,7 @@ const bgm_covers = {
   93508: "fe/bb/93508_A0Nn7.jpg",
   93511: "7d/7c/93511_i379K.jpg",
   93544: "24/48/93544_oepD0.jpg",
+  93619: "0a/de/93619_RZx82.jpg",
   93649: "52/08/93649_jp.jpg",
   93658: "ff/d0/93658_xZ9aC.jpg",
   93692: "3f/77/93692_4w094.jpg",
@@ -3715,6 +3717,7 @@ const bgm_covers = {
   93949: "9d/e3/93949_WWYIi.jpg",
   93963: "6c/0a/93963_Q9OOO.jpg",
   93978: "19/7a/93978_D1Byq.jpg",
+  93981: "17/65/93981_BFM1r.jpg",
   93991: "df/f4/93991_kCzT2.jpg",
   94004: "5a/77/94004_IVslz.jpg",
   94053: "e9/12/94053_9VN95.jpg",
@@ -4235,6 +4238,7 @@ const bgm_covers = {
   111059: "d3/64/111059_6APAD.jpg",
   111083: "09/3a/111083_L4VGL.jpg",
   111104: "15/52/111104_9PVe7.jpg",
+  111105: "d2/a2/111105_shgXx.jpg",
   111111: "96/e7/111111_Mpp9p.jpg",
   111125: "ce/43/111125_YqWSY.jpg",
   111149: "45/d0/111149_hq08e.jpg",
@@ -8330,6 +8334,7 @@ const bgm_covers = {
   261674: "96/47/261674_cPr4G.jpg",
   261685: "03/87/261685_E7Elb.jpg",
   261730: "d5/ba/261730_9gxT9.jpg",
+  261773: "7f/78/261773_9ZBz1.jpg",
   262015: "2e/b0/262015_ajp0P.jpg",
   262040: "6d/b9/262040_2A2fN.jpg",
   262049: "88/33/262049_79P71.jpg",
@@ -12749,6 +12754,7 @@ const bgm_covers = {
   492808: "74/98/492808_gXR3L.jpg",
   492897: "fa/82/492897_VTFIs.jpg",
   493059: "30/54/493059_0fX8N.jpg",
+  493495: "34/ef/493495_Yy7T7.jpg",
   493548: "b0/b7/493548_l3wL9.jpg",
   493555: "d2/f2/493555_7P5pS.jpg",
   493587: "55/7f/493587_5hh22.jpg",
