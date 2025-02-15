@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.2.14.515
+// @version     2025.2.16.31
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12453,6 +12453,7 @@ const bgm_tags = {
   458227: "漫画|国漫|小说改|条漫|网文改|2020",
   458544: "PC|独立游戏|SLG|游戏",
   458716: "2020|漫画|战斗|异世界",
+  458722: "漫画|画集",
   458747: "日常|国漫|中国",
   458898: "画集|百合|BUNBUN|结城友奈是勇者|2024",
   458986: "",
@@ -12767,6 +12768,7 @@ const bgm_tags = {
   495060: "",
   495135: "Galgame|同人|田中ロミオ|全年龄|FD|短篇|厨力|汉化|2024|ADV|剧情",
   495523: "",
+  496150: "Galgame|方糖社|海豹社|废萌|兽耳|萌木原ふみたけ|萌木原|あざらしそふと|保桜|ADV",
   496373: "AVG|全年龄|哲学|STEAM|电波|唯美|Galgame|短篇|2024|PC|RPG",
   496381: "Windows|PC|Galgame|AVG|国产|游戏|Android|STEAM|GAL",
   496390: "",
