@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.2.20.516
+// @version     2025.2.21.516
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12969,6 +12969,7 @@ const bgm_tags = {
   529236: "Galgame|aromarie",
   529631: "",
   529681: "公式书|纸质书|日本|マイクロマガジン社|2025|GBC|東映アニメーション",
+  529743: "画集",
   530405: "漫画|中国",
   531113: "漫画",
   531231: "",
