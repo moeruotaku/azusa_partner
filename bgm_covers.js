@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.2.23.945
+// @version     2025.2.25.955
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -4923,6 +4923,7 @@ const bgm_covers = {
   134464: "68/7b/134464_C5xzX.jpg",
   134488: "e1/aa/134488_7iWwS.jpg",
   134536: "c4/42/134536_9U1iR.jpg",
+  134663: "df/72/134663_nqjxb.jpg",
   134684: "9e/af/134684_5cR7Z.jpg",
   134687: "41/7d/134687_Mx534.jpg",
   134712: "7b/5d/134712_3seSg.jpg",
@@ -5083,6 +5084,7 @@ const bgm_covers = {
   140659: "b7/f9/140659_44b8i.jpg",
   140678: "25/c2/140678_25l3M.jpg",
   140696: "b8/41/140696_RS697.jpg",
+  140704: "1e/dd/140704_RI4zY.jpg",
   140725: "f7/a4/140725_aqacq.jpg",
   140814: "7c/12/140814_4NOZ9.jpg",
   140896: "45/d6/140896_jp.jpg",
@@ -5104,6 +5106,7 @@ const bgm_covers = {
   141488: "f8/c7/141488_jp.jpg",
   141497: "19/5e/141497_ZbTKy.jpg",
   141536: "fd/4f/141536_PbpfX.jpg",
+  141549: "a8/f1/141549_79GHu.jpg",
   141572: "ba/39/141572_yxbW3.jpg",
   141689: "71/28/141689_jp.jpg",
   141753: "9b/41/141753_YpzzZ.jpg",
@@ -7228,6 +7231,7 @@ const bgm_covers = {
   215058: "bc/79/215058_jp.jpg",
   215068: "e7/0b/215068_LvfM6.jpg",
   215163: "9a/7b/215163_smuZm.jpg",
+  215198: "46/71/215198_1A9A1.jpg",
   215243: "5e/16/215243_oO5o5.jpg",
   215285: "bf/ec/215285_ZjsEP.jpg",
   215360: "bc/13/215360_A7dNq.jpg",
@@ -9797,6 +9801,7 @@ const bgm_covers = {
   314481: "f3/60/314481_X1oqt.jpg",
   314512: "d9/f3/314512_c21n6.jpg",
   314570: "03/ec/314570_14G5I.jpg",
+  314591: "7e/04/314591_b5Bt5.jpg",
   314605: "be/b8/314605_x05Ok.jpg",
   314632: "5f/fe/314632_NRsyW.jpg",
   314643: "73/9e/314643_uB86O.jpg",
@@ -9979,6 +9984,7 @@ const bgm_covers = {
   320981: "76/61/320981_Yn31S.jpg",
   321022: "b9/a3/321022_49ikK.jpg",
   321024: "63/5f/321024_LOzhK.jpg",
+  321062: "1f/46/321062_9IDL4.jpg",
   321064: "0d/2b/321064_FPhGM.jpg",
   321078: "1b/7a/321078_LXV6N.jpg",
   321080: "e9/6e/321080_D8ZLl.jpg",
@@ -10141,6 +10147,7 @@ const bgm_covers = {
   327145: "64/e4/327145_Q2VAT.jpg",
   327206: "de/fb/327206_iK800.jpg",
   327243: "83/c3/327243_n0nvi.jpg",
+  327286: "b0/8f/327286_S7E1V.jpg",
   327300: "5d/8a/327300_2K9ME.jpg",
   327301: "3b/af/327301_OW4Wd.jpg",
   327311: "3d/4c/327311_tzB8T.jpg",
