@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.3.698
+// @version     2025.3.4.755
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10660,6 +10660,7 @@ const bgm_tags = {
   347430: "PC|国产|Galgame|STEAM|AVG|全年龄|双叶组|兽耳|女仆|伪娘|游戏",
   347490: "Purplesoftware|Galgame|御影|紫社|克|秋野花|2021|小波すず|2021-12|GAL|PC",
   347533: "alicesoft|Galgame|非18禁|2008|兰斯|Ranceシリーズ|無料配布|FD|RPG|TBL|黄油",
+  347780: "Galgame|Qruppo|倉骨治人|监狱|2022|PC|搞笑|骨折王子|GAL|等汉化|R18",
   347844: "BLコミック|❤|笠倉出版社",
   347848: "漫画|轻小说改|恋爱|校园|小说改|2021|日本|一般向|日常|漫画系列|补标",
   347854: "漫画|恋爱|校园|辣妹|火野遥人|KADOKAWA|2021|日常|浪费作画|完结|没啥好看",
@@ -13012,6 +13013,7 @@ const bgm_tags = {
   535287: "漫画",
   535555: "",
   535564: "",
+  536088: "",
   536498: "日本|小说|轻小说|web文|2023",
   538228: "推理|漫画|中国"
 };
