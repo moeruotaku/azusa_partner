@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.5.553
+// @version     2025.3.6.559
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -7389,6 +7389,7 @@ const bgm_tags = {
   219948: "百合|轻小说|入間人間|入间人间|科幻|一卷全|小说|2017|フライ|2021|安達としまむら",
   219985: "FTG|BLAZBLUE|PS4|联动|STEAM|RWBY|夜下降生|NS|格斗游戏|PC",
   219993: "漫画|日常|恋爱|家庭|人妻|搞笑|稲葉光史|甜|小学馆|虐狗|擅长捉弄人的西片太太",
+  220090: "漫画|后宫|刀剑神域|恋爱|奇幻|日常|小说改|SAO|一般向",
   220103: "轻小说|MF文庫J|2017|日本轻小说|妹系|塀流通留|厕纸|修罗",
   220149: "Galgame|CRYSTALiA|椿|姐姐|王道系|幼驯染|朱雀院|大桥步夕|PC|2017|18+",
   220156: "Galgame|campus|るび様|纯爱|废萌|萝莉|拔作|汉化|18+|大小姐|PC",
