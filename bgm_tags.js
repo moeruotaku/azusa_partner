@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.8.1390
+// @version     2025.3.9.551
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12574,6 +12574,7 @@ const bgm_tags = {
   466846: "",
   466851: "BL漫画|BL|国漫",
   466904: "翻唱|WA2|白色相簿|galgame|COVER",
+  466924: "",
   466927: "画集|存盘|已购|白毛",
   467744: "",
   467805: "RPG|国产|模拟经营",
