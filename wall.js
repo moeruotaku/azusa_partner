@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.12.1396
+// @version     2025.3.12.1414
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -128,6 +128,7 @@
     bottom: 0;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
     width: calc(100% - 8px);
     padding: 4px;
     background-color: rgba(0, 0, 0, 0.5);
@@ -155,7 +156,7 @@
 
     table.parentNode.insertBefore(document.createElement('div'), table).outerHTML = `
 <div name="switch_view" style="display: flex; margin-bottom: 4px; color: #FFF; font-weight: bold">
-    <div style="padding: 4px; border: 1px solid #CCC; cursor: pointer" onclick="window.azusa_partner_wall('table')">表格</div>
+    <div style="padding: 4px; border: 1px solid #CCC; cursor: pointer" onclick="window.azusa_partner_wall('table')">列表</div>
     <div style="padding: 4px; border: 1px solid #CCC; cursor: pointer; margin-left: 4px" onclick="window.azusa_partner_wall('cards')">卡片</div>
 </div>`;
 
@@ -235,7 +236,7 @@
                     ${body.free || body.pins.length > 0 ? `<div class="card_free">${body.free ?? ''}${body.pins.join('') ?? ''}</div>` : ''}
                     ${body.bgm_score ? body.bgm_score : ''}
                     ${body.bgm_tags && body.bgm_tags.length > 0 ? `<div class="card_bgm_tags">${body.bgm_tags.map((e) => `<span>${e}</span>`).join('')}</div>` : ''}
-                    <div class="card_tags"><span style="background-color: ${cat_colors[body.cat]}; color: #FFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px">${cat_names[body.cat]}</span>${body.tags ? `${body.tags}` : ''}</div>
+                    <div class="card_tags"><a href="torrents.php?cat=${body.cat}"><span style="background-color: ${cat_colors[body.cat]}; color: #FFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px">${cat_names[body.cat]}</span></a>${body.tags ? `${body.tags}` : ''}</div>
                 </div>
                 <div class="card_title">
                     <div>${body.title}</div>
