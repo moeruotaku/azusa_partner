@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.12.1323
+// @version     2025.3.12.1396
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -40,6 +40,11 @@
     background-color: #F5F5F5;
     border-radius: 8px;
     box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.32), 0 3px 6px 0 rgba(0, 0, 0, 0.24), 0 5px 12px 4px rgba(0, 0, 0, 0.18);
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.64), 0 3px 6px 0 rgba(0, 0, 0, 0.48), 0 5px 12px 4px rgba(0, 0, 0, 0.36);
 }
 
 .card_cover {

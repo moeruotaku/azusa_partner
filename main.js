@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.12.1323
+// @version     2025.3.12.1396
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -115,7 +115,7 @@
             return [
                 n,
                 d,
-                (v2t(uv) - v2t(v) > 5 * 24 * 60 * 60 * 1000 || [1, 15].includes(new Date().getDate()) // 大于5天, 或每月1、15日
+                (v2t(uv) - v2t(v) > 5 * 24 * 60 * 60 * 1000 || [1, 16].includes(new Date().getDate()) // 大于5天, 或每月1、16日
                     ? get_version_data(fr).then(([fv, fd]) => ({ ...fd, version: fv }))
                     : get_version_data(ur).then(([uv, ud]) => ({ ...d, ...ud, version: uv }))
                 ).then((d) => {
