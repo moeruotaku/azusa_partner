@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.12.701
+// @version     2025.3.12.1284
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
 // @match       https://azusa.wiki/torrents.php*
 // @match       https://zimiao.icu/torrents.php*
 // @icon        https://bgm.tv/img/favicon.ico
+// @grant       unsafeWindow
 // @grant       GM_xmlhttpRequest
 // @connect     greasyfork.org
 // ==/UserScript==
@@ -51,7 +52,13 @@
             if (tds.length === 0) continue;
 
             let b_id = d.bgm_a2b?.[a_id];
-            if (!b_id) continue;
+            if (!b_id) {
+                let a_cover = d.azusa_covers?.[a_id];
+                if (a_cover) {
+                    set_html(add_cover, `<a href="https://azusa.wiki/details.php?id=${a_id}&hit=1" target="_blank"><img class="nexus-lazy-load preview" src="${a_cover}" style="max-width: 46px; max-height: 46px"></a>`);
+                }
+                continue;
+            }
 
             let b_cover = d.bgm_covers?.[b_id];
             if (b_cover) {
@@ -83,13 +90,14 @@
                 set_html(add_tags, `${bgm_icon(b_id, 'vertical-align: text-bottom')}${b_tags}`);
             }
         }
+        unsafeWindow.azusa_partner_callback?.(d);
     };
 
     let now = Date.now();
     let v2t = (v) => ((vs) => new Date(`${vs[0]}-${vs[1]}-${vs[2]}`).setMinutes(vs[3], 0, 0))(v.split('.').map((e) => parseInt(e, 10)));
-    let GM_fetch = (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText);
+    let GM_fetch = async (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText).catch((error) => { console.log('数据下载失败, 请将 greasyfork.org 加入代理访问名单:', url); throw error; });
     let get_version = async (url) => GM_fetch(url).then((text) => /^.*@version +([^\/]+)\/\/.*$/.exec(text.replace(/\n/g, ''))?.[1] || '');
-    let get_version_data = async (url) => GM_fetch(url).then((text) => ((r) => (r ? [r[1], JSON.parse(r[2].replace(/([0-9]+):/g, '"$1":'))] : ['', {}]))(/^.*@version +([^\/]+)\/\/.*const [\w]+ = (.*);$/.exec(text.replace(/\n/g, ''))));
+    let get_version_data = async (url) => GM_fetch(url).then((text) => ((r) => (r ? [r[1], JSON.parse(r[2].replace(/  ([0-9]+):/g, '"$1":'))] : ['', {}]))(/^.*@version +([^\/]+)\/\/.*const [\w]+ = (.*);$/.exec(text.replace(/\n/g, ''))));
     let refresh_data = async (n, uid, fid) => {
         let um = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.meta.js?_=${now}`;
         let ur = `https://update.greasyfork.org/scripts/${uid}/azusa_partner_library_${n}_updates.js?_=${now}`;
@@ -107,9 +115,9 @@
             return [
                 n,
                 d,
-                (v2t(uv) - v2t(v) <= 5 * 24 * 60 * 60 * 1000 //
-                    ? get_version_data(ur).then(([uv, ud]) => ({ ...d, ...ud, version: uv }))
-                    : get_version_data(fr).then(([fv, fd]) => ({ ...fd, version: fv }))
+                (v2t(uv) - v2t(v) > 5 * 24 * 60 * 60 * 1000 || [1, 15].includes(new Date().getDate()) // 大于5天, 或每月1、15日
+                    ? get_version_data(fr).then(([fv, fd]) => ({ ...fd, version: fv }))
+                    : get_version_data(ur).then(([uv, ud]) => ({ ...d, ...ud, version: uv }))
                 ).then((d) => {
                     localStorage.setItem(n, JSON.stringify(d));
                     return [n, d];
@@ -123,6 +131,7 @@
         refresh_data('bgm_covers', '519041', '517524'),
         refresh_data('bgm_scores', '519042', '517525'),
         refresh_data('bgm_tags', '519043', '517533'),
+        refresh_data('azusa_covers', '529557', '529556'),
     ]).then(async (rets) => {
         go(Object.fromEntries(rets.map(([n, d, p]) => [n, d])));
         if (rets.some(([n, d, p]) => p)) go(Object.fromEntries(await Promise.all(rets.map(([n, d, p]) => p ?? Promise.resolve([n, d])))));
