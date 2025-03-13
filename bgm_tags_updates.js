@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.655
+// @version     2025.3.13.739
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -79,6 +79,7 @@ const bgm_tags = {
   440060: "轻小说|后宫|恋爱|这不叫朋友|R15|几乎没有正常人系列|桃子|2023|小说|カクヨム|鏡遊",
   442535: "推理|长江俊和|小说|叙诡|悬疑",
   453901: "漫画|恋爱|党争|校园|五十嵐正邦|2023|搞笑|講談社|后宫|日常|午夜心旋律",
+  453951: "Galgame|ADV|2025|游戏|NS|PC|神椿",
   462533: "漫画|恋爱|战斗|杀手|黑暗|連載中|2024|大瀬戸陸|暴力|分镜爽|黑道",
   466924: "",
   470276: "falcom|轨迹系列|JRPG|RPG|PS5|法老控|PC|PS4|游戏|2024-09|2024",

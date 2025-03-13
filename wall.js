@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.655
+// @version     2025.3.13.739
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -238,7 +238,7 @@
                     <a class="card_image" href="${body.href}">${body.cover ? `<img class="nexus-lazy-load preview" src="${body.cover}" />` : `<div style="width: ${card_width}px; height: ${card_height}px"></div>`}</a>
                     ${body.bgm_tags && body.bgm_tags.length > 0 ? `<div class="card_bgm_tags">${body.bgm_tags.map((e) => `<span>${e}</span>`).join('')}</div>` : ''}
                     ${body.bgm_score ? body.bgm_score : ''}
-                    ${body.free || body.pins.length > 0 ? `<div class="card_free">${body.free ?? ''}${body.pins.join('') ?? ''}</div>` : ''}
+                    ${body.free || body.pins.length > 0 ? `<div class="card_free">${body.free ?? ''}${body.pins.join('')}</div>` : ''}
                     <div class="card_tags"><a href="torrents.php?cat=${body.cat}"><span style="background-color: ${cat_colors[body.cat]}; color: #FFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px; pointer-events: auto">${cat_names[body.cat]}</span></a>${body.tags ? `${body.tags}` : ''}</div>
                 </div>
                 <div class="card_title">

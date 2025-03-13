@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.655
+// @version     2025.3.13.739
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12440,6 +12440,7 @@ const bgm_tags = {
   453817: "国漫|玄幻",
   453872: "中國",
   453901: "漫画|恋爱|党争|校园|五十嵐正邦|2023|搞笑|講談社|后宫|日常|午夜心旋律",
+  453951: "Galgame|ADV|2025|游戏|NS|PC|神椿",
   453954: "MUG|2024|音游|PC|神椿|手游|iOS|PS5|游戏|管人",
   454047: "2024|SLG|养成|Switch|PC|PS5|美少女梦工厂|PS4|STEAM|游戏|NS",
   454080: "画集|设定集",
