@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.942
+// @version     2025.03.14.01
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -18,6 +18,8 @@
 
     let table = document.getElementsByClassName('torrents')[0];
     if (!table) return;
+
+    unsafeWindow = unsafeWindow ?? window;
 
     // 扩宽页面。如果不需要该功能，请删除或注释掉这段代码。
     // let mainouter = document.getElementsByClassName('mainouter')[0];
@@ -97,7 +99,7 @@
     };
 
     let now = Date.now();
-    let v2t = (v) => ((vs) => new Date(`${vs[0]}-${vs[1]}-${vs[2]}`).setMinutes(vs[3], 0, 0))(v.split('.').map((e) => parseInt(e, 10)));
+    let v2t = (v) => ((vs) => new Date(`${vs[0]}-${vs[1]}-${vs[2]}`).setHours(parseFloat('0.' + vs[3]) * 24, 0, 0))(v.split('.'));
     let GM_fetch = async (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText).catch((error) => { console.log('数据下载失败, 请将 greasyfork.org 加入代理访问名单:', url); throw error; });
     let get_version = async (url) => GM_fetch(url).then((text) => /^.*@version +([^\/]+)\/\/.*$/.exec(text.replace(/\n/g, ''))?.[1] || '');
     let get_version_data = async (url) => GM_fetch(url).then((text) => ((r) => (r ? [r[1], JSON.parse(r[2].replace(/  ([0-9]+):/g, '"$1":'))] : ['', {}]))(/^.*@version +([^\/]+)\/\/.*const [\w]+ = (.*);$/.exec(text.replace(/\n/g, ''))));

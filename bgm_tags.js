@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.942
+// @version     2025.03.14.01
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12741,6 +12741,7 @@ const bgm_tags = {
   486235: "画集",
   486285: "画集",
   486415: "小说",
+  486611: "公式书",
   486643: "画集",
   486668: "画集",
   487409: "画集",

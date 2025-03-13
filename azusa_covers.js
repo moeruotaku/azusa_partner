@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.942
+// @version     2025.03.14.01
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3534,5 +3534,5 @@ const azusa_covers = {
   28349: "https://t.tutu.to/img/CXbje",
   28350: "https://t.tutu.to/img/CXxiM",
   28351: "https://t.tutu.to/img/CZvam",
-  28359: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2353340/header.jpg?t=1741791829"
+  28360: "//lain.bgm.tv/r/400/pic/cover/l/f7/f1/486611_whZzr.jpg"
 };
