@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.12.1414
+// @version     2025.3.13.508
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -43,8 +43,8 @@
 }
 
 .card:hover {
-    transform: translateY(-8px);
     box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.64), 0 3px 6px 0 rgba(0, 0, 0, 0.48), 0 5px 12px 4px rgba(0, 0, 0, 0.36);
+    transform: translateY(-4px);
 }
 
 .card_cover {
@@ -242,7 +242,7 @@
                     <div>${body.title}</div>
                     ${body.info ? `<div style="color: #555; font-size: 8pt">${body.info}</div>` : ''}
                 </div>
-                ${body.process ? body.process.outerHTML : '<div style="padding: 1px; margin-top: 2px; border: 1px solid #838383"><div style="width: 100%; height: 2px; background-color: white"></div></div>'}
+                ${body.process ? body.process.outerHTML : '<div style="padding: 1px; margin-top: 2px; border: 1px solid #F5F5F5"><div style="width: 100%; height: 2px; background-color: #AAA"></div></div>'}
                 <div class="card_footer"><span>${body.size}</span>${body.datetime}${body.buttons}<span style="color: green">↑${body.pt[0]}</span><span style="color: red">↓${body.pt[1]}</span><span>✓${body.pt[2]}</span></div>`;
 
             if (i < bodies.length - 1 && !body.pins.length !== !bodies[i + 1].pins.length) cards.appendChild(document.createElement('div')).outerHTML = `<div style="width: 100%; height: 2px; background-color: #AAA"></div>`;
