@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.578
+// @version     2025.3.13.655
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -69,6 +69,7 @@ const bgm_tags = {
   397789: "漫画|百合|偶像|芳文社|2022|漫画系列|FUZコミックス|系列|得能正太郎|连载中|マンガ",
   399753: "小说系列",
   401601: "小说系列|轻小说系列|龙傲天|青梅竹马|战斗|架空|白毛|轻小说|小说|七野りく",
+  401823: "STG|PC|上海アリス幻樂団|同人|打飞机|游戏|2024|金发教会",
   402768: "漫画系列|gal改|游戏改|漫画|2023|萝莉|治愈|机器人|末世",
   405739: "漫画|校园|恋爱|爱情|漫画系列|みいみつき|一迅社|日常|搞笑|2022",
   410317: "轻小说|恋爱|青春|水鏡月聖|轻厉|角川スニーカー文庫|小说|sin|小说系列|ぽりごん|2023",

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.3.13.578
+// @version     2025.3.13.655
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -74,18 +74,25 @@
     object-position: center;
 }
 
-.card_free {
+.card_bgm_tags {
     position: absolute;
     top: 0;
     left: 0;
+    right: 0;
+    bottom: 26px;
     display: flex;
-    line-height: 1;
-    background: rgba(255, 255, 255, 0.75);
-    border-radius: 8px 0 0 0;
+    flex-wrap: wrap;
+    align-content: flex-end;
 }
 
-.card_free img {
-    border-radius: 8px 0 0 0;
+.card_bgm_tags span {
+    display: none;
+    padding: 0 4px;
+    margin: 4px;
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.75);
+    border: 1px solid #CCC;
+    border-radius: 2px;
 }
 
 .card_bgm_score {
@@ -103,23 +110,18 @@
     border-radius: 50%;
 }
 
-.card_bgm_tags {
+.card_free {
     position: absolute;
+    top: 0;
     left: 0;
-    bottom: 26px;
     display: flex;
-    flex-wrap: wrap;
-    pointer-events: none;
+    line-height: 1;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 8px 0 0 0;
 }
 
-.card_bgm_tags span {
-    display: none;
-    padding: 0 4px;
-    margin: 4px;
-    color: #000;
-    background-color: rgba(255, 255, 255, 0.75);
-    border: 1px solid #CCC;
-    border-radius: 2px;
+.card_free img {
+    border-radius: 8px 0 0 0;
 }
 
 .card_tags {
@@ -132,6 +134,7 @@
     width: calc(100% - 8px);
     padding: 4px;
     background-color: rgba(0, 0, 0, 0.5);
+    pointer-events: none;
 }
 
 .card_tags span {
@@ -233,10 +236,10 @@
             card.innerHTML = `
                 <div class="card_cover">
                     <a class="card_image" href="${body.href}">${body.cover ? `<img class="nexus-lazy-load preview" src="${body.cover}" />` : `<div style="width: ${card_width}px; height: ${card_height}px"></div>`}</a>
-                    ${body.free || body.pins.length > 0 ? `<div class="card_free">${body.free ?? ''}${body.pins.join('') ?? ''}</div>` : ''}
-                    ${body.bgm_score ? body.bgm_score : ''}
                     ${body.bgm_tags && body.bgm_tags.length > 0 ? `<div class="card_bgm_tags">${body.bgm_tags.map((e) => `<span>${e}</span>`).join('')}</div>` : ''}
-                    <div class="card_tags"><a href="torrents.php?cat=${body.cat}"><span style="background-color: ${cat_colors[body.cat]}; color: #FFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px">${cat_names[body.cat]}</span></a>${body.tags ? `${body.tags}` : ''}</div>
+                    ${body.bgm_score ? body.bgm_score : ''}
+                    ${body.free || body.pins.length > 0 ? `<div class="card_free">${body.free ?? ''}${body.pins.join('') ?? ''}</div>` : ''}
+                    <div class="card_tags"><a href="torrents.php?cat=${body.cat}"><span style="background-color: ${cat_colors[body.cat]}; color: #FFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px; pointer-events: auto">${cat_names[body.cat]}</span></a>${body.tags ? `${body.tags}` : ''}</div>
                 </div>
                 <div class="card_title">
                     <div>${body.title}</div>
