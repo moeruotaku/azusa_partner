@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.36
+// @version     2025.03.14.46
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -62,6 +62,7 @@ const bgm_tags = {
   401823: "STG|PC|上海アリス幻樂団|同人|打飞机|游戏|2024|金发教会",
   405739: "漫画|校园|恋爱|爱情|漫画系列|みいみつき|一迅社|日常|搞笑|2022",
   410317: "轻小说|恋爱|青春|水鏡月聖|轻厉|角川スニーカー文庫|小说|sin|小说系列|ぽりごん|2023",
+  414171: "漫画|异世界|母系|后宫|奇幻|R18|久遠まこと|搞笑|整活|石のやっさん|日本",
   416714: "Cygames|FTG|PC|格斗|2023|PS5|碧蓝幻想|STEAM|PS4|多人",
   418615: "轻小说|恋爱|色情|あきらあかつき|2022|角川スニーカー文庫|现代|日本|小说|系列",
   420815: "漫画|日常|7.3|同人合集",
