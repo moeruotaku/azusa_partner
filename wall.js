@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.65
+// @version     2025.03.14.68
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -19,6 +19,9 @@
 
     unsafeWindow = unsafeWindow ?? window;
 
+    let cn = 'azusa_partner_wall_card'; // class namme
+    let loading = 'https://s3.bmp.ovh/imgs/2025/03/14/8cf23d2cdb203b6f.gif';
+
     let buttons = document.querySelector('.azusa_partner_wall_buttons');
     if (!buttons) (buttons = table.parentNode.insertBefore(document.createElement('div'), table)).style['margin-bottom'] = '4px';
     buttons.innerHTML = `
@@ -26,9 +29,9 @@
 <div style="display: inline-block; padding: 4px; color: #FFFFFF; border: 1px solid #CCCCCC; font-weight: bold; cursor: pointer" onclick="window.azusa_partner_wall_set_view('cards')">卡片</div>
 `;
 
-    let cards = document.querySelector('.azusa_partner_wall_cards');
-    if (!cards) (cards = table.parentNode.insertBefore(document.createElement('div'), table)).className = 'azusa_partner_wall_cards';
-    cards.innerHTML = '<img src="https://s3.bmp.ovh/imgs/2025/03/14/8cf23d2cdb203b6f.gif" />';
+    let cards = document.querySelector(`.${cn}s`);
+    if (!cards) (cards = table.parentNode.insertBefore(document.createElement('div'), table)).className = `${cn}s`;
+    cards.innerHTML = `<img src="${loading}" />`;
 
     let load_settings = () => JSON.parse(localStorage.getItem('azusa_partner') || '{}');
     let save_settings = (k, v) => localStorage.setItem('azusa_partner', JSON.stringify({ ...load_settings(), [k]: v }));
@@ -57,36 +60,37 @@
     border: 1px solid #000000;
 }
 
-.azusa_partner_wall_cards {
+.${cn}s {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
-.azusa_partner_wall_card {
+.${cn} {
     display: flex;
     flex-direction: column;
     width: ${card_width}px;
     margin: 8px;
+    overflow: hidden;
     background-color: #F5F5F5;
     border-radius: 8px;
     box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.32), 0 3px 6px 0 rgba(0, 0, 0, 0.24), 0 5px 12px 4px rgba(0, 0, 0, 0.18);
 }
 
-.azusa_partner_wall_card:hover {
+.${cn}:hover {
     box-shadow: 0 1px 2px -2px rgba(0, 0, 0, 0.64), 0 3px 6px 0 rgba(0, 0, 0, 0.48), 0 5px 12px 4px rgba(0, 0, 0, 0.36);
     transform: translateY(-4px);
 }
 
-.azusa_partner_wall_card_cover {
+.${cn}_cover {
     position: relative;
 }
 
-.azusa_partner_wall_card_cover:hover .azusa_partner_wall_card_bgm_tags span {
+.${cn}_cover:hover .${cn}_mask_middle span {
     display: initial;
 }
 
-.azusa_partner_wall_card_image {
+.${cn}_image {
     position: relative;
     display: flex;
     justify-content: center;
@@ -95,28 +99,67 @@
     height: ${card_height}px;
     overflow: hidden;
     background-color: #CCCCCC;
-    border-radius: 8px 8px 0 0;
+    background-image: url('${loading}');
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
-.azusa_partner_wall_card_image img {
+.${cn}_image img {
     width: auto;
     height: 100%;
     object-fit: cover;
     object-position: center;
 }
 
-.azusa_partner_wall_card_bgm_tags {
+.${cn}_mask {
+    display: flex;
+    flex-direction: column;
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-    bottom: 26px;
+    bottom: 0;
+    pointer-events: none;
+}
+
+.${cn}_mask_top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    pointer-events: auto;
+}
+
+.${cn}_mask_top_left {
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 1;
+}
+
+.${cn}_mask_top_left > div{
+    background: rgba(255, 255, 255, 0.75);
+}
+
+.${cn}_mask_top_right {
+    width: 24px;
+    height: 24px;
+    padding: 4px;
+    text-align: center;
+    font-size: 18px;
+    color: #E800A4 !important;
+    background-color: rgba(255, 255, 255, 0.75);
+    border: 2px solid #E800A4;
+    border-radius: 50%;
+}
+
+.${cn}_mask_middle {
+    flex-grow: 1;
     display: flex;
     flex-wrap: wrap;
     align-content: flex-end;
+    pointer-events: auto;
 }
 
-.azusa_partner_wall_card_bgm_tags span {
+.${cn}_mask_middle span {
     display: none;
     padding: 0 4px;
     margin: 4px;
@@ -126,53 +169,20 @@
     border-radius: 2px;
 }
 
-.azusa_partner_wall_card_bgm_score {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 24px;
-    height: 24px;
-    padding: 4px;
-    text-align: center;
-    font-size: 18px;
-    color: #E800A4;
-    background-color: rgba(255, 255, 255, 0.75);
-    border: 2px solid #E800A4;
-    border-radius: 50%;
-}
-
-.azusa_partner_wall_card_pins {
-    position: absolute;
-    top: 0;
-    left: 0;
-    display: flex;
-    line-height: 1;
-    background: rgba(255, 255, 255, 0.75);
-    border-radius: 8px 0 0 0;
-}
-
-.azusa_partner_wall_card_pins img {
-    border-radius: 8px 0 0 0;
-}
-
-.azusa_partner_wall_card_tags {
-    position: absolute;
-    left: 0;
-    bottom: 0;
+.${cn}_mask_bottom {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     width: calc(100% - 8px);
     padding: 4px;
     background-color: rgba(0, 0, 0, 0.5);
-    pointer-events: none;
 }
 
-.azusa_partner_wall_card_tags span {
+.${cn}_mask_bottom span {
     border-radius: 2px !important;
 }
 
-.azusa_partner_wall_card_title {
+.${cn}_title {
     flex-grow: 1;
     display: flex;
     flex-direction: column;
@@ -181,7 +191,7 @@
     text-align: center;
 }
 
-.azusa_partner_wall_card_footer {
+.${cn}_footer {
     display: flex;
     justify-content: space-evenly;
     font-family: auto;
@@ -210,7 +220,7 @@
                     o.bgm_tags = o.bgm_tags ? o.bgm_tags.innerText.split('|').filter((e) => e.length) : [];
 
                     o.bgm_score = td.querySelector('td[name=score]');
-                    o.bgm_score = o.bgm_score ? `<a href="${o.bgm_score.querySelector('a')?.href || '#'}"><div class="azusa_partner_wall_card_bgm_score">${o.bgm_score.innerText === 'N/A' ? '-' : o.bgm_score.innerText}</div></a>` : '';
+                    o.bgm_score = o.bgm_score ? `<a class="${cn}_mask_top_right" href="${o.bgm_score.querySelector('a')?.href || '#'}" title="评分">${o.bgm_score.innerText === 'N/A' ? '-' : o.bgm_score.innerText}</a>` : '';
 
                     let titles = Array.from(td.querySelector('td').childNodes);
                     let ai = titles.findIndex((e) => e.tagName === 'A');
@@ -225,7 +235,7 @@
                 } else if (headers[i] === '评论数') o.comment = td.innerHTML;
                 else if (headers[i] === '存活时间') o.datetime = td.innerHTML.replace(/<br>/g, '');
                 else if (headers[i] === '大小') o.size = td.innerText.replace(/\n/g, ' ');
-                else if (headers[i] === '种子数/下载数/完成数') o.pt = td.innerText.split(' / ');
+                else if (headers[i] === '种子数/下载数/完成数') o.pt = td.innerHTML.replace(/<\/?b>/g, '').split(' / ');
                 return td.innerHTML;
             });
             return o;
@@ -235,20 +245,24 @@
 
         bodies.forEach((body, i) => {
             cards.appendChild(document.createElement('div')).outerHTML = `
-<div class="azusa_partner_wall_card">
-    <div class="azusa_partner_wall_card_cover">
-        <a class="azusa_partner_wall_card_image" href="${body.href}">${body.cover ? `<img class="nexus-lazy-load preview" src="${body.cover}" />` : `<div style="width: ${card_width}px; height: ${card_height}px"></div>`}</a>
-        <div class="azusa_partner_wall_card_bgm_tags">${body.bgm_tags.map((e) => `<span>${e}</span>`).join('')}</div>
-        ${body.bgm_score}
-        <div class="azusa_partner_wall_card_pins">${body.free}${body.pins.join('')}</div>
-        <div class="azusa_partner_wall_card_tags"><a href="torrents.php?cat=${body.cat}"><span style="background-color: ${cat_colors[body.cat]}; color: #FFFFFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px; pointer-events: auto">${cat_names[body.cat]}</span></a>${body.tags}</div>
+<div class="${cn}">
+    <div class="${cn}_cover">
+        <a class="${cn}_image" href="${body.href}">${body.cover ? `<img class="nexus-lazy-load preview" src="${body.cover}" />` : `<div style="width: ${card_width}px; height: ${card_height}px"></div>`}</a>
+        <div class="${cn}_mask">
+            <div class="${cn}_mask_top">
+                <div class="${cn}_mask_top_left"><div>${body.free}</div><div>${body.pins.join('')}</div></div>
+                ${body.bgm_score}
+            </div>
+            <a class="${cn}_mask_middle" href="${body.href}">${body.bgm_tags.map((e) => `<span>${e}</span>`).join('')}</a>
+            <div class="${cn}_mask_bottom"><a href="torrents.php?cat=${body.cat}"><span style="background-color: ${cat_colors[body.cat]}; color: #FFFFFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px; pointer-events: auto">${cat_names[body.cat]}</span></a>${body.tags}</div>
+        </div>
     </div>
-    <div class="azusa_partner_wall_card_title">
+    <div class="${cn}_title">
         ${body.title}
         ${body.info ? `<div style="color: #555555; font-size: 8pt">${body.info}</div>` : ''}
     </div>
     ${body.process?.outerHTML ?? '<div style="padding: 1px; margin-top: 2px; border: 1px solid #F5F5F5"><div style="width: 100%; height: 2px; background-color: #AAAAAA"></div></div>'}
-    <div class="azusa_partner_wall_card_footer">
+    <div class="${cn}_footer">
         <span style="color: blue">${body.size}</span>${body.datetime}${body.buttons}<span style="color: green">↑${body.pt[0]}</span><span style="color: red">↓${body.pt[1]}</span><span>✓${body.pt[2]}</span>
     </div>
 </div>
