@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.46
+// @version     2025.03.14.47
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -28,7 +28,7 @@
 
     let cards = document.querySelector('.azusa_partner_wall_cards');
     if (!cards) (cards = table.parentNode.insertBefore(document.createElement('div'), table)).className = 'azusa_partner_wall_cards';
-    cards.innerHTML = '<img src="https://media.tenor.com/5StiWpbuWx8AAAAj/東方-少女讀取中.gif" />';
+    cards.innerHTML = '<img src="https://s3.bmp.ovh/imgs/2025/03/14/8cf23d2cdb203b6f.gif" />';
 
     let load_settings = () => JSON.parse(localStorage.getItem('azusa_partner') || '{}');
     let save_settings = (k, v) => localStorage.setItem('azusa_partner', JSON.stringify({ ...load_settings(), [k]: v }));

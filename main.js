@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.46
+// @version     2025.03.14.47
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -16,14 +16,14 @@
 (function () {
     'use strict';
 
-    let table = document.getElementsByClassName('torrents')[0];
+    let table = document.querySelector('.torrents');
     if (!table) return;
 
     unsafeWindow = unsafeWindow ?? window;
 
     // 扩宽页面。如果不需要该功能，请删除或注释掉这段代码。
-    // let mainouter = document.getElementsByClassName('mainouter')[0];
-    // let main = document.getElementsByClassName('main')[0];
+    // let mainouter = document.querySelector('.mainouter');
+    // let main = document.querySelector('.main');
     // if (mainouter && main && mainouter.parentNode.offsetWidth - mainouter.clientWidth > 600) main.width = (parseInt(main.width, 10) + 400).toString();
 
     let set_html = (e, h) => e.innerHTML === h || (e.innerHTML = h);
