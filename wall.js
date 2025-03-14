@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.68
+// @version     2025.03.14.95
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -27,6 +27,7 @@
     buttons.innerHTML = `
 <div style="display: inline-block; padding: 4px; color: #FFFFFF; border: 1px solid #CCCCCC; font-weight: bold; cursor: pointer" onclick="window.azusa_partner_wall_set_view('table')">列表</div>
 <div style="display: inline-block; padding: 4px; color: #FFFFFF; border: 1px solid #CCCCCC; font-weight: bold; cursor: pointer" onclick="window.azusa_partner_wall_set_view('cards')">卡片</div>
+<div name="azusa_partner_info" style="display: inline-block; font-size: 8pt; filter: opacity(0.2)"></div>
 `;
 
     let cards = document.querySelector(`.${cn}s`);
@@ -47,7 +48,9 @@
     if (!unsafeWindow.azusa_partner_wall_css) unsafeWindow.azusa_partner_wall_css = new CSSStyleSheet();
     if (!document.adoptedStyleSheets.includes(unsafeWindow.azusa_partner_wall_css)) document.adoptedStyleSheets.push(unsafeWindow.azusa_partner_wall_css);
 
-    unsafeWindow.azusa_partner_callback = () => {
+    unsafeWindow.azusa_partner_callback = (data, info) => {
+        document.querySelector('div[name=azusa_partner_info]').innerHTML = info;
+        if (!data?.bgm_a2b?.version) return;
         let count = Math.floor(table.parentNode.clientWidth / 220);
         let card_width = Math.floor(table.parentNode.clientWidth / count) - 16;
         let card_height = Math.round(card_width * 1.5);
@@ -211,7 +214,7 @@
                 else if (headers[i] === '类型') o.cat = td.querySelector('a')?.href?.replace(/^.*cat=([^&]+).*$/, '$1');
                 else if (headers[i] === '封面') o.cover = td.querySelector('img')?.src;
                 else if (headers[i] === '标题') {
-                    o.href = td.querySelector('a')?.href;
+                    o.href = td.querySelector('a')?.href || '#';
 
                     o.process = td.querySelector('td>div:last-child');
                     if (!o.process || o.process.getAttribute('name') === 'tags' || o.process.tagName === 'SPAN') o.process = undefined;
@@ -230,7 +233,7 @@
                     o.title = titles.slice(ai)[0].outerHTML;
                     o.free = ii !== -1 ? titles.slice(ai + ii, ai + ii + 3).map((e) => e.outerHTML).join('') : '';
                     o.tags = titles.slice(bi).filter((e) => e.tagName === 'SPAN').map((e) => e.outerHTML).join('');
-                    o.info = titles.slice(bi).find((e) => e.nodeType === 3)?.textContent || '';
+                    o.info = titles.slice(bi).find((e) => e.nodeType === 3)?.textContent ?? '';
                     o.buttons = Array.from(td.querySelector('td:last-child').querySelectorAll('a')).map((e) => e.outerHTML).join('');
                 } else if (headers[i] === '评论数') o.comment = td.innerHTML;
                 else if (headers[i] === '存活时间') o.datetime = td.innerHTML.replace(/<br>/g, '');
@@ -254,7 +257,7 @@
                 ${body.bgm_score}
             </div>
             <a class="${cn}_mask_middle" href="${body.href}">${body.bgm_tags.map((e) => `<span>${e}</span>`).join('')}</a>
-            <div class="${cn}_mask_bottom"><a href="torrents.php?cat=${body.cat}"><span style="background-color: ${cat_colors[body.cat]}; color: #FFFFFF; border-radius: 0; font-size:12px; margin: 0 4px 0 0; padding: 1px 2px; pointer-events: auto">${cat_names[body.cat]}</span></a>${body.tags}</div>
+            <div class="${cn}_mask_bottom"><a href="torrents.php?cat=${body.cat}"><span style="background-color:${cat_colors[body.cat] ?? '#CCCCCC'};color:#FFFFFF;border-radius:0;font-size:12px;margin:0 4px 0 0;padding:1px 2px;pointer-events:auto">${cat_names[body.cat] ?? ''}</span></a>${body.tags}</div>
         </div>
     </div>
     <div class="${cn}_title">

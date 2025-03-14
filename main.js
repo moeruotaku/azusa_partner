@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.68
+// @version     2025.03.14.95
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -21,14 +21,17 @@
 
     unsafeWindow = unsafeWindow ?? window;
 
+    let first_info = ' 首次加载将花费较长时间，请耐心等待。。。';
+    let error_info = ' 无法访问数据，请尝试把 greasyfork.org 加入到科学上网列表，并刷新页面。';
+
     // 扩宽页面。如果不需要该功能，请删除或注释掉这段代码。
     // let mainouter = document.querySelector('.mainouter');
     // let main = document.querySelector('.main');
     // if (mainouter && main && mainouter.parentNode.offsetWidth - mainouter.clientWidth > 600) main.width = (parseInt(main.width, 10) + 400).toString();
 
     let set_html = (e, h) => e.innerHTML === h || (e.innerHTML = h);
-    let bgm_icon = (b_id, style) => `<a href="https://bgm.tv/subject/${b_id}" target="_blank"><div style="display: inline-block; background-image: url('https://bgm.tv/img/favicon.ico'); background-repeat: no-repeat; background-position: 0 -4px; width: 16px; height: 12px; ${style}"></div></a>`;
-    let go = (d) => {
+    let bgm_icon = (s) => `<div style="display: inline-block; background-image: url('https://bgm.tv/img/favicon.ico'); background-repeat: no-repeat; background-position: 0 -4px; width: 16px; height: 12px${s}"></div>`;
+    let go = async (d, info) => {
         let torrents = Array.from(document.querySelectorAll('.torrents > tbody > tr'));
         for (let i = 0; i < torrents.length; ++i) {
             let tr = torrents[i];
@@ -80,7 +83,7 @@
                     add_score.style.width = '20px';
                     tds[tds.length - 1].parentNode.insertBefore(add_score, tds[tds.length - 1]); // 添加评分。如果不需要该功能，请删除或注释掉这行代码。
                 }
-                set_html(add_score, `${bgm_icon(b_id, 'margin: 0px 2px 2px 2px')}<div style="padding-top: 4px; text-align: center">${b_score > 0 ? b_score.toFixed(1) : 'N/A'}</div>`);
+                set_html(add_score, `<a href="https://bgm.tv/subject/${b_id}" target="_blank">${bgm_icon('; margin: 0px 2px 2px 2px')}</a><div style="padding-top: 4px; text-align: center">${b_score > 0 ? b_score.toFixed(1) : 'N/A'}</div>`);
             }
 
             let b_tags = d.bgm_tags?.[b_id];
@@ -92,15 +95,19 @@
                     let td_status = tds[0].querySelector('div');
                     td_status ? tds[0].insertBefore(add_tags, td_status) : tds[0].append(add_tags); // 添加标签。如果不需要该功能，请删除或注释掉这行代码。
                 }
-                set_html(add_tags, `${bgm_icon(b_id, 'vertical-align: text-bottom')}${b_tags}`);
+                set_html(add_tags, `<a href="https://bgm.tv/subject/${b_id}" target="_blank">${bgm_icon('; vertical-align: text-bottom')}</a>${b_tags}`);
             }
         }
-        unsafeWindow.azusa_partner_callback?.(d);
+
+        for (let i = 0; i < 10; ++i) {
+            if (!unsafeWindow.azusa_partner_callback) await new Promise((r) => setTimeout(r, 200));
+            else { unsafeWindow.azusa_partner_callback?.(d, info ? bgm_icon('; vertical-align: text-bottom') + info : ''); break; }
+        }
     };
 
     let now = Date.now();
     let v2t = (v) => ((vs) => new Date(`${vs[0]}-${vs[1]}-${vs[2]}`).setHours(parseFloat('0.' + vs[3]) * 24, 0, 0))(v.split('.'));
-    let GM_fetch = async (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText).catch((error) => { console.log('数据下载失败, 请将 greasyfork.org 加入代理访问名单:', url); throw error; });
+    let GM_fetch = async (url) => new Promise((resolve, reject) => GM_xmlhttpRequest({ method: 'GET', url, onload: resolve, onerror: reject })).then((response) => response.responseText).catch((error) => { throw new Error(`${error_info}当前数据地址：${url}`); });
     let get_version = async (url) => GM_fetch(url).then((text) => /^.*@version +([^\/]+)\/\/.*$/.exec(text.replace(/\n/g, ''))?.[1] || '');
     let get_version_data = async (url) => GM_fetch(url).then((text) => ((r) => (r ? [r[1], JSON.parse(r[2].replace(/  ([0-9]+):/g, '"$1":'))] : ['', {}]))(/^.*@version +([^\/]+)\/\/.*const [\w]+ = (.*);$/.exec(text.replace(/\n/g, ''))));
     let refresh_data = async (n, uid, fid) => {
@@ -109,26 +116,22 @@
         let fr = `https://update.greasyfork.org/scripts/${fid}/azusa_partner_library_${n}.js?_=${now}`;
         let d = JSON.parse(localStorage.getItem(n) || '{}');
         let v = d.version;
-        if (!v) {
-            let [fv, fd] = await get_version_data(fr);
-            fd.version = fv;
-            localStorage.setItem(n, JSON.stringify(fd));
-            return [n, fd];
-        } else {
-            let uv = await get_version(um);
-            if (uv === v) return [n, d];
-            return [
-                n,
-                d,
-                (v2t(uv) - v2t(v) > 5 * 24 * 60 * 60 * 1000 || [1, 16].includes(new Date().getDate()) // 大于5天, 或每月1、16日
-                    ? get_version_data(fr).then(([fv, fd]) => ({ ...fd, version: fv }))
-                    : get_version_data(ur).then(([uv, ud]) => ({ ...d, ...ud, version: uv }))
+        if (!v) return [n, d, get_version_data(fr).then(([fv, fd]) => { fd.version = fv; localStorage.setItem(n, JSON.stringify(fd)); return [n, fd]; })];
+        return [
+            n,
+            d,
+            get_version(um).then((uv) => {
+                if (uv === v) return [n, d];
+                return (
+                    v2t(uv) - v2t(v) > 5 * 24 * 60 * 60 * 1000 || [1, 16].includes(new Date().getDate()) // 大于5天, 或每月1、16日
+                        ? get_version_data(fr).then(([fv, fd]) => ({ ...fd, version: fv }))
+                        : get_version_data(ur).then(([uv, ud]) => ({ ...d, ...ud, version: uv }))
                 ).then((d) => {
                     localStorage.setItem(n, JSON.stringify(d));
                     return [n, d];
-                }),
-            ];
-        }
+                });
+            }),
+        ];
     };
 
     Promise.all([
@@ -137,10 +140,10 @@
         refresh_data('bgm_scores', '519042', '517525'),
         refresh_data('bgm_tags', '519043', '517533'),
         refresh_data('azusa_covers', '529557', '529556'),
-    ]).then(async (rets) => {
-        go(Object.fromEntries(rets.map(([n, d, p]) => [n, d])));
-        if (rets.some(([n, d, p]) => p)) go(Object.fromEntries(await Promise.all(rets.map(([n, d, p]) => p ?? Promise.resolve([n, d])))));
-    });
-
-    if (localStorage.hasOwnProperty('bgm_version')) localStorage.removeItem('bgm_version');
+    ])
+        .then((rets) => {
+            go(Object.fromEntries(rets.map(([n, d, p]) => [n, d])), !rets[0][1].version ? first_info : '');
+            return Promise.all(rets.map(([n, d, p]) => p)).then((rets) => go(Object.fromEntries(rets), ''));
+        })
+        .catch((error) => unsafeWindow.azusa_partner_callback?.({}, error.message));
 })();

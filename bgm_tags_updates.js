@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.68
+// @version     2025.03.14.95
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -75,5 +75,6 @@ const bgm_tags = {
   466924: "",
   470276: "falcom|轨迹系列|JRPG|RPG|PS5|法老控|PC|PS4|游戏|2024-09|2024",
   486611: "公式书",
+  519774: "",
   539883: ""
 };
