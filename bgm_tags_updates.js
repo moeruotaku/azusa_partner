@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.47
+// @version     2025.03.14.49
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -66,6 +66,7 @@ const bgm_tags = {
   416714: "Cygames|FTG|PC|格斗|2023|PS5|碧蓝幻想|STEAM|PS4|多人",
   418615: "轻小说|恋爱|色情|あきらあかつき|2022|角川スニーカー文庫|现代|日本|小说|系列",
   420815: "漫画|日常|7.3|同人合集",
+  437534: "Galgame|国产|全年龄|萝莉|致郁|AVG|2023|STEAM|Android|GAL|压抑",
   440060: "轻小说|后宫|恋爱|这不叫朋友|R15|几乎没有正常人系列|桃子|2023|小说|カクヨム|鏡遊",
   442535: "推理|长江俊和|小说|叙诡|悬疑",
   453901: "漫画|恋爱|党争|校园|五十嵐正邦|2023|搞笑|講談社|后宫|日常|午夜心旋律",
