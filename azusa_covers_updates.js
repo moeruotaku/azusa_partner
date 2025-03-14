@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.01
+// @version     2025.03.14.36
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -17,5 +17,5 @@ const azusa_covers = {
   28349: "https://t.tutu.to/img/CXbje",
   28350: "https://t.tutu.to/img/CXxiM",
   28351: "https://t.tutu.to/img/CZvam",
-  28360: "//lain.bgm.tv/r/400/pic/cover/l/f7/f1/486611_whZzr.jpg"
+  28364: "https://img.azusa.wiki/images/2025/03/14/cover.jpg"
 };

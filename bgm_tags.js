@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.01
+// @version     2025.03.14.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10028,6 +10028,7 @@ const bgm_tags = {
   322896: "漫画|板垣巴留|短篇|2021|全一巻|週刊漫画ゴラク|日本文芸社|爱情|PG|已完结|其他",
   322956: "Galgame|萝莉|废萌|わたくび|笹井さじ|汉化|短篇|荒岛|拔作|短小精悍|幼女",
   322968: "漫画|春場ねぎ|周刊少年magazine|奇幻|2021|週刊少年マガジン|講談社|战斗|讲谈社|連載中|漫画系列",
+  323040: "漫画|タヤマ碧|偶像|KPOP|2020|韩团|日本文化趋势观察|日本|新潮社|系列|原创",
   323124: "少女|漫画|漫画系列|七都サマコ",
   323154: "FAVORITE|Galgame|废萌|忍|夏和小|纯爱|ベコ太郎|魔法|高山大河|2021|2021-05",
   323156: "Galgame|戯画|丸戸史明|重制|纯爱|汉化|2021|GAL|里伽子|PC|丸户史明",
