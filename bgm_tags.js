@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.15.62
+// @version     2025.03.15.71
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13004,6 +13004,7 @@ const bgm_tags = {
   533058: "轻小说|主婦と生活社|小说|系列|2023|さくら青嵐",
   533235: "",
   533821: "漫画",
+  534639: "Galgame|PC|游戏|Windows|AVG|国产|全年龄|视觉小说|VN|百合",
   534727: "Galgame|纯爱|汉化|魔法少女|2025|iMel|变身|PC|萌拔|ADV|R18",
   534863: "漫画|美国",
   535285: "漫画|DC",
@@ -13012,6 +13013,7 @@ const bgm_tags = {
   535564: "",
   536088: "OST|ED|OP|galgame|2025",
   536498: "日本|小说|轻小说|web文|2023",
+  537756: "Galgame|PC|国产|巫女|无语音",
   538228: "漫画|推理|国漫|中国",
   539883: "",
   540361: "科幻|日本|少年|漫画|战斗|高达|已完结|机甲",

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.15.62
+// @version     2025.03.15.71
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -2263,7 +2263,6 @@ const azusa_covers = {
   20249: "https://img.azusa.wiki/images/2023/11/04/001_001.jpg",
   20254: "https://img.azusa.wiki/images/2023/11/05/Snipaste_2023-11-05_12-09-02.jpg",
   20281: "https://img.azusa.wiki/images/2023/11/07/001.png",
-  20282: "https://lain.bgm.tv/pic/cover/l/5e/a6/355327_ntz7u.jpg?_gl=1*waf6xm*_ga*NTkwOTM3MDEzLjE2NzU3NTEyNzY.*_ga_1109JLGMHN*MTY3NjA4MjU5NC4zMS4xLjE2NzYwODI2MDQuMC4wLjA.",
   20299: "https://img.azusa.wiki/images/2023/11/09/110.jpg",
   20300: "https://img.azusa.wiki/images/2023/11/09/92.jpg",
   20301: "https://img.azusa.wiki/images/2023/11/09/73.jpg",
@@ -3049,7 +3048,6 @@ const azusa_covers = {
   25165: "https://img.azusa.wiki/images/2024/08/06/cover3bc064ee9a2ad023.jpg",
   25166: "https://img.azusa.wiki/images/2024/08/06/coveredf2bb5dd1521c15.jpg",
   25168: "https://img.azusa.wiki/images/2024/08/06/cover23f9c7c976b9e8bc.jpg",
-  25171: "https://lain.bgm.tv/pic/cover/l/97/7f/40866_jp.jpg?_gl=1*7irll1*_ga*OTE0ODY0NTM3LjE3MDM5NDI2Mzg.*_ga_1109JLGMHN*MTcyMjkzMTIyOS4zNy4xLjE3MjI5MzEyNzYuMC4wLjA.",
   25206: "https://img.azusa.wiki/images/2024/08/06/coverfddfcd68ebca42e7.jpg",
   25207: "https://img.azusa.wiki/images/2024/08/06/cover83386e1beabbcf81.jpg",
   25208: "https://img.azusa.wiki/images/2024/08/06/cover0bb480a9322104ef.jpg",
@@ -3542,5 +3540,7 @@ const azusa_covers = {
   28349: "https://t.tutu.to/img/CXbje",
   28350: "https://t.tutu.to/img/CXxiM",
   28351: "https://t.tutu.to/img/CZvam",
-  28374: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3236000/header.jpg?t=1741878789"
+  28374: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3236000/header.jpg?t=1741878789",
+  28377: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3391150/header.jpg?t=1738034912",
+  28378: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3484860/header.jpg?t=1739521328"
 };
