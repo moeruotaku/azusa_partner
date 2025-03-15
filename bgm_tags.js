@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.95
+// @version     2025.03.15.61
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12949,6 +12949,7 @@ const bgm_tags = {
   514861: "漫画|国漫",
   514900: "百合",
   515385: "小说|轻小说|系列|小林湖底|2024",
+  515749: "轻小说|小说|日本|系列|ネコクロ",
   516074: "日本|漫画|原创|系列|已完结",
   516382: "画集|日本|存盘|個人画集",
   516981: "Windows|AVG|Galgame|PC|2024|R18",

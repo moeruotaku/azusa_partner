@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.14.95
+// @version     2025.03.15.61
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -238,7 +238,7 @@
                 } else if (headers[i] === '评论数') o.comment = td.innerHTML;
                 else if (headers[i] === '存活时间') o.datetime = td.innerHTML.replace(/<br>/g, '');
                 else if (headers[i] === '大小') o.size = td.innerText.replace(/\n/g, ' ');
-                else if (headers[i] === '种子数/下载数/完成数') o.pt = td.innerHTML.replace(/<\/?b>/g, '').split(' / ');
+                else if (headers[i] === '种子数/下载数/完成数') o.pt = td.innerHTML.replace(/<\/?b>/g, '').split(' / ').map((e, i) => e.replace(/(<a href="[^"]+">)?([0-9]+)(<\/a>)?/, `$1<span style="color: ${['green', 'red', 'black'][i]}">${['↑', '↓', '✓'][i]}$2<span>$3`)).join('');
                 return td.innerHTML;
             });
             return o;
@@ -266,7 +266,7 @@
     </div>
     ${body.process?.outerHTML ?? '<div style="padding: 1px; margin-top: 2px; border: 1px solid #F5F5F5"><div style="width: 100%; height: 2px; background-color: #AAAAAA"></div></div>'}
     <div class="${cn}_footer">
-        <span style="color: blue">${body.size}</span>${body.datetime}${body.buttons}<span style="color: green">↑${body.pt[0]}</span><span style="color: red">↓${body.pt[1]}</span><span>✓${body.pt[2]}</span>
+        <span style="color: blue">${body.size}</span>${body.datetime}${body.buttons}${body.pt}
     </div>
 </div>
 `;
