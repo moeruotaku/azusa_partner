@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.15.61
+// @version     2025.03.15.62
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -947,6 +947,7 @@ const azusa_covers = {
   11205: "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdmRsZWNtaUxTOGNrRXpSaGtwa01aNzllLWtP.png",
   11208: "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdmRsZWNtaUxTOGNrRTJSc0dZOEFTTTJCMkxq.png",
   11210: "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdmRsZWNtaUxTOGNrRS1aSS1yV05MZlBhSHRT.png",
+  11223: "https://lain.bgm.tv/r/400/pic/cover/l/9b/cc/355556_35cLV.jpg",
   11229: "https://img.pterclub.com/images/2023/01/15/001.jpg",
   11260: "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdmRsZWNtaUxTOGNrRmFZNU4xUTJlWFBtRGpJ.png",
   11261: "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdmRsZWNtaUxTOGNrRmRBYU01ZVczZVhNaHF4.png",
@@ -980,6 +981,7 @@ const azusa_covers = {
   11754: "https://www.tongli.com.tw/ComicImages/Images/HC1030/HC1030001/HC1030001.jpg",
   11784: "https://img.pterclub.com/images/2023/01/26/001.jpg",
   11786: "https://img.pterclub.com/images/2023/02/01/SC0993001.jpg",
+  11796: "https://p.sda1.dev/9/65862a8e533bf0caa758d3387058b47a/cover.jpg",
   11840: "https://img.pterclub.com/images/2023/02/04/X_01-001.jpg",
   11891: "https://p.sda1.dev/9/52c871f2dc284150e07e3e1871d9e26e/DD1.png",
   11906: "https://img.pterclub.com/images/2023/02/06/cover3be5ef90e89ac70b.jpg",
@@ -1731,6 +1733,7 @@ const azusa_covers = {
   17660: "https://pic.dmoe.in/imgdata/2023/08/10/d93d7cc593c47e50cbe41a8b714874e3.png",
   17671: "https://img.azusa.wiki/images/2023/08/10/01.jpg",
   17674: "https://img.azusa.wiki/images/2023/08/10/Digital-Artbook---CHS_01.jpg",
+  17675: "//lain.bgm.tv/r/400/pic/cover/l/97/b2/430956_bgc7i.jpg",
   17676: "https://img.azusa.wiki/images/2023/08/10/Design-Works_01.jpg",
   17679: "https://img.azusa.wiki/images/2023/08/10/Snipaste_.jpg",
   17683: "https://img.azusa.wiki/images/2023/08/10/001_cover_1.jpg",
@@ -1755,6 +1758,7 @@ const azusa_covers = {
   17743: "https://img.azusa.wiki/images/2023/08/11/00-1.jpg",
   17744: "https://img.azusa.wiki/images/2023/08/11/01.jpg",
   17745: "https://img.azusa.wiki/images/2023/08/11/s28817150.jpg",
+  17755: "https://img.azusa.wiki/images/2023/08/11/Snip.jpg",
   17756: "https://img.azusa.wiki/images/2023/08/11/Snipas2-55.jpg",
   17758: "https://img.azusa.wiki/images/2023/08/11/Snipaste_2hjk.jpg",
   17759: "https://img.azusa.wiki/images/2023/08/11/stxf.jpg",
@@ -2030,6 +2034,7 @@ const azusa_covers = {
   18765: "https://img.azusa.wiki/images/2023/09/09/image.png",
   18783: "https://img.azusa.wiki/images/2023/09/10/000A1.png",
   18784: "https://img.azusa.wiki/images/2023/09/10/1.md.png",
+  18806: "//lain.bgm.tv/r/400/pic/cover/l/0f/e6/332251_rGDJ3.jpg",
   18812: "https://img.azusa.wiki/images/2023/09/10/06.png",
   18833: "https://img.azusa.wiki/images/2023/09/11/cover.jpg",
   18834: "https://img.azusa.wiki/images/2023/09/11/coverbdb0270bb77d96b1.jpg",
@@ -2756,6 +2761,7 @@ const azusa_covers = {
   22973: "https://img.azusa.wiki/images/2024/05/09/001.png",
   22974: "https://img.azusa.wiki/images/2024/05/09/040031041424-1p.jpg",
   22983: "https://img95.pixhost.to/images/636/467184579_folder.jpg",
+  22988: "//lain.bgm.tv/r/400/pic/cover/l/e6/2d/450553_q2hXv.jpg",
   22997: "https://img.azusa.wiki/images/2024/05/10/01_c1.jpg",
   23005: "https://img95.pixhost.to/images/662/467441042_cover.jpg",
   23021: "https://img95.pixhost.to/images/685/467725888_cover.jpg",
@@ -2791,6 +2797,8 @@ const azusa_covers = {
   23389: "https://www.suruga-ya.jp/database/pics_light/game/185022042.jpg",
   23394: "https://img95.pixhost.to/images/1088/472643103_folder.jpg",
   23398: "https://taiwan-image.bookwalker.com.tw/product/79155/79155_1.jpg",
+  23419: "//lain.bgm.tv/r/400/pic/cover/l/a3/83/450538_30yEh.jpg",
+  23421: "//lain.bgm.tv/r/400/pic/cover/l/e4/50/450537_k92hz.jpg",
   23426: "https://taiwan-image.bookwalker.com.tw/product/26884/26884_1.jpg",
   23438: "https://taiwan-image.bookwalker.com.tw/product/51478/51478_1.jpg",
   23443: "https://img96.pixhost.to/images/32/473467274_cover.jpg",
@@ -3534,6 +3542,5 @@ const azusa_covers = {
   28349: "https://t.tutu.to/img/CXbje",
   28350: "https://t.tutu.to/img/CXxiM",
   28351: "https://t.tutu.to/img/CZvam",
-  28371: "//lain.bgm.tv/r/400/pic/cover/l/98/2c/515749_lPpU9.jpg",
   28374: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3236000/header.jpg?t=1741878789"
 };
