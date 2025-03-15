@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.15.91
+// @version     2025.03.16.01
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -61,9 +61,9 @@
 
             let b_id = data.bgm_a2b?.[a_id];
             if (!b_id) {
-                let a_cover = data.azusa_covers?.[a_id];
+                let a_cover = data.azusa_covers?.[a_id] ?? data.azusa_covers_realtime?.[a_id];
                 if (a_cover) {
-                    set_html(add_cover, `<a href="https://azusa.wiki/details.php?id=${a_id}&hit=1" target="_blank"><img class="nexus-lazy-load preview" src="${a_cover}" style="max-width: 46px; max-height: 46px"></a>`);
+                    set_html(add_cover, `<a href="/details.php?id=${a_id}&hit=1" target="_blank"><img class="nexus-lazy-load preview" src="${a_cover}" style="max-width: 46px; max-height: 46px"></a>`);
                 }
                 continue;
             }
@@ -133,6 +133,7 @@
             }),
         ];
     };
+    let azusa_covers_realtime = async (p) => GM_fetch(`/waterfall-ajax.php?page=${p}&incldead=1`).then((r) => Object.fromEntries(JSON.parse(r).torrents.map((e) => [e.id, e.cover])));
 
     Promise.all([
         refresh_data('bgm_a2b', '519040', '517523'), //
@@ -140,6 +141,7 @@
         refresh_data('bgm_scores', '519042', '517525'),
         refresh_data('bgm_tags', '519043', '517533'),
         refresh_data('azusa_covers', '529557', '529556'),
+        azusa_covers_realtime(1).then((res1) => ['azusa_covers_realtime', res1, azusa_covers_realtime(2).then((res2) => ['azusa_covers_realtime', { ...res1, ...res2 }])]),
     ])
         .then(async (rets) => {
             await go(Object.fromEntries(rets.map(([n, d, p]) => [n, d])), !rets[0][1].version ? first_info : '');
