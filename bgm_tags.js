@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.15.71
+// @version     2025.03.15.91
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10218,6 +10218,7 @@ const bgm_tags = {
   330644: "高达|漫画|科幻|2014|已完结|漫画系列|夏元雅人|全16卷",
   330659: "画集|藤真拓哉|已购",
   330859: "PC|生活模拟|SIM|2021|iOS|Switch|NS|街机|游戏|收集",
+  330888: "易次元|WEB|2019",
   330890: "漫画|漫画系列",
   330921: "漫画|搞笑|物理|国漫|科学超能方法论|中国",
   330940: "漫画|恋爱|高江洲弥|2020|KADOKAWA|漫画系列|治愈|日常|校园|系列|前线作战",
@@ -12858,6 +12859,7 @@ const bgm_tags = {
   503340: "",
   503398: "轻小说",
   503595: "科幻|漫画|国产|国漫|北巷",
+  504143: "国产|百合|Galgame|全年龄|PC|游戏|2024|VN",
   504239: "百合|国产|Galgame|PC|AVG|STEAM|游戏|全年龄|纯爱|GAL|短篇",
   504467: "PC|CG|Galgame|游戏|108|R18gal",
   504538: "PC|AVG|GAL|国产|Galgame|游戏|中国|STEAM|视觉小说",

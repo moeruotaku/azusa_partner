@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.15.71
+// @version     2025.03.15.91
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -22,12 +22,16 @@ const bgm_covers = {
   55911: "6f/a2/55911_n7jf7.jpg",
   103031: "e4/bb/103031_ny7I7.jpg",
   116464: "7a/4d/116464_L00pW.jpg",
+  121486: "b4/ac/121486_yXZkh.jpg",
   129028: "e5/05/129028_5t99Z.jpg",
+  212930: "4a/fd/212930_K4E9z.jpg",
+  222495: "45/2f/222495_OmDgv.jpg",
   235036: "3d/3a/235036_915DO.jpg",
   237342: "1b/d7/237342_72pgM.jpg",
   238996: "25/4b/238996_iEeEx.jpg",
   241026: "5b/8a/241026_Jj5Jl.jpg",
   241623: "65/f5/241623_PpQo4.jpg",
+  259667: "c5/6d/259667_nf0fY.jpg",
   271702: "d8/7d/271702_0D3WO.jpg",
   272351: "dd/3b/272351_l07i8.jpg",
   277772: "88/e8/277772_2xHDs.jpg",
@@ -38,6 +42,7 @@ const bgm_covers = {
   300431: "e8/6a/300431_YF3m4.jpg",
   302831: "ca/82/302831_8XZAx.jpg",
   303186: "35/b2/303186_oE6Bo.jpg",
+  306253: "90/bb/306253_twPRW.jpg",
   306906: "ab/3a/306906_apuf1.jpg",
   309218: "6e/d5/309218_MGfC8.jpg",
   312861: "5a/94/312861_X11mZ.jpg",
@@ -46,6 +51,7 @@ const bgm_covers = {
   323040: "22/b9/323040_UFK2I.jpg",
   323196: "33/64/323196_DKgp3.jpg",
   327737: "b2/ad/327737_PiHZm.jpg",
+  330888: "76/e5/330888_fnLzM.jpg",
   331225: "65/60/331225_NAwBE.jpg",
   332794: "b7/70/332794_cXMQg.jpg",
   336604: "c9/d9/336604_gXegp.jpg",
@@ -71,12 +77,14 @@ const bgm_covers = {
   437534: "01/bb/437534_4Arr5.jpg",
   440060: "78/84/440060_4453a.jpg",
   442535: "c8/97/442535_8KEzG.jpg",
+  445870: "5e/55/445870_tAomz.jpg",
   453951: "13/08/453951_iPIx5.jpg",
   457931: "48/ac/457931_SGPsu.jpg",
   464648: "3d/fc/464648_fLlL9.jpg",
   466924: "0e/98/466924_7ICjM.jpg",
   469394: "d5/5c/469394_c1Iz6.jpg",
   486611: "f7/f1/486611_whZzr.jpg",
+  504143: "63/73/504143_p9H7P.jpg",
   515749: "98/2c/515749_lPpU9.jpg",
   519774: "18/21/519774_33sr1.jpg",
   534639: "5a/60/534639_ZZQ1E.jpg",
