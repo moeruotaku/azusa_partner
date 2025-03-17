@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.16.53
+// @version     2025.03.17.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9501,6 +9501,7 @@ const bgm_tags = {
   304425: "himehina|2020|曲专|album|vtuber|专辑|日本|ヒメヒナ|2020年|2020年4月",
   304449: "轻小说|恋爱|多线结局|家出|福山陽士|已完结小说|小说系列|富士见|JK|2019|同居",
   304452: "漫画|小说改|异世界|战斗|奇幻|漫画系列|轻改|开挂无敌|弱智|2020|ヤングエースUP",
+  304487: "中国|漫画|唐家三少|美食|国漫|中国漫画|国产|奇幻|2015|原作是黄文|网文改",
   304542: "漫画|tomomi|猎奇|战斗|病娇|后宫|奇幻|校园|恋爱|日本漫画|漫画系列",
   304553: "百合|韩漫|漫画|韩国|复仇|主仆|条漫|恋爱|病弱|幼驯染|画风喜欢",
   304592: "",
