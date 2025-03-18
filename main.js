@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.17.36
+// @version     2025.03.18.82
 // @description add bgm info to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -22,7 +22,7 @@
     unsafeWindow = unsafeWindow ?? window;
 
     let first_info = '首次加载将花费较长时间，请耐心等待。。。';
-    let error_info = '无法访问数据，请尝试把 greasyfork.org 加入到科学上网列表，并刷新页面。';
+    let error_info = '无法访问数据，请刷新页面，或尝试把 greasyfork.org 加入到科学上网列表，再刷新页面。';
 
     // 扩宽页面。如果不需要该功能，请删除或注释掉这段代码。
     // let mainouter = document.querySelector('.mainouter');

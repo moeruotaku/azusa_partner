@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.17.36
+// @version     2025.03.18.82
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
@@ -25,8 +25,8 @@
     let buttons = document.querySelector('.azusa_partner_wall_buttons');
     if (!buttons) (buttons = table.parentNode.insertBefore(document.createElement('div'), table)).style['margin-bottom'] = '4px';
     buttons.innerHTML = `
-<div style="display: inline-block; padding: 4px; color: #FFFFFF; border: 1px solid #CCCCCC; font-weight: bold; cursor: pointer" onclick="window.azusa_partner_wall_set_view('table')">列表</div>
-<div style="display: inline-block; padding: 4px; color: #FFFFFF; border: 1px solid #CCCCCC; font-weight: bold; cursor: pointer" onclick="window.azusa_partner_wall_set_view('cards')">卡片</div>
+<div style="display: inline-block; padding: 4px; color: #FFFFFF; border: 1px solid #CCCCCC; border-radius: 4px; font-weight: bold; cursor: pointer" onclick="window.azusa_partner_wall_set_view('table')">列表</div>
+<div style="display: inline-block; padding: 4px; color: #FFFFFF; border: 1px solid #CCCCCC; border-radius: 4px; font-weight: bold; cursor: pointer" onclick="window.azusa_partner_wall_set_view('cards')">卡片</div>
 <div name="azusa_partner_info" style="display: inline-block; font-size: 8pt; filter: opacity(0.2)"></div>
 `;
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.17.36
+// @version     2025.03.18.82
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -5213,6 +5213,7 @@ const bgm_covers = {
   145237: "13/43/145237_SzwVe.jpg",
   145280: "69/b7/145280_VLX7j.jpg",
   145339: "dd/16/145339_Cfr9c.jpg",
+  145348: "17/ad/145348_oENB8.jpg",
   145351: "26/db/145351_jp.jpg",
   145357: "d3/27/145357_GEY91.jpg",
   145367: "21/96/145367_tbqUL.jpg",
@@ -12159,6 +12160,7 @@ const bgm_covers = {
   429391: "6b/45/429391_IdhXr.jpg",
   429513: "c5/e3/429513_64eae.jpg",
   429715: "85/d8/429715_fdcjH.jpg",
+  429771: "33/57/429771_RrRjL.jpg",
   429824: "a7/7a/429824_6e5ZP.jpg",
   429920: "ee/e4/429920_E2B7E.jpg",
   430007: "b1/de/430007_LDztz.jpg",
@@ -12372,6 +12374,7 @@ const bgm_covers = {
   446584: "29/41/446584_2lb7H.jpg",
   446755: "0a/c2/446755_X7udX.jpg",
   446826: "a1/20/446826_u3K9P.jpg",
+  447051: "3e/99/447051_E2gh2.jpg",
   447141: "77/7e/447141_xr2OO.jpg",
   447922: "e2/f3/447922_CCCID.jpg",
   447955: "15/9d/447955_pS3f8.jpg",
@@ -12517,6 +12520,7 @@ const bgm_covers = {
   461277: "53/e6/461277_XqXeQ.jpg",
   461321: "28/a5/461321_no556.jpg",
   461339: "27/af/461339_9sR01.jpg",
+  461443: "75/e2/461443_J7DXG.jpg",
   461715: "7f/4e/461715_98Nrk.jpg",
   461776: "c0/26/461776_silJm.jpg",
   461825: "5d/ae/461825_8WxjW.jpg",
@@ -12919,6 +12923,7 @@ const bgm_covers = {
   508186: "1e/fc/508186_J7pzb.jpg",
   508444: "e5/de/508444_P8qnA.jpg",
   509029: "48/31/509029_1mYgi.jpg",
+  509069: "8d/db/509069_f0Mf0.jpg",
   509226: "05/16/509226_4vY5V.jpg",
   509333: "19/11/509333_KQArA.jpg",
   509334: "4f/14/509334_DbdDl.jpg",
