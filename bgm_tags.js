@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.18.82
+// @version     2025.03.19.37
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10517,6 +10517,7 @@ const bgm_tags = {
   339525: "东方|模拟经营|同人|PC|STEAM|国产|2021|二色幽紫蝶|SIM|东方Project|模拟",
   339622: "漫画|手塚治虫|講談社|1978年",
   339643: "轻小说|奇幻|小说系列|爽文|龙傲天|后宫",
+  339644: "百合|漫画|欢乐|漫画系列|治愈|恋爱|日常|2021|パデラポッロのりお",
   339653: "轻小说|小说系列|灾难|分镜优秀",
   339714: "百合|漫画|一迅社|合集|漫画单卷|漫画短篇集|伊藤ハチ|短篇集",
   339798: "角色歌|畑亜貴|lovelive|2021|Aqours|小林愛香",
