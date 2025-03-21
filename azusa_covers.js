@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.20.36
+// @version     2025.03.21.46
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -673,7 +673,6 @@ const azusa_covers = {
   9744: "https://www.tongli.com.tw/ComicImages/Images/FC0404/FC0404001/FC0404001.jpg",
   9758: "https://img.pterclub.com/images/2022/12/07/000a.jpg",
   9761: "https://img.pterclub.com/images/2022/12/07/001b30fd66e1b354788.jpg",
-  9762: "https://img.pterclub.com/images/2022/12/07/18e4f61735fae2a5c.jpg",
   9766: "https://img.pterclub.com/images/2022/12/07/1fc6d941083d17c3b.jpg",
   9771: "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaVdhZllpX2t0RmdpMldqakNLYndWRWs2OVNjP2U9a1lPcjlL.jpg",
   9772: "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBaVdhZllpX2t0RmdpMmdKUXdzaVMtWnIxdVU0P2U9c1d2Vngw.jpg",
@@ -2381,7 +2380,6 @@ const azusa_covers = {
   20977: "https://img.azusa.wiki/images/2024/01/10/1d85110bbc2e227e6.jpg",
   20981: "https://img.azusa.wiki/images/2024/01/10/1.png",
   20982: "https://img.azusa.wiki/images/2024/01/10/wallpaper001_b.jpg",
-  20989: "https://img.azusa.wiki/images/2024/01/11/GSM_commemorative_shoei_H1-4_1.jpg",
   20990: "https://xiaobangkj.oss-cn-hangzhou.aliyuncs.com/1320s.jpg",
   20991: "https://xiaobangkj.oss-cn-hangzhou.aliyuncs.com/fsfsf000.jpg",
   20993: "https://xiaobangkj.oss-cn-hangzhou.aliyuncs.com/cccccc000.jpg",
@@ -2550,7 +2548,6 @@ const azusa_covers = {
   21764: "https://img.azusa.wiki/images/2024/02/26/001.jpg",
   21765: "https://img.azusa.wiki/images/2024/02/26/cover.jpg",
   21783: "https://pan.luweidan.top/upload/up15975a/7zpgygt9t1.jpg",
-  21792: "https://img.azusa.wiki/images/2024/02/28/000.jpg",
   21798: "https://img.azusa.wiki/images/2024/02/28/Scan0002.jpg",
   21806: "https://img.azusa.wiki/images/2024/02/29/1.png",
   21807: "https://img.azusa.wiki/images/2024/02/29/12fbdd3e7457fcead.png",
@@ -2868,7 +2865,6 @@ const azusa_covers = {
   24188: "https://www.z4a.net/images/2024/07/07/ShinigamiGrimToFukoshonen000a.jpg",
   24194: "https://www.z4a.net/images/2024/07/07/001_diy0001.jpg",
   24227: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965580/header.jpg?t=1714359143",
-  24237: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186980/header.jpg?t=1715981428",
   24256: "https://moeshare.cc/attachment/Mon_1204/2_395_3dab3a65d9be494.jpg",
   24261: "https://moeshare.cc/attachment/Mon_1304/2_395_c8b0d9b0f84a0e4.jpg",
   24262: "https://www.z4a.net/images/2024/07/10/0001.jpg",
@@ -3529,7 +3525,6 @@ const azusa_covers = {
   28231: "https://img.azusa.wiki/images/2025/03/01/Snipaste_2025-03-01_14-59-28.png",
   28241: "https://img12.pixhost.to/images/625/572117034_cover.jpg",
   28259: "https://i.noire.cc/image/67c3ef2ad6814770594b2362.i",
-  28269: "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3240500/header.jpg?t=1741026701",
   28272: "https://img.azusa.wiki/images/2025/03/05/01_c1.md.jpg",
   28275: "https://img12.pixhost.to/images/704/573070033_cover.jpg",
   28284: "https://img.azusa.wiki/images/2025/03/05/91V1yJfyB4L._AC_UF10001000_QL80_.jpg",
@@ -3540,7 +3535,6 @@ const azusa_covers = {
   28349: "https://t.tutu.to/img/CXbje",
   28350: "https://t.tutu.to/img/CXxiM",
   28351: "https://t.tutu.to/img/CZvam",
-  28374: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3236000/header.jpg?t=1741878789",
   28383: "https://img.azusa.wiki/images/2025/03/15/image-1.jpg",
   28389: "https://img.azusa.wiki/images/2025/03/15/0001.jpg",
   28395: "https://img.azusa.wiki/images/2025/03/17/1.jpg",
@@ -3550,5 +3544,7 @@ const azusa_covers = {
   28421: "https://img12.pixhost.to/images/1041/577847580_cover.jpg",
   28422: "https://img12.pixhost.to/images/1042/577864577_cover.jpg",
   28423: "https://img.azusa.wiki/images/2025/03/19/1.jpg",
-  28425: "//lain.bgm.tv/pic/cover/l/5e/63/477849_jA338.jpg"
+  28428: "https://img12.pixhost.to/images/1058/578078884_cover.jpg",
+  28429: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3329650/header.jpg?t=1742392993",
+  28430: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2403340/header_schinese.jpg?t=1737302327"
 };

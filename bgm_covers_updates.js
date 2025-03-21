@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.20.36
+// @version     2025.03.21.46
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -26,7 +26,6 @@ const bgm_covers = {
   222495: "45/2f/222495_OmDgv.jpg",
   236926: "5e/c5/236926_1mmH4.jpg",
   238595: "dc/a9/238595_A1I7w.jpg",
-  241026: "5b/8a/241026_Jj5Jl.jpg",
   241623: "65/f5/241623_PpQo4.jpg",
   259667: "c5/6d/259667_nf0fY.jpg",
   287134: "d0/69/287134_uJ66S.jpg",
@@ -34,7 +33,6 @@ const bgm_covers = {
   304487: "30/03/304487_tTe2r.jpg",
   305429: "a1/bd/305429_axzF3.jpg",
   306253: "90/bb/306253_twPRW.jpg",
-  306906: "ab/3a/306906_apuf1.jpg",
   308489: "41/69/308489_mYlmO.jpg",
   311181: "8b/65/311181_TeDt9.jpg",
   323040: "22/b9/323040_UFK2I.jpg",
@@ -47,31 +45,29 @@ const bgm_covers = {
   334753: "3b/69/334753_aRslA.jpg",
   336828: "12/57/336828_k3h9u.jpg",
   339644: "db/1f/359238_w2A22.jpg",
-  355555: "0c/26/355555_F43Vf.jpg",
   360810: "68/2a/360810_8e8pa.jpg",
   372015: "99/ad/372015_3t6mL.jpg",
   375683: "31/b6/375683_zy46P.jpg",
-  401823: "b4/cd/401823_fIg2K.jpg",
   405577: "3b/17/405577_5Pf21.jpg",
   414171: "aa/e5/414171_JmTIx.jpg",
+  415650: "b4/b2/415650_yRZRW.jpg",
   429771: "33/57/429771_RrRjL.jpg",
   437534: "01/bb/437534_4Arr5.jpg",
   445870: "5e/55/445870_tAomz.jpg",
   447051: "3e/99/447051_E2gh2.jpg",
   448518: "9a/be/448518_6r701.jpg",
   452834: "0d/9e/452834_B0byk.jpg",
-  453951: "13/08/453951_iPIx5.jpg",
   457931: "48/ac/457931_SGPsu.jpg",
   461443: "75/e2/461443_J7DXG.jpg",
   464648: "3d/fc/464648_fLlL9.jpg",
   469394: "d5/5c/469394_c1Iz6.jpg",
   477849: "5e/63/477849_jA338.jpg",
-  486611: "f7/f1/486611_whZzr.jpg",
   504143: "63/73/504143_p9H7P.jpg",
   509069: "8d/db/509069_f0Mf0.jpg",
   515749: "98/2c/515749_lPpU9.jpg",
   519774: "18/21/519774_33sr1.jpg",
   534639: "5a/60/534639_ZZQ1E.jpg",
   537756: "ee/85/537756_gv841.jpg",
+  542816: "31/12/542816_2BTWb.jpg",
   544637: "d0/38/544637_33HKF.jpg"
 };

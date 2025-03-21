@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.20.36
+// @version     2025.03.21.46
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11873,6 +11873,7 @@ const bgm_tags = {
   415553: "手冢治虫|漫画|漫画系列",
   415570: "",
   415606: "漫画系列",
+  415650: "全年龄|国产|AVG|STEAM|PC|奇幻|Galgame|Android|超能力|反转|Unity",
   415740: "棒球|运动|日本漫画|漫画系列|竞技|已完结",
   415943: "",
   415969: "漫画",
@@ -13036,6 +13037,7 @@ const bgm_tags = {
   541537: "Drama|别当欧尼酱了！",
   541868: "Windows|PC|Galgame|游戏|ADV|Linux|Mac|R18",
   542449: "",
+  542816: "",
   543803: "",
   544637: "Galgame|PC|全年龄|血腥|ADV|校园|VN|猎奇|欢乐|后宫|短篇"
 };
