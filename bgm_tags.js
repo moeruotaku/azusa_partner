@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.21.46
+// @version     2025.03.22.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12934,6 +12934,7 @@ const bgm_tags = {
   509334: "设定集",
   509336: "设定集",
   509587: "东方|同人",
+  509948: "JRPG|PC|炼金工房|2025|RPG|PS5|光荣特库摩|Gust|Switch|游戏|XSX",
   509955: "传说系列|JRPG|2025|RPG|PS5|PC|PS4|NS|Switch|ACT",
   509976: "AVG|Galgame|PC|游戏",
   510392: "轻小说|岩波零|2024|TwinBox|轻小说分卷|小说|MF文庫J",
