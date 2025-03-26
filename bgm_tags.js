@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.25.35
+// @version     2025.03.26.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -7092,6 +7092,7 @@ const bgm_tags = {
   210221: "轻小说|异世界|WEB|くまなの|熊熊勇闯异世界|熊傲天|小説家になろう|系列|小说系列|主婦と生活社|百合",
   210246: "漫画|袁藤沖人|百合|2017|COMICE×E|成人漫画|漫画系列|游泳|日本漫画|优先|系列",
   210280: "设定集|画集|設定集|尼尔|科幻|画集公式书|その他|全本|吉田明彦|已购入|GAME",
+  210317: "漫画|后宫|恋爱|腰斩|骨科|已完结|2016|日常|画风|喜剧|搞笑",
   210376: "propeller|Galgame|FD|校园|PC|PS2|游戏|搞笑|喜剧|吉野裕行|ADV",
   210505: "漫画|搞笑|校园|少年漫|西修|週刊少年チャンピオン|周刊少年Champion|2017|日常|热血|治愈",
   210506: "漫画|穿越|不良|热血|和久井健|青春|2017|周刊少年magazine|战斗|校园|講談社",
