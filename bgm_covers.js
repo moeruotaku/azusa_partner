@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.27.49
+// @version     2025.03.27.65
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -11413,6 +11413,7 @@ const bgm_covers = {
   389618: "02/a9/389618_6n5qA.jpg",
   389637: "c0/c5/389637_FKK3F.jpg",
   389704: "22/82/389704_4uGPI.jpg",
+  389730: "3e/de/389730_9f3D6.jpg",
   389739: "5c/cc/389739_Kirzg.jpg",
   389959: "fc/9c/389959_VVZSJ.jpg",
   390003: "10/4f/390003_idbgc.jpg",

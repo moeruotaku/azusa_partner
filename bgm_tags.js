@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.27.49
+// @version     2025.03.27.65
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11414,6 +11414,7 @@ const bgm_tags = {
   389618: "Galgame|初音岛|CIRCUS|全年龄|PC|GAL|2023|治愈|游戏|马戏团|AVG",
   389637: "来栖夏芽|轻小说|异世界",
   389704: "国漫|知音漫客|漫画|国产|奇幻|战斗|青春|北巷",
+  389730: "中国|国漫|漫画",
   389739: "漫画系列|7.8|画风可以|设定有点意思",
   389959: "恋爱|BL|校园|白泉社|BL漫画|2017|BLコミック",
   390003: "漫画|历史|战争|水木しげる|全一卷|單卷|超短篇|水木茂|B-|纪实|讲谈社",
