@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.26.63
+// @version     2025.03.27.49
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -5321,6 +5321,7 @@ const bgm_tags = {
   147645: "异世界|轻小说|小说系列",
   147651: "漫画|漫画系列|美树本晴彦|奇幻|美樹本晴彦|マンガ|已完结|複数巻|富田祐弘|2001",
   147737: "百合|漫画|芳文社|2015|已完结|漫画系列|タチ|Kirara|きらら",
+  147741: "解谜|RPGMaker|悬疑|RPG|恐怖|2012|PC|游戏|ひがしどら|RM",
   147840: "轻小说|十文字青|吟|小说系列",
   147847: "轻小说|后宫|完结|モンスター文庫|おりょう|异世界|幼馴じみ|2014|复数卷|卖肉|小说系列",
   147862: "同人|はと|猫|Galgame|noncolor|短篇|精简|全年龄|汉化|PC|non_color",
