@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.03.29.42
+// @version     2025.03.30.71
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -2364,6 +2364,7 @@ const bgm_tags = {
   51905: "Galgame|同人游戏|初音|初音未来|同人|汉化|PC|GAL|2009|催泪|AVG",
   51906: "Galgame|同人游戏|初音|PC|初音-注视着你瞳里的未来的歌谣|同人|初音三部曲|GAL|AVG|汉化|乱改",
   51932: "漫画|肋兵器|轻小说改|设绘|画风|已完结|¬",
+  51961: "百合|Galgame|同人|PC|茉宮祈芹|ADV|はいぺりよん|GAL|けっぽし|妹|游戏",
   51972: "",
   52025: "漫画|恋爱|校园|HERO|四格|青春|少女漫画|温馨|少女漫|治愈|2007",
   52110: "画集|山田章博|2003",
@@ -7863,6 +7864,7 @@ const bgm_tags = {
   237124: "异世界|美食|小说改|轻改|神名ゆゆ",
   237183: "Galgame|悬疑|PC|ANAGRAM|秋野花|剧情|ADV|2018|GAL|長浜めぐみ|AVG",
   237225: "板垣巴留|漫画|短篇集|短篇|秋田書店|マンガ|动物|日漫|剧情|搜索用",
+  237230: "轻小说|小说系列",
   237251: "",
   237298: "ensemble|Galgame|音符社|2018|北見六花|纯爱|GAL|PC|汉化|妹|石原舞",
   237300: "美食|日常|黑道|漫画|2015|馬田イスケ",
@@ -12265,6 +12267,7 @@ const bgm_tags = {
   432523: "轻小说|后宫|异世界|搞笑|恋爱|战斗|小说|日本|原创|连载中|端桜了",
   432524: "Galgame|八宝備仁|拔作|ωstar|美少女万华镜|动态CG|2024|PC|GAL|纯爱|实用",
   432567: "全年龄|Galgame|STEAM|qureate|ADV|2023|GAL|Switch|纯爱|后宫|游戏",
+  432592: "",
   432607: "RPG|解谜|恐怖解谜|STEAM|RPGMaker|2023年|PC|云|RM",
   432710: "百合|Galgame|SukeraSomero|2024|千種みのり|PC|ABO|短篇|AVG|2024-02|纯爱",
   432767: "Galgame|国产|PC|STEAM|2023|免費|箱崎奈绪|游戏|国产Galgame|短篇|AVG",
