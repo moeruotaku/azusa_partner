@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.04.14.39
+// @version     2025.04.14.93
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -16,6 +16,7 @@ const bgm_covers = {
   5168: "88/5b/5168_jp.jpg",
   5397: "01/da/5397_S6jRK.jpg",
   5412: "56/dc/5412_h4kuq.jpg",
+  11735: "a3/18/11735_jp.jpg",
   16867: "72/c2/16867_98X9b.jpg",
   17752: "58/ca/17752_xfX5F.jpg",
   39677: "bb/4e/39677_U17un.jpg",
@@ -24,29 +25,41 @@ const bgm_covers = {
   60976: "43/5a/60976_fufFP.jpg",
   61104: "db/77/61104_FnvgJ.jpg",
   64063: "08/23/64063_TXTxn.jpg",
+  64064: "b9/78/64064_q8QVO.jpg",
   75116: "18/f9/75116_Ep0Qj.jpg",
   118165: "0f/2f/118165_f0m8c.jpg",
   130226: "59/16/130226_8kZmC.jpg",
+  134064: "92/12/134064_qFg8g.jpg",
   139050: "63/5e/139050_d6n81.jpg",
+  184894: "bd/11/184894_qcyyQ.jpg",
   185099: "72/db/185099_x6J6b.jpg",
   185101: "80/06/185101_Sggf5.jpg",
+  185450: "6d/36/185450_0wZgP.jpg",
   194786: "b2/9a/194786_3O58u.jpg",
   203938: "59/05/203938_a7oO7.jpg",
   212710: "e8/f7/212710_Ajsb7.jpg",
+  225705: "66/93/225705_eAcSS.jpg",
+  240279: "3b/0d/240279_r3EeM.jpg",
+  249058: "27/a8/249058_pAdbS.jpg",
   252255: "5f/f1/252255_ldVHF.jpg",
   257721: "79/84/257721_q99QM.jpg",
   268279: "85/aa/268279_9rynK.jpg",
   272490: "95/19/272490_2nNAn.jpg",
+  279136: "28/86/279136_1z7aj.jpg",
   279379: "c6/ab/279379_Bjc7O.jpg",
   281927: "48/11/281927_6u6on.jpg",
   291900: "5c/16/291900_AJcps.jpg",
+  292589: "48/aa/292589_7XfV4.jpg",
   295004: "37/51/295004_C82CM.jpg",
   296610: "46/df/296610_0e1Ze.jpg",
+  298217: "a6/f7/298217_7P75u.jpg",
   298276: "fd/4b/298276_2SdPY.jpg",
   298651: "12/68/298651_B9IiO.jpg",
   302980: "7c/a9/302980_6PFgW.jpg",
   307237: "14/fa/307237_5KNYE.jpg",
+  307800: "3a/77/307800_EE62W.jpg",
   308400: "c2/fe/308400_ozrnf.jpg",
+  309007: "68/69/309007_vdPpp.jpg",
   311737: "e1/48/311737_S3bF9.jpg",
   311891: "1d/5d/311891_2iIAu.jpg",
   312057: "0e/10/312057_N7w87.jpg",
