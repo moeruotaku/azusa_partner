@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.04.17.51
+// @version     2025.04.18.42
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -587,6 +587,7 @@ const bgm_tags = {
   10425: "漫画|亲吻姐姐|后宫|擦边神作|工口|恋爱|ぢたま某|双子|講談社|2004|校园",
   10474: "Galgame|舞-HiME|CIRCUS|ADV|PC|GAL|汉化|AVG|渣男主|改编|全年龄",
   10483: "国漫|科幻|国产|漫画|有妖气|雏蜂|王道|小蜜蜂|琉璃|中国漫画|第一部肉番",
+  10497: "KOTOKO|神无月的巫女|I’ve|ED|神曲|OP|ACG|K姐神碟|2004|百合|高濑一矢",
   10499: "乙女向|Starry☆Sky|PC|AVG|honeybee|小野大輔|緑川光|杉田智和|杉田智和；|制作更精良了",
   10583: "漫画|Type-Moon|月姫|佐々木少年|游戏改|高质量漫画版|奇幻|直死之魔眼|2003|恋爱|吸血鬼",
   10617: "漫画|治愈|科幻|芦奈野仁|末日|芦奈野ひとし|横滨购物纪行|日本星云奖|日常|1994|生活",
