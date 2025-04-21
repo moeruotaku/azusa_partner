@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.04.18.42
+// @version     2025.04.21.39
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -1156,6 +1156,7 @@ const azusa_covers = {
   16586: "https://img.azusa.wiki/images/2023/06/27/Justice-League---Hell-Arisen-001-000.jpg",
   16587: "https://img.azusa.wiki/images/2023/06/27/The-Infected---King-Shazam-001-000.jpg",
   16591: "https://p.sda1.dev/11/94906360f941615224d4b94e8a0f4e4a/000.jpg",
+  16615: "https://pic.dmoe.in/imgdata/2023/06/29/bd48930c3cfb7bb8d12f4ba96e56dc74.png",
   16627: "https://pic.dmoe.in/imgdata/2023/06/29/dfa1abe053f24c6f6fed6579def86e35.jpg",
   16648: "https://pic.dmoe.in/imgdata/2023/06/30/036ae6ece7e570f10e953da27e979235.png",
   16649: "https://pic.dmoe.in/imgdata/2023/06/30/b0e2f9aecb7d31988b190427f07f9889.png",
@@ -3123,5 +3124,14 @@ const azusa_covers = {
   28689: "https://img.azusa.wiki/images/2025/04/16/1.jpg",
   28692: "https://img.azusa.wiki/images/2025/04/16/1212000cover.jpg",
   28699: "https://img1.pixhost.to/images/5101/588818863_j_4_0104.jpg",
-  28700: "https://img1.pixhost.to/images/5101/588818866_front.jpg"
+  28700: "https://img1.pixhost.to/images/5101/588818866_front.jpg",
+  28703: "//lain.bgm.tv/r/400/pic/cover/l/94/6a/531940_OD8qx.jpg",
+  28713: "https://t.tutu.to/md/IGaWA",
+  28714: "https://img.azusa.wiki/images/2025/04/19/cover.jpg",
+  28716: "https://img.azusa.wiki/images/2025/04/19/cover2839a0fb946382f9.jpg",
+  28717: "https://img.azusa.wiki/images/2025/04/19/cover0113bcbb37178579.jpg",
+  28722: "https://img.azusa.wiki/images/2025/04/20/-1.jpg",
+  28723: "https://img.azusa.wiki/images/2025/04/20/-10.jpg",
+  28724: "https://img.azusa.wiki/images/2025/04/20/-13.jpg",
+  28725: "https://img.azusa.wiki/images/2025/04/20/-4.jpg"
 };
