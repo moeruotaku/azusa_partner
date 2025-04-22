@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.04.21.39
+// @version     2025.04.22.66
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9607,6 +9607,7 @@ const bgm_tags = {
   302329: "漫画|日常|きくちゆうき|WEB漫画|2020|短篇|2019年12月|一般向漫画|全1巻|日漫|已完结",
   302373: "剧场版|芳文社|百合|2021|日常|Studio五组|漫画改|治愈|萌|黄金拼图|漫改",
   302375: "漫画|百合|芳文社|四格|2020|全一卷|日常|轻百合|治愈",
+  302417: "星空めてお|Liar-soft|Galgame|中村哲也|FD|PC|2004|GAL|视频通关|爱欲|乡愁",
   302427: "国产|橘子班|Galgame|GAL|炒饭|短篇|STEAM|PC|2020|全年龄|社会",
   302452: "FrontWing|Galgame|灰色系列|全年龄|桐谷华|PC|ADV|松本文紀|渡辺明夫|種﨑敦美|2020",
   302464: "方糖社|Galgame|白毛|废萌|萌木原ふみたけ|PC|纯爱|拔作|汉化|2020",
