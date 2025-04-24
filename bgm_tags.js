@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.04.23.47
+// @version     2025.04.24.57
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11990,6 +11990,7 @@ const bgm_tags = {
   412024: "入莉",
   412116: "台湾|漫画|国漫|国产|中国|军队|李鴻欽",
   412275: "OST|主播女孩重度依赖|专辑佳作|游戏|石田琴子|病娇|2022|居中|にゃるら",
+  412304: "2022|校园|少女マンガ|恋爱|集英社|少女漫画|漫画|少女漫|青春校园|日下あき|margaret",
   412362: "漫画系列",
   412379: "RPG|黄油|国产|武侠|EROGE|STEAM|游戏|PC",
   412477: "",
