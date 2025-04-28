@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.04.27.44
+// @version     2025.04.28.59
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -617,6 +617,7 @@ const bgm_tags = {
   10983: "密室逃脱|PSP|AVG|解密|解谜|挑战性|密室的牺牲品|STEAM|2010|汉化",
   11028: "龙骑士07|悬疑|Galgame|うみねこのなく頃に|推理|AVG|猎奇|神作|竜騎士07|PS3|龙骑士",
   11116: "Galgame|暁の護衛|衣笠彰梧|AKABEiSOFT2|無限軌道|海斗纯爷们|燃え|汉化|PC|しゃんぐりら|GAL",
+  11157: "alicesoft|Galgame|SLG|地域制压|大系列|PC|GAL|AS的双保险|多周目|扶她|岳画殺",
   11158: "兰斯|alicesoft|Galgame|SLG|地域制压|游戏性|1996|PC|神作|アリスソフト|R18",
   11159: "alicesoft|SLG|Galgame|地域制压|大系列|PC|GAL|弓弦イズル|游戏性|アリスソフト|大番长",
   11161: "alicesoft|兰斯|Galgame|RPG|PC|R18|掷骰子的冒险rpg（rpg=人品game）|2002|小品作|汉化|GAL",
@@ -13214,6 +13215,7 @@ const bgm_tags = {
   512732: "",
   512775: "画集·设定集",
   512789: "Galgame|全年龄|小说改|PC|性转|Visual_Arts|百合|ADV|游戏|短篇|长谷川育美",
+  512796: "ASaProject|颜艺社|Galgame|2025|PC|废萌|游戏|ADV|喜剧|八日なのか|天使",
   513054: "画集|已购|ももこ",
   513311: "漫画",
   513567: "同人|2024|ADV|视觉小说|游戏|AVG|freegame|短篇|Web|PC|治愈",
