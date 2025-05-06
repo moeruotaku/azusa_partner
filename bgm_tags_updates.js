@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.05.92
+// @version     2025.05.06.37
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -78,6 +78,7 @@ const bgm_tags = {
   424653: "白井智之|推理|小说|悬疑|猎奇|轻小说|短篇集",
   432319: "轻小说|战斗|奇幻|异世界|原純",
   437529: "小说|推理|米澤穂信|悬疑|米泽穗信|文艺春秋|推理之神",
+  443107: "漫画|重女|恋爱|职场|あきやま|搞笑|日常|日本|2023|週刊ヤングジャンプ|青年",
   448259: "",
   451195: "轻小说|底花",
   457000: "轻小说|羊太郎|异世界|小说系列|2023",

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.05.92
+// @version     2025.05.06.37
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12574,6 +12574,7 @@ const bgm_tags = {
   443015: "国漫|日常|中国|2023",
   443034: "ADV",
   443093: "ACT|2023|PS5|动作|XboxOne|NS|游戏|PC|PS4|恶魔城like|XSX",
+  443107: "漫画|重女|恋爱|职场|あきやま|搞笑|日常|日本|2023|週刊ヤングジャンプ|青年",
   443221: "2022|轻小说|后宫|恋爱|连载中",
   443223: "轻小说|兄妹|村田天|ファンタジア文庫|2022|恋爱|小说系列|妹控|妹妹|2023",
   443363: "国漫|中国|腰斩|原创|现代|双女主|演艺圈",
