@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.09.05
+// @version     2025.05.09.06
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,6 +12,7 @@
 // ==/UserScript==
 
 const bgm_tags = {
+  4923: "荒川弘|漫画|鋼の煉金術師|热血|等价交换|钢炼|少年漫画|牛姨|感动|战斗|少年GANGAN",
   17078: "綾辻行人|悬疑|Another|轻小说|推理|小说|超自然系|猎奇|角川書店|绫辻行人|不能算推理吧",
   23915: "轻小说|吸血鬼|あざの耕平|幻想|奇幻|已完结|小说系列|富士见书房|系列|小说",
   42435: "漫画|战争|原泰久|热血|历史|集英社|青年漫画|2006|历史漫画|古代",
@@ -86,6 +87,5 @@ const bgm_tags = {
   476862: "小说|森见登美彦|森見登美彦|全一卷",
   499874: "AVG|PC|悬疑|ADV|游戏|NS|STEAM|小高和刚|幼驯染|RPG|Switch",
   507999: "像素|纯爱|Galgame|视觉小说|雨|R18|雰囲気がいい|氛围|同人|短篇|游戏",
-  514896: "轻小说|日本|小说|系列",
-  515593: "日本|漫画|原创|已完结"
+  514896: "轻小说|日本|小说|系列"
 };
