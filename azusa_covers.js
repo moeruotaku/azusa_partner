@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.09.06
+// @version     2025.05.09.66
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -93,6 +93,7 @@ const azusa_covers = {
   3274: "https://laji.o--o.xyz/i/2022/08/28/swv7xr.jpg",
   3275: "https://laji.o--o.xyz/i/2022/08/28/swuwmr.jpg",
   3282: "https://img.pterclub.com/images/2022/08/28/7ec66eff297b7c5f38c4463f81a50621.jpg",
+  3306: "https://iili.io/45jYSp.jpg",
   3353: "https://laji.o--o.xyz/i/2022/08/28/10vrvzn.jpg",
   3354: "https://laji.o--o.xyz/i/2022/08/28/10vs9q3.jpg",
   3355: "https://laji.o--o.xyz/i/2022/08/28/10vsw1t.jpg",
@@ -147,6 +148,7 @@ const azusa_covers = {
   4566: "attachments/202209/2022090509522593a791254339b85ed5d19272fd36b6ad.jpg",
   4567: "attachments/202209/2022090509582798e07f7c9b29ffa68eea9159ce249ce0.jpg",
   4590: "https://www.linovelib.com/files/article/image/1/1386/1386s.jpg",
+  4653: "https://files.catbox.moe/q238xa.jpeg",
   4660: "attachments/202209/20220906180803cb8d135edee978cd6168fad846387a2e.jpg",
   4661: "attachments/202209/20220906180937cc23ab3ff869203aceb6b068ed4e392e.jpg",
   4664: "attachments/202209/20220906181729f287b6ea7b1d5348b5126b6753558d4d.jpg",
@@ -159,7 +161,6 @@ const azusa_covers = {
   4789: "https://i.postimg.cc/3wYfF3hs/BM2j7-K0ai-Kyzud2kfkni6g-2.jpg",
   4790: "https://img.pterclub.com/images/2022/09/08/1542e0cd6c3ba1c2141a4a8f14980673.jpg",
   4795: "https://i.postimg.cc/jdTf52hY/BM2j7-K0ai-Kyzud2kfkni6g-1.jpg",
-  4800: "https://cdn.myanimelist.net/images/manga/2/203394.jpg",
   4840: "https://i.postimg.cc/BQRLTSrM/BM2j7-K0ai-Kyzud2kfkni6g-3.jpg",
   4842: "https://i.postimg.cc/4dBnmVkF/0.jpg",
   4843: "https://i.postimg.cc/zDH6053V/0.jpg",
@@ -468,7 +469,6 @@ const azusa_covers = {
   8926: "//lain.bgm.tv/pic/cover/l/52/e5/91613_jp.jpg",
   8932: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/11/28/dvt2rt.jpg",
   8952: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/11/28/j4y8yl.jpg",
-  8954: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/11/28/j04vpu.jpg",
   8955: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/11/28/iyyt6z.jpg",
   8970: "attachments/202211/2022112814170466d0860da3488431d121600d2d61664b.jpg.thumb.jpg",
   9038: "https://pan.abler.icu/img/2022/11/29/c76WAYsE/QQ%E6%88%AA%E5%9B%BE20221129141551.png?hash=B89Ao4pr&amp;download=1",
@@ -511,7 +511,6 @@ const azusa_covers = {
   9661: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/05/psca99.jpg",
   9663: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/05/qi2zg3.jpg",
   9666: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/05/qhzknz.jpg",
-  9667: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/05/ppgkf9.jpg",
   9702: "https://ptpimg.me/02e002.png",
   9703: "https://ptpimg.me/0twy5y.png",
   9717: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/06/tt1czk.jpg",
@@ -557,7 +556,6 @@ const azusa_covers = {
   10071: "https://www.tongli.com.tw/ComicImages/Images/SC669/SC66901/SC66901.jpg",
   10072: "https://www.tongli.com.tw/ComicImages/Images/JC648/JC64801/JC64801.jpg",
   10126: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/16/iwtbir.jpg",
-  10129: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/16/j07uwh.jpg",
   10172: "https://ptpimg.me/42uiaw.png",
   10173: "https://ptpimg.me/465y7z.png",
   10174: "https://ptpimg.me/5br804.png",
@@ -629,7 +627,6 @@ const azusa_covers = {
   10624: "attachments/202212/2022122923380825f5c2a2be2035e21b6161627c722007.jpg",
   10626: "attachments/202212/2022123013183782acaa191100f4d2d9b361a95b3783cf.jpg.thumb.jpg",
   10641: "https://www.tongli.com.tw/ComicImages/Images/JC0732/JC0732003/JC0732003.jpg",
-  10653: "https://s3.pterclub.com/images/2022/12/31/cover.jpg",
   10687: "attachments/202301/202301021741013dcd98ba74def46d7fc6c8afbffe5927.jpg.thumb.jpg",
   10701: "https://www.tongli.com.tw/ComicImages/Images/SC0147/SC0147001/SC0147001.jpg",
   10702: "https://www.tongli.com.tw/ComicImages/Images/SC0230/SC0230001/SC0230001.jpg",
@@ -646,7 +643,6 @@ const azusa_covers = {
   10790: "https://pic.imgdb.cn/item/63b79bccbe43e0d30ec0fc22.png",
   10807: "https://pic.imgdb.cn/item/63b7d724be43e0d30e640aca.jpg",
   10872: "https://www.tongli.com.tw/ComicImages/Images/KD1157/KD1157001/KD1157001.jpg",
-  10946: "https://s3.pterclub.com/images/2022/12/31/cover.jpg",
   11011: "https://i.ibb.co/307gJbx/cover.png",
   11015: "https://i.ibb.co/1dJvmKH/cover.png",
   11016: "https://i.ibb.co/xD98mV3/cover.jpg",
@@ -905,7 +901,6 @@ const azusa_covers = {
   13678: "https://tongliebookpic.blob.core.windows.net/bookcover/551776383fe34d73410808da8c818449.jpg",
   13688: "https://tongliebookpic.blob.core.windows.net/bookcover/a06aa4a666cb42227d6108da26676f2b.jpg",
   13694: "https://tongliebookpic.blob.core.windows.net/bookcover/2c1851fd536445a2e3df08d90602b3da.jpg",
-  13699: "https://tongliebookpic.blob.core.windows.net/bookcover/dffccb709df844aff2ee08da2345b64b.jpg",
   13701: "https://tongliebookpic.blob.core.windows.net/bookcover/43cfd72c977c4254f45e08d99de8958b.jpg",
   13707: "https://tongliebookpic.blob.core.windows.net/bookcover/53ec226d534b4f25767c08d708c7f175.jpg",
   13708: "https://tongliebookpic.blob.core.windows.net/bookcover/fd0592673d02412f94e508da2cab3ba0.jpg",
@@ -1973,7 +1968,6 @@ const azusa_covers = {
   20830: "https://cdn.akamai.steamstatic.com/steam/apps/1209990/header.jpg?t=1655979108",
   20841: "https://cdn.akamai.steamstatic.com/steam/apps/1705220/header_schinese.jpg?t=1655979275",
   20853: "https://img.azusa.wiki/images/2023/12/31/6590028729ac803e1febf6dd.jpg",
-  20863: "https://img.azusa.wiki/images/2023/12/31/6591731e29ac803e1febf6e4.jpg",
   20890: "https://ptpimg.me/ce691b.jpg",
   20904: "https://img.azusa.wiki/images/2024/01/04/001.jpg",
   20905: "https://img.azusa.wiki/images/2024/01/04/1.png",
@@ -2111,7 +2105,6 @@ const azusa_covers = {
   21605: "https://img.azusa.wiki/images/2024/02/19/covera792a37292f9347d.jpg",
   21607: "https://img.azusa.wiki/images/2024/02/19/dd3c6067509777300a13f61676b15cbfb47f1c18.jpg310w.jpg",
   21608: "https://img.azusa.wiki/images/2024/02/19/795c5c6b93eb9727f04f4ee4afc8d21459dc7705.png310w.png",
-  21610: "https://img.azusa.wiki/images/2024/02/19/covera69d57b6851ed822.jpg",
   21612: "https://pic.imgdb.cn/item/65d36cf09f345e8d03be92ad.png",
   21613: "https://img.azusa.wiki/images/2024/02/19/cover6ba184216ea56345.jpg",
   21614: "https://pic.imgdb.cn/item/65d3708f9f345e8d03ce106c.jpg",
@@ -2863,7 +2856,6 @@ const azusa_covers = {
   25942: "https://img.azusa.wiki/images/2024/08/27/-88.jpg",
   25945: "https://img.azusa.wiki/images/2024/08/27/-KADOKAWA.jpg",
   25948: "https://img.azusa.wiki/images/2024/08/27/cover8805b48e390e478f.jpg",
-  25950: "https://img.azusa.wiki/images/2024/08/27/cover.png",
   25951: "https://img.azusa.wiki/images/2024/08/27/coverf1817de6ef4bf071.jpg",
   25952: "https://img.azusa.wiki/images/2024/08/27/coverbac5c7a9e862d761.jpg",
   25953: "https://img.azusa.wiki/images/2024/08/27/coverd0057e012c0e449b.jpg",
@@ -3143,7 +3135,6 @@ const azusa_covers = {
   28775: "https://img.azusa.wiki/images/2025/04/27/1.jpg",
   28777: "https://cf.mora.jp/contents/package/0000/00000012/0008/557/270/0008557270.200.jpg",
   28778: "//lain.bgm.tv/r/400/pic/cover/l/e7/fe/530021_WwNr7.jpg",
-  28808: "//lain.bgm.tv/r/400/pic/cover/l/33/27/556146_9GL0j.jpg",
   28822: "https://t.tutu.to/img/NnE26",
   28827: "https://t.tutu.to/md/NfeEn",
   28828: "https://t.tutu.to/md/Nf2wd",
