@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.17.10
+// @version     2025.05.17.76
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -454,6 +454,7 @@ const bgm_tags = {
   7327: "画集|设定集|画集・設定資料集",
   7336: "奈须蘑菇|Type-Moon|Fate|画集|蘑菇|2007年|その他",
   7399: "妹|Galgame|Meteor|实妹|レッツ背徳♪|妹ゲー|恋爱|校园|GAL|话剧|妹控",
+  7400: "田中ロミオ|Galgame|希|民俗|雰囲気がいい|Meteor|古风|文艺希|雑学|館もの|2004",
   7417: "Galgame|伊东杂音|UNiSONSHIFT:Blossom|PC|水月陵|GAL|いとうのいぢ|汉化|2006|UNISONSHIFT|ADV",
   7442: "みなみ恵夢|BL|BL漫画",
   7550: "漫画|小林尽|恋爱|搞笑|校园|2009|泽近爱理|讲谈社|全1巻|旗派赢了|播磨拳儿",
@@ -3100,6 +3101,7 @@ const bgm_tags = {
   73718: "漫画|校园|恋爱|卖肉|穿越|未来人|黑田高祥|能力|黒田高祥|工口|生孩子",
   73726: "山根绫乃|BL漫画|BL|耽美|探索者系列|漫画|やまねあやの|黑幫|BLコミック|18X|漫画系列",
   73736: "Galgame|エフォルダムソフト|GAL|实妹|PC|憂姫はぐれ|拔作|2014|ADV|汉化|2014-03",
+  73738: "Galgame|すたじお緑茶|GAL|废萌|绿茶社|石原舞|PC|ADV|妹|2014|るちえ",
   73806: "Galgame|同人|推理悬疑|Novectacle|AVG|悬疑|馆|PC|魔女|STEAM|全年龄",
   73830: "伪娘|后宫|漫画|兽耳|妖怪|校园|搞笑|福利|搜索用|漫画系列|天津冴",
   73831: "漫画|漫画系列|唯登詩樹|扶她|日本漫画|已完结|集英社|唯登诗树|2003|伪娘",
