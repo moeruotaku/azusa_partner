@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.17.76
+// @version     2025.05.18.98
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9810,6 +9810,7 @@ const bgm_tags = {
   308570: "漫画|百合|奇幻|双見酔|双葉社|WEB|战斗|漫画系列|原创|webアクション|系列",
   308573: "Galgame|ASa-Project|喜剧|小鳥居夕花|幼驯染|ASaProject|废萌|妹|杏子御津|2020|颜艺社",
   308586: "Galgame|GLASSES|月杜尋|歩サラ|拔作|甜作|2020-06|汉化|ADV|2020|纯爱",
+  308628: "百合|漫画|姐妹|漫画系列|糖度超标|日常|2020|双子|骨科|甜|一般向",
   308678: "漫画|恋爱|外传|宮島礼吏|漫画系列|マンガ|連載中|講談社|2020|日漫|系列",
   308685: "漫画|百合|奇幻|漫画系列|神鬼|剧情|村田椰融",
   308700: "校园|漫画|青春|漫画系列",
