@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_scores
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.24.48
+// @version     2025.05.24.70
 // @description bgm_scores
 // @author      moeruotaku
 // @license     MIT
@@ -10486,6 +10486,7 @@ const bgm_scores = {
   335152: 5.4,
   335220: 5.8,
   335248: 5.5,
+  335281: 7.5,
   335289: 0,
   335290: 5,
   335291: 0,
@@ -10986,6 +10987,7 @@ const bgm_scores = {
   357100: 0,
   357102: 0,
   357172: 8.1,
+  357239: 0,
   357414: 6.5,
   357420: 6,
   357437: 7.2,
@@ -11079,6 +11081,7 @@ const bgm_scores = {
   364247: 6.8,
   364324: 6,
   364464: 6.3,
+  364521: 0,
   364544: 6,
   364558: 5.9,
   364571: 5,
@@ -13278,6 +13281,7 @@ const bgm_scores = {
   536639: 5.5,
   536916: 0,
   537756: 4.2,
+  537847: 0,
   538228: 6.5,
   538438: 4,
   539042: 6.2,
