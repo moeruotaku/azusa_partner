@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.24.70
+// @version     2025.05.26.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10362,6 +10362,7 @@ const bgm_tags = {
   330602: "漫画|生存游戏|生存|反乌托邦|2012|色情|漫画系列|岛|全3卷|ヤングアニマル|後藤晶",
   330644: "高达|漫画|科幻|2014|已完结|漫画系列|夏元雅人|全16卷",
   330659: "画集|藤真拓哉|已购",
+  330850: "漫画|奇幻|恋爱|一七八ハチ|冒险|亚人|纯爱|御姐x正太|KADOKAWA|色|2021",
   330859: "PC|2021|SIM|生活模拟|iOS|Switch|STEAM|XboxOne|收集|GAME",
   330888: "易次元|WEB|2019",
   330890: "漫画|漫画系列",
