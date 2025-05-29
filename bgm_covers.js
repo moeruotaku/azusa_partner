@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.05.27.96
+// @version     2025.05.29.87
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -1868,6 +1868,7 @@ const bgm_covers = {
   38637: "59/03/38637_kNkot.jpg",
   38680: "d6/92/38680_YRsDn.jpg",
   38720: "c1/07/38720_Y2U11.jpg",
+  38736: "33/a5/38736_a76Zu.jpg",
   38761: "80/d0/38761_Cqe66.jpg",
   38787: "50/77/38787_TdT4J.jpg",
   38789: "23/8f/38789_jp.jpg",
@@ -10299,6 +10300,7 @@ const bgm_covers = {
   327732: "cc/66/327732_bnXbc.jpg",
   327737: "b2/ad/327737_PiHZm.jpg",
   327759: "50/1b/327759_kmG8h.jpg",
+  327974: "55/95/327974_Ggvuz.jpg",
   328036: "e8/d7/328036_nqZeg.jpg",
   328066: "40/9a/328066_WIhsU.jpg",
   328087: "72/cb/328087_T5349.jpg",
@@ -10501,6 +10503,7 @@ const bgm_covers = {
   335587: "7c/36/335587_BCgzC.jpg",
   335605: "90/d1/335605_SSPas.jpg",
   335684: "8f/29/335684_rw5f5.jpg",
+  335750: "8a/5a/335750_DXVps.jpg",
   335801: "a2/69/335801_Wu6uW.jpg",
   335804: "bb/32/335804_z3xS3.jpg",
   335843: "38/78/335843_fM4B4.jpg",
@@ -10809,6 +10812,7 @@ const bgm_covers = {
   347970: "f4/74/347970_2HVUh.jpg",
   348021: "ec/9c/348021_2G22G.jpg",
   348053: "cd/82/348053_wfzM3.jpg",
+  348056: "2d/ee/348056_0csbw.jpg",
   348103: "8d/8f/348103_8desN.jpg",
   348104: "3a/7a/348104_2sssQ.jpg",
   348105: "11/d5/348105_U49x9.jpg",
@@ -12082,6 +12086,7 @@ const bgm_covers = {
   416772: "ea/61/416772_2CEd4.jpg",
   416787: "3e/88/416787_OP9O3.jpg",
   416821: "d3/76/416821_QvCZs.jpg",
+  416868: "89/69/416868_SBdja.jpg",
   416869: "a5/10/416869_eH700.jpg",
   416876: "44/03/416876_S2n6k.jpg",
   416877: "55/82/416877_764VO.jpg",
@@ -13251,6 +13256,7 @@ const bgm_covers = {
   529524: "fc/0d/529524_Q7O1F.jpg",
   529628: "88/36/529628_flUU9.jpg",
   529631: "2b/cd/529631_nTNn7.jpg",
+  529662: "ec/3a/529662_uBOfO.jpg",
   529681: "23/be/529681_z588w.jpg",
   529743: "59/ec/529743_9Svt0.jpg",
   530021: "e7/fe/530021_WwNr7.jpg",
