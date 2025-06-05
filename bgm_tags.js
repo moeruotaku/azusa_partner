@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.06.04.42
+// @version     2025.06.05.68
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12300,6 +12300,7 @@ const bgm_tags = {
   425523: "",
   425654: "轻小说|恋爱|青春|轻文学|一条岬",
   425683: "恋爱|搞笑|国漫|中国",
+  425694: "百合|国漫|架空|校园|中国|原创|双双转生|轻橘|魂穿|西幻",
   425696: "中国|性转|无限流|国漫|大逃杀|惊奇|轻改|TS",
   425730: "中国|腰斩|国漫|网文改|系统|女强",
   425732: "轻小说|后宫|2022|WEB|ファンタジア文庫|异世界",
