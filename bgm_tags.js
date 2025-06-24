@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.06.24.36
+// @version     2025.06.24.46
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11018,6 +11018,7 @@ const bgm_tags = {
   357239: "",
   357414: "漫画系列|已完结|全3卷",
   357420: "漫画",
+  357433: "轻小说|小说系列|2021|立川浦々|立川浦",
   357437: "轻小说|八目迷|恋爱|跨性别|伪娘|性别障碍|小说|2021|ガガガ文庫|校园|轻文学",
   357477: "漫画|异世界|KADOKAWA|转生|2021|九二枝|昼熊|奇幻|轻小说改|轻改",
   357491: "中国",
