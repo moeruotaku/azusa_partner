@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.06.26.43
+// @version     2025.06.26.57
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -45,6 +45,7 @@ const bgm_tags = {
   332250: "漫画|龍幸伸|战斗|怪谈|奇幻|集英社|JUMP+|搞笑|少年ジャンプ＋|日本|2021",
   338544: "漫画|搞笑|杀手|南勝久|2021|战斗|日常|黑道|青年漫画|犯罪|扮猪吃老虎",
   342106: "漫画|板垣巴留|2021|連載中|搞笑|漫画系列|热血|秋田書店|マンガ|画风",
+  347780: "Galgame|Qruppo|倉骨治人|监狱|PC|搞笑|2022|骨折王子|燃|GAL|R18",
   352114: "恋爱|漫画|吸血鬼|狗粮|2020|校园|奇幻|套路|已完结|2021年|正太",
   357433: "轻小说|小说系列|2021|立川浦々|立川浦",
   384494: "漫画|恋爱|搞笑|2022|雌小鬼|漫画系列|校园|講談社|日本|原创|nonco",
