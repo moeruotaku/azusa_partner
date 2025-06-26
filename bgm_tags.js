@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.06.25.38
+// @version     2025.06.26.43
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -829,6 +829,7 @@ const bgm_tags = {
   15784: ".hack|涼風涼|轻小说|小说|2006",
   15792: "小畑健|漫画|围棋|完全版|成长|经典|人生|棋魂|1999|少年漫画|堀田由美",
   15839: "漫画|鬼头莫宏|致郁|科幻|便当|黑暗|鬼頭莫宏|珍惜生命，远离鬼头|2004|悲剧|治愈",
+  15841: "Nitro+|虚渊玄|Galgame|虚淵玄|PC|致陏|phantom|神作|AVG|Nitroplus|硬派",
   15843: "CIRCUS|Galgame|初音岛|D.C.II.T.Y|2009|D.C.|PC|汉化|FD|ADV|たにはらなつき",
   15865: "alcot|Galgame|双子|家族|GAL|PC|2003|成长|ADV|仁村有志|2003-11",
   15886: "Galgame|戯画|GIGA|学园|2008|GAL|汉化|PC|萌え|欢乐|纯爱",
@@ -13171,6 +13172,7 @@ const bgm_tags = {
   505799: "",
   505808: "日本|小说|原创",
   505876: "漫画|BLコミック",
+  505952: "Galgame|Aquaplus|2025|PC|全年龄|ADV|游戏|喜剧|leaf|NS|アクアプラス",
   506343: "漫画",
   506381: "轻小说|裕時悠示|小说|恋爱|角川スニーカー文庫|2024",
   506640: "漫画",
