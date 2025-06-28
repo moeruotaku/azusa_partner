@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.06.27.85
+// @version     2025.06.28.90
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
