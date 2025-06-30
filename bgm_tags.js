@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.06.28.90
+// @version     2025.06.30.68
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13384,6 +13384,7 @@ const bgm_tags = {
   547340: "日本|漫画|短篇集|系列",
   547482: "",
   548433: "漫画|中国|已完结",
+  549199: "画集",
   549535: "漫画|少年|中国|原创|玄幻",
   549818: "科幻|漫画|战斗|日本|奇幻|异形",
   551639: "Galgame|百合|全年龄|和风传奇",
