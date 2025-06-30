@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.06.30.68
+// @version     2025.06.30.92
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,6 +12,7 @@
 // ==/UserScript==
 
 const bgm_tags = {
+  1410: "Nitro+|5pb|Galgame|猎奇|悬疑|混沌头|死宅的妄想力可是很强大的|林直孝|PC|N+|5pb.",
   3582: "漫画|科学超电磁炮|冬川基|鎌池和馬|百合|科幻|超能力系|月刊Comic电击大王|魔法|某科学的超电磁炮|2007",
   15841: "Nitro+|虚渊玄|Galgame|虚淵玄|PC|致陏|phantom|神作|AVG|Nitroplus|硬派",
   19597: "伪娘|漫画|神吉|女装少年|2011|わぁい!|一迅社|瑞穂|恋爱|コミックス|成年コミック",
