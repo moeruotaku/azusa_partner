@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.01.51
+// @version     2025.07.01.97
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11607,6 +11607,7 @@ const bgm_tags = {
   392944: "",
   393006: "韩国|漫畫|BL",
   393151: "漫画|山崎大辉|漫画系列|原创|生存|烂尾|邪教|战斗|Afternoon|系列|讲谈社",
+  393233: "漫画|悬疑|浅見理都|漫画系列|推理|KISS|社会派|系列|2022|已完结|日本",
   393241: "轻小说|小说|书店|系列|轻文学",
   393435: "后宫|R18|漫画|倒贴|弱智|奇幻|小说改|限制|乱交|触手|一夢",
   393584: "漫画|轻小说改|漫画系列|恋爱|小说改|校园|日常|2022|20话以内",
