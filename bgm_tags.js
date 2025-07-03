@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.02.37
+// @version     2025.07.03.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -6412,6 +6412,7 @@ const bgm_tags = {
   186511: "漫画系列|已完结",
   186554: "赛博朋克|AVG|独立游戏|PC|STEAM|百合|Galgame|2016|SukebanGames|文字冒险|音乐",
   186556: "韩漫|搞笑|漫画|韩国|赵石|SF|生存|条漫|科幻|webtoon|韩国漫画",
+  186635: "OST|Falcom|空之轨迹|游戏|英雄传说|2016",
   186675: "Galgame|SWEET&TEA|桐谷华|萝莉|秋野花|あめとゆき|氛围gal|好漂亮|2016|汉化|GAL",
   186677: "minori|柚子奈ひよ|Galgame|科幻|机器人三定律|石原舞|きのこのみ|2017|汉化|トリノライン|PC",
   186685: "BL漫画|秋吉しま|一迅社|BLコミック|BL|2016|全一卷|日本漫画|#ＢＬ漫画|@一迅社",
@@ -11725,6 +11726,7 @@ const bgm_tags = {
   401192: "JRPG|炼金工房|Gust|RPG|2023|PC|PS5|莱莎|STEAM|奇幻|NS",
   401219: "牧场物语|NS|游戏|PC|SIM|PS5|Switch|2023完成|XSX",
   401223: "画集系列",
+  401227: "NS|PC|2025|游戏|符文工房|JRPG|マーベラス|Switch|种田|符文工廠|其他",
   401349: "",
   401544: "漫画|短篇集|日漫|其他",
   401546: "小说系列|已完结|全3卷",
@@ -12688,6 +12690,7 @@ const bgm_tags = {
   453351: "轻小说|约会大作战|時崎狂三",
   453395: "奇幻|机战|搞笑|战斗|科幻|轻小说|后宫|日本|漫画|系列|ショウセツ",
   453555: "已完结|漫画",
+  453558: "已完结",
   453562: "BG|季完",
   453635: "Galgame|国产|吸血鬼|后日谈|纯爱|PC|AsicxArt|AVG|全年龄|2023|STEAM",
   453639: "",
