@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.03.43
+// @version     2025.07.03.95
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11599,6 +11599,7 @@ const bgm_tags = {
   392569: "国产|STEAM|独立游戏|反塔防|AVG|百合|策略|全年龄|中国|RPG|PC",
   392673: "",
   392686: "BL",
+  392773: "漫画|奇幻|一般向|异世界|2022|画风好|轻小说改|漫画系列|全员智商在线|穿越游戏|8",
   392795: "设定集|档案",
   392798: "漫画|BL|BL漫画|漫画系列|BLコミック",
   392856: "轻小说|小说系列",
