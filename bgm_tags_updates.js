@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.04.63
+// @version     2025.07.04.67
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -53,6 +53,7 @@ const bgm_tags = {
   403637: "漫画|校园|恋爱|肉丸|原创|NTR？|谜|圈乱|贵乱|NTR|婊子",
   407358: "漫画|西尾維新|岩崎優次|推理漫画|2022|集英社|少年漫画|密码|推理|日本漫画|連載中",
   439727: "漫画|爱情|校园",
+  439771: "漫画|异世界|小说改|奇幻|战斗|网游|なろう系|ながワサビ64|7.1|2021|异世界转生",
   453558: "已完结",
   505952: "Galgame|Aquaplus|2025|PC|全年龄|ADV|游戏|喜剧|leaf|NS|アクアプラス",
   515211: "PC|ARPG|银河恶魔城|PS5|ACT|PS4|单机游戏|游戏|XboxOne|Platform",
