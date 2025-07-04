@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.04.47
+// @version     2025.07.04.63
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10336,6 +10336,7 @@ const bgm_tags = {
   328260: "マンガ|全2卷|已完结|战斗|奇幻|漫画系列",
   328318: "卡牌|独立游戏|PC|SLG|解谜|普通游戏|解密|STEAM|待购|游戏|策略",
   328321: "电波|PC|心理疾病|ADV|地雷女|养成|2022|STEAM|病娇|狂气|meta",
+  328376: "漫画|校园|卖肉|福利|エロ|色情|搞笑|ムラタコウジ|糟糕|漫画系列|青春",
   328458: "漫画|BL|奇幻|BL漫画|漫画系列|喜剧|BLコミック|腐|耽美|R18|2021",
   328567: "女性向|BL|漫畫|新書館|南月ゆう|2021|Dear+|BLコミック",
   328574: "DC|漫画|欧美|欧美漫画",
