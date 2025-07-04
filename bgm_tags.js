@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.03.97
+// @version     2025.07.04.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12523,6 +12523,7 @@ const bgm_tags = {
   439573: "",
   439634: "",
   439690: "漫画|卖肉|恋爱|校园|2023|系列|龍大和|工口|糟糕|纯爱|肉",
+  439727: "漫画|爱情|校园",
   439737: "",
   439771: "漫画|异世界|小说改|奇幻|战斗|网游|なろう系|ながワサビ64|7.1|2021|异世界转生",
   439926: "ED|2023|lovelive|Aqours|幻日的夜羽",
