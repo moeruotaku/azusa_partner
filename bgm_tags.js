@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.04.67
+// @version     2025.07.05.60
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10945,6 +10945,7 @@ const bgm_tags = {
   352751: "已完结|日本|原创|漫画|系列|漫画系列|全2卷",
   352778: "漫画|已完结|校园|搞笑|科普|漫画系列|擦边福利|系列|全9卷|原创|小學館",
   352804: "漫画系列|小说改|漫画|系列|轻小说改|日本|原创|日漫|连载中",
+  352808: "漫画|短篇|2020|眞藤雅興|奇幻|日漫|JUMP|漫画短篇|超短篇|2020年12月|单篇",
   352893: "Galgame|FD|2013|AVG|PC|全年龄|同人|ADV|游戏|短篇",
   352968: "漫画|奇幻|战斗|小说改|异世界|轻小说改|退队流|2021|よねぞう|套路|小说改编",
   353004: "中国|泛Vocaloid",
