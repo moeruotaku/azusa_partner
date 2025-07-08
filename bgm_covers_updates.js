@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.07.66
+// @version     2025.07.08.35
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -13,7 +13,6 @@
 
 const bgm_covers = {
   1125: "c2/10/1125_oWcLw.jpg",
-  1410: "51/2c/1410_ma0Xo.jpg",
   3510: "15/e1/3510_pWiY9.jpg",
   26033: "a4/b5/26033_60PI6.jpg",
   29275: "af/b1/29275_Mc8eQ.jpg",
@@ -21,7 +20,6 @@ const bgm_covers = {
   55911: "6f/a2/55911_n7jf7.jpg",
   62130: "81/68/62130_jp.jpg",
   123263: "2a/15/123263_kPJGo.jpg",
-  126771: "2b/44/126771_0eeCg.jpg",
   175554: "9e/e9/175554_T3fkf.jpg",
   180064: "ba/c7/180064_ZeeGN.jpg",
   186635: "21/45/186635_ss29I.jpg",
@@ -37,27 +35,31 @@ const bgm_covers = {
   302208: "2f/13/302208_ghzma.jpg",
   308570: "f8/51/308570_8hxh0.jpg",
   316965: "c4/67/316965_DcGaC.jpg",
+  323829: "eb/6d/323829_8fUKC.jpg",
   328376: "ac/97/328376_5ZgtM.jpg",
+  336489: "ed/7f/336489_ybgjG.jpg",
   336828: "12/57/336828_k3h9u.jpg",
   352808: "05/1f/352808_DIbjA.jpg",
+  355555: "0c/26/355555_F43Vf.jpg",
   373629: "f6/ad/373629_7G2y2.jpg",
+  377761: "e6/3a/377761_0Lgnl.jpg",
   379566: "02/6f/379566_AxxZ5.jpg",
   387177: "4c/7d/387177_wvvbw.jpg",
   392773: "d0/c7/392773_7TL7X.jpg",
   393233: "55/da/393233_W033K.jpg",
   394427: "ea/c1/394427_ID2Xd.jpg",
   401227: "87/95/401227_httdT.jpg",
-  402768: "01/9b/402768_299F7.jpg",
   407358: "de/b5/407358_IQ1Wg.jpg",
+  410916: "0b/a5/410916_fBgi5.jpg",
   424562: "7f/a3/424562_6pIqt.jpg",
   439727: "94/4d/439727_50VvJ.jpg",
   439771: "97/7d/439771_MmJqM.jpg",
   441435: "a4/ee/441435_5r5cT.jpg",
+  450650: "bc/c1/450650_Cdc2T.jpg",
   453558: "d0/3b/453558_7J19e.jpg",
   499874: "f0/b1/499874_V0cL0.jpg",
   505952: "d0/2f/505952_9Jcfc.jpg",
-  515211: "15/9b/515211_pjdCU.jpg",
+  509948: "69/f5/509948_OAZy6.jpg",
   527267: "1b/d8/527267_lHgsq.jpg",
-  531861: "b2/a3/531861_lCnen.jpg",
-  549199: "f0/ff/549199_B8kJ1.jpg"
+  531861: "b2/a3/531861_lCnen.jpg"
 };
