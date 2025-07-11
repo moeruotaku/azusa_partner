@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.11.46
+// @version     2025.07.11.63
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -18,6 +18,7 @@ const bgm_tags = {
   48678: "军事|科幻|潜艇|战争|漫画|海上自卫队|モーニング|講談社|川口开治|系列|超長篇",
   55911: "漫画|村田雄介|搞笑|燃|战斗|One|热血|一击男|集英社|一拳超人|少年JUMP",
   62130: "都築真紀|小説|小说|魔法少女奈叶|魔炮|2005|200x|日本小说-总|日本轻小说|ノベル",
+  119403: "漫画|百合|日常|クール教信者|搞笑|萌|妹抖龙|双叶社|双葉社|月刊アクション|漫画系列",
   123263: "Novectacle|同人|AVG|PC|全年龄|GAL|生肉|一般向|悬疑|Galgame|縹けいか",
   180064: "漫画|年上|高田桂|腰斩|姐系|姐|KADOKAWA|奇幻|角川書店|兄弟|姐弟",
   201954: "",
