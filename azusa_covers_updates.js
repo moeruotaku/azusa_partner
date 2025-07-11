@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.10.93
+// @version     2025.07.11.46
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,7 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  29339: "https://res2.pubu.tw/docs/498577/99031/V-3Uif_xl.jpg",
   29360: "//lain.bgm.tv/r/400/pic/cover/l/e5/0f/52501_jp.jpg",
   29362: "//lain.bgm.tv/r/400/pic/cover/l/ed/02/411083_00g58.jpg"
 };
