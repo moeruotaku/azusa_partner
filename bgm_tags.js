@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.11.63
+// @version     2025.07.13.99
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13295,6 +13295,7 @@ const bgm_tags = {
   519040: "猎奇|PC|AVG|无修正|Galgame|重口|STEAM|Windows|游戏|R18|触手",
   519645: "轻小说|小说系列|白毛|日常|恋爱|日本|GA文庫|小说|系列|第二卷|2024",
   519774: "STEAM",
+  520060: "ARPG|PC|游戏|PS5|XSX",
   520079: "Galgame|FD|AUGUST|PC|游戏|R18|ADV",
   520142: "",
   520341: "OP|Ave_Mujica|BanGDream!|动画|2025|日本|ED|单曲|CD|颂乐人偶|AveMujica",
