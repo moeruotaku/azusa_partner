@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.16.38
+// @version     2025.07.16.73
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -32,6 +32,7 @@ const bgm_tags = {
   353857: "百合|漫画|异世界|奇幻|Be-con|猎奇|2021|青騎士|姐妹|KADOKAWA|漫画系列",
   395984: "异世界|漫画|正太|种田流|奇幻|漫画系列|青色まろ|赤池宗|轻小说改|B漫|日本漫画",
   414664: "漫画|卖肉|守月史貴|講談社|成年コミック|ヤンマガWeb|2023",
+  436731: "ARPG|游戏|PC|NS|PS4|XSX|PS5|XboxOne",
   472654: "轻小说|及川輝新",
   520060: "ARPG|PC|游戏|PS5|XSX",
   530029: "轻小说|水城水城|恋爱|校园|2025|KADOKAWA|MF文库J|潮崎しの",

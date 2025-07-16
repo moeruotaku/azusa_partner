@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.16.38
+// @version     2025.07.16.73
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12499,6 +12499,7 @@ const bgm_tags = {
   436613: "轻小说|百合|中国|vtuber",
   436614: "画集",
   436652: "设定集|存盘",
+  436731: "ARPG|游戏|PC|NS|PS4|XSX|PS5|XboxOne",
   436747: "漫画|芳文社|日常|外传|2023|音乐|搞笑|Kirara|日本|日漫|くみちょう",
   436748: "轻小说|2023|岡田麿里|小说|51-100",
   436848: "治愈|奇幻|励志|美食|职场",
