@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.19.03
+// @version     2025.07.20.94
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13064,6 +13064,7 @@ const bgm_tags = {
   487718: "画集",
   487905: "少女|BL|一迅社|BLコミック",
   488142: "STG|PC|游戏",
+  488392: "AVG|2025|STEAM|ADV|PC|魔法少女|Galgame|同人|NS|游戏|悬疑",
   488854: "解谜|PC|恐怖|汉化",
   489130: "悬疑|解迷|Galgame|汉化|同人|アトリヱ陽暉楼|PC|短篇|馆|LINDA|朝長寸志",
   489136: "Vocaloid|v家|洛天依|中国|2024|泛Vocaloid",
@@ -13300,6 +13301,7 @@ const bgm_tags = {
   518578: "PC|BL|游戏|全年龄",
   518714: "漫画|女性向",
   519040: "猎奇|PC|AVG|无修正|Galgame|重口|STEAM|Windows|游戏|R18|触手",
+  519041: "Windows|PC|游戏|猎奇|EROGE|R18",
   519645: "轻小说|小说系列|白毛|日常|恋爱|日本|GA文庫|小说|系列|第二卷|2024",
   519774: "STEAM",
   520060: "ARPG|PC|游戏|PS5|XSX",
