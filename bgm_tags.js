@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.20.94
+// @version     2025.07.21.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10255,6 +10255,7 @@ const bgm_tags = {
   324865: "漫画|人妻|卖肉|2021|节操|漫画系列|エロ|一般向|假面骑士W",
   324883: "マンガ",
   324952: "BL漫画|じゃのめ|BLコミック|2020",
+  325008: "漫画系列|已完结|全4卷",
   325024: "",
   325078: "漫画|恋爱|日漫|別冊少年マガジン|2021|エロ|講談社|原创|战斗|日常|系列",
   325131: "麻枝准|小说|轻小说|轻文学|百合|一卷全|ショウセツ|全本|小説|一般文芸|轻小说（？）",
