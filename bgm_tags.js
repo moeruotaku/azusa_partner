@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.22.58
+// @version     2025.07.24.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -2827,6 +2827,7 @@ const bgm_tags = {
   65386: "百合|Galgame|10mile|PC|笛|汉化|文字冒險|J-MENT|GAL|ADV",
   65390: "沙村広明|漫画|青年漫画|战斗|黑帮|沙村广明|2011|漫画系列|重口|打斗|未完结漫画",
   65450: "漫画|新川直司|足球|体育|2009|校园|講談社|漫画系列|运动竞技|竞技",
+  65458: "少女漫画|漫画|白泉社|あきづき空太|恋爱|少女漫|2006|LaLa|少女|秋月空太|奇幻",
   65521: "漫画系列|漫画|浅田有皆|已完结",
   65530: "甲斐谷忍|漫画|推理|推理漫画|漫画系列|灵能力者",
   65534: "漫画|搞笑|神经病|ヒロユキ|校园|掉智商|日漫|美少女|脑残|日常|食蕉",
