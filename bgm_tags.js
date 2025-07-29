@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.28.65
+// @version     2025.07.29.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12963,6 +12963,7 @@ const bgm_tags = {
   477533: "Roguelike|PC|策略|游戏",
   477760: "卡牌|Roguelike|PC|独立游戏|2024|休闲|STEAM|游戏|肉鸽|小丑牌|Android",
   477849: "漫画|战斗|漫画系列",
+  477850: "漫画|后宫|搞笑|恋爱|石坂リューダイ|2024|师生|限制|校园|卖肉|福利",
   477852: "画集",
   478296: "",
   478317: "",
