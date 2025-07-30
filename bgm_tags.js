@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.29.35
+// @version     2025.07.30.39
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12786,6 +12786,7 @@ const bgm_tags = {
   460011: "漫画|国漫|百合|中國|中国|误解系",
   460188: "",
   460409: "国产|机甲|俯视射击|PC|养成|百合|STG|2023|游戏|守家|配装",
+  460536: "",
   460581: "画集|设定集|2023",
   460712: "画集|mignon|R18|已购|双葉社|2023",
   460743: "Galgame|CRYSTALiA|白毛|废萌|2024|妹|萝莉|秋野花|PC|塔塔开|ADV",
@@ -13411,6 +13412,7 @@ const bgm_tags = {
   546832: "日本|漫画|BL|系列",
   547340: "日本|漫画|短篇集|系列",
   547482: "",
+  548132: "PC|NS|打越钢太郎|悬疑|ADV|游戏|NS2|2025|STEAM|推理",
   548433: "漫画|中国|已完结",
   549199: "画集",
   549535: "漫画|少年|中国|原创|玄幻",
