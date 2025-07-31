@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.07.30.82
+// @version     2025.07.31.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11953,6 +11953,7 @@ const bgm_tags = {
   409532: "设定集",
   409605: "漫画|短篇集|恋爱|全一卷",
   409684: "漫画|音乐|百合|摇滚|校园|乐队|热血|日本|连载中|数摇|青年",
+  409689: "短篇集|漫画|よしながふみ|2023|日本|原创|集英社|已完结|一般向漫画",
   409715: "AVG|PC|推理|STEAM|解谜|欧美|游戏|汉化|Android|iOS",
   409752: "20世纪",
   409764: "漫画|遊人",
