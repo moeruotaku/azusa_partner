@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.03.07
+// @version     2025.08.03.92
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -4696,6 +4696,7 @@ const bgm_covers = {
   124293: "d8/f4/124293_9SZDq.jpg",
   124300: "1a/64/124300_58PJc.jpg",
   124311: "64/9a/124311_h9WaA.jpg",
+  124332: "08/0d/124332_mjpdI.jpg",
   124350: "d3/09/124350_aAa3Z.jpg",
   124355: "b3/8d/124355_SfFNn.jpg",
   124463: "02/cb/124463_p8pvr.jpg",
@@ -12053,6 +12054,7 @@ const bgm_covers = {
   414148: "75/74/414148_9er6s.jpg",
   414159: "5c/49/414159_9KmHq.jpg",
   414165: "78/b5/414165_Q4cql.jpg",
+  414169: "0e/8b/414169_V996v.jpg",
   414171: "aa/e5/414171_JmTIx.jpg",
   414181: "bf/c9/414181_DiTzf.jpg",
   414184: "e9/14/414184_884Z8.jpg",
@@ -12550,6 +12552,7 @@ const bgm_covers = {
   440060: "78/84/440060_4453a.jpg",
   440077: "4e/e9/440077_19yTp.jpg",
   440323: "5d/9b/440323_MrcdJ.jpg",
+  440550: "69/7d/440550_lKxzZ.jpg",
   440646: "6b/f8/440646_23zI2.jpg",
   440865: "70/ae/440865_HMbg8.jpg",
   440916: "62/a9/440916_1oiMC.jpg",
@@ -12800,6 +12803,7 @@ const bgm_covers = {
   460581: "22/e8/460581_kd119.jpg",
   460712: "6f/0c/460712_5NQ4O.jpg",
   460743: "c9/5b/460743_ZSCcm.jpg",
+  460897: "33/fe/460897_Svdkf.jpg",
   461111: "c1/82/461111_WlEzV.jpg",
   461199: "0f/7f/461199_hPSbR.jpg",
   461243: "5a/bc/461243_7WWMY.jpg",
@@ -13074,6 +13078,7 @@ const bgm_covers = {
   487718: "8e/5b/487718_kfe72.jpg",
   487905: "56/e3/487905_Hd6nE.jpg",
   488142: "11/58/488142_qacvZ.jpg",
+  488284: "5c/9f/488284_324Q4.jpg",
   488392: "df/0f/488392_h78qM.jpg",
   488854: "28/1b/488854_uL30u.jpg",
   489130: "67/ca/489130_y161Y.jpg",
@@ -13412,6 +13417,7 @@ const bgm_covers = {
   541868: "6c/00/541868_ze9bE.jpg",
   542118: "f9/ce/542118_MB1U2.jpg",
   542449: "b2/b4/542449_e54qe.jpg",
+  542478: "1a/36/542478_Cv79S.jpg",
   542606: "22/40/542606_Y11A3.jpg",
   542816: "31/12/542816_2BTWb.jpg",
   543803: "18/f9/543803_J5I4Z.jpg",
