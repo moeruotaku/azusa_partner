@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.03.92
+// @version     2025.08.04.43
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -2882,6 +2882,7 @@ const bgm_tags = {
   66786: "画集|Fate|设定集",
   66831: "漫画|职场|福利|小说改|全一卷|鶴岡伸寿|一條和樹",
   66836: "漫画|集英社",
+  66849: "漫画|さくらももこ|樱桃子|已完结|童年|日本漫画|日常|校园|少女漫画|女作者|1987",
   66873: "漫画|搞笑|増田こうすけ|搞笑漫画|集英社|【主条目】|マンガ|漫畫|top100|toku|脱力",
   66901: "集英社|漫画|藤崎竜|冒险|热血|战斗|科幻|漫画系列|已完结",
   66903: "集英社|藤崎竜",
