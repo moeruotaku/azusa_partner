@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.06.58
+// @version     2025.08.07.00
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,8 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  29497: "https://i.imgur.com/OOmGmNh.jpeg",
-  29498: "https://i.imgur.com/t97zhkY.jpeg",
   29500: "https://cdn-fusion.imgcdn.store/i/2025/7ace23c21972a1f4.jpg",
   29509: "https://img.dlsite.jp/modpub/images2/work/doujin/RJ01334000/RJ01333194_img_main.webp",
   29510: "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=232000033600.jpg",
@@ -33,6 +31,7 @@ const azusa_covers = {
   29591: "https://ptpimg.me/d1yr8e.jpg",
   29592: "//lain.bgm.tv/r/400/pic/cover/l/4f/ae/495731_05KKP.jpg",
   29595: "https://ptpimg.me/g75yqs.jpg",
-  29616: "//lain.bgm.tv/r/400/pic/cover/l/88/00/111033_jp.jpg",
-  29618: "//lain.bgm.tv/r/400/pic/cover/l/76/a6/110731_NVc0D.jpg"
+  29630: "https://ptpimg.me/bmyvu0.jpg",
+  29631: "https://ptpimg.me/17qu17.jpg",
+  29632: "https://ptpimg.me/3m4w41.jpg"
 };
