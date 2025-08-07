@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.07.00
+// @version     2025.08.07.69
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -22,10 +22,12 @@ const bgm_covers = {
   55911: "6f/a2/55911_n7jf7.jpg",
   64051: "e7/4d/64051_3E2J5.jpg",
   66849: "08/73/66849_y77sz.jpg",
+  68403: "3c/f7/68403_ej8H5.jpg",
   102389: "9c/14/102389_I3ie2.jpg",
   105621: "49/3b/105621_qq47M.jpg",
   110731: "76/a6/110731_NVc0D.jpg",
   111033: "88/00/111033_jp.jpg",
+  118435: "60/1f/118435_Z2Mn8.jpg",
   124332: "08/0d/124332_mjpdI.jpg",
   132067: "9d/ba/132067_beW65.jpg",
   132823: "fc/7d/132823_GILmw.jpg",
@@ -33,6 +35,8 @@ const bgm_covers = {
   172279: "6c/93/172279_AIvfw.jpg",
   175459: "81/5a/175459_RAH87.jpg",
   180834: "dd/ec/180834_eV29o.jpg",
+  184605: "8d/ac/184605_i697l.jpg",
+  191914: "46/6d/191914_jp.jpg",
   193081: "e5/e0/193081_LK4M2.jpg",
   210720: "99/7a/210720_Dy11Z.jpg",
   219667: "e8/25/219667_Kp6Nr.jpg",
@@ -76,6 +80,7 @@ const bgm_covers = {
   401772: "2c/31/401772_hFhGr.jpg",
   401823: "b4/cd/401823_fIg2K.jpg",
   402331: "89/25/402331_MmaZ6.jpg",
+  404461: "38/10/404461_G3f1m.jpg",
   404863: "d8/c7/404863_ozFf3.jpg",
   414169: "0e/8b/414169_V996v.jpg",
   415501: "8e/70/415501_H0RJW.jpg",
@@ -88,10 +93,12 @@ const bgm_covers = {
   440550: "69/7d/440550_lKxzZ.jpg",
   441030: "72/70/441030_d3LRi.jpg",
   446488: "cb/d0/446488_W4kTZ.jpg",
+  452349: "3c/74/452349_8qi18.jpg",
   452357: "28/de/452357_zZ00g.jpg",
   456344: "98/5d/456344_WcdJ9.jpg",
   460897: "33/fe/460897_Svdkf.jpg",
   463294: "80/dd/463294_Knbn4.jpg",
+  464238: "c9/2e/464238_o2aH4.jpg",
   477849: "5e/63/477849_jA338.jpg",
   488284: "5c/9f/488284_324Q4.jpg",
   488413: "7d/07/488413_WjjlS.jpg",
@@ -100,7 +107,9 @@ const bgm_covers = {
   500962: "d8/90/500962_9lYvV.jpg",
   502442: "13/e3/502442_bJ88B.jpg",
   503755: "f3/fd/503755_OmL5e.jpg",
+  506788: "67/86/506788_ASZAV.jpg",
   515211: "15/9b/515211_pjdCU.jpg",
+  519645: "11/86/519645_LHHR5.jpg",
   531067: "08/7e/531067_ogEw7.jpg",
   532476: "0e/b2/532476_S5QYf.jpg",
   542478: "1a/36/542478_Cv79S.jpg",
