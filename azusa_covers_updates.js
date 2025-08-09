@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.09.04
+// @version     2025.08.09.99
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -61,5 +61,29 @@ const azusa_covers = {
   29698: "https://img.azusa.wiki/images/2025/08/08/wechat_2025-08-08_225140_271.png",
   29699: "https://img.azusa.wiki/images/2025/08/08/wechat_2025-08-08_225402_100.png",
   29700: "https://img.azusa.wiki/images/2025/08/08/wechat_2025-08-08_225640_598.png",
-  29701: "https://img.azusa.wiki/images/2025/08/09/cover.jpg"
+  29701: "https://img.azusa.wiki/images/2025/08/09/cover.jpg",
+  29706: "https://img.azusa.wiki/images/2025/08/09/cover47ef522b9ceff784.jpg",
+  29707: "https://img.azusa.wiki/images/2025/08/09/cover598854cbe9588971.jpg",
+  29715: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_170238_705.png",
+  29716: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_170400_667.png",
+  29717: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_170858_255.png",
+  29718: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_173043_405.png",
+  29719: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_173057_483.png",
+  29721: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_180019_489.png",
+  29722: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_180124_067.png",
+  29723: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_180231_655.png",
+  29724: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_180340_844.png",
+  29725: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_182601_652.png",
+  29726: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_185203_479.png",
+  29727: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_185252_317.png",
+  29728: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_185349_194.png",
+  29732: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_203936_219.png",
+  29733: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_203303_511.png",
+  29735: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_202909_922.png",
+  29737: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_202751_731.png",
+  29738: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_203009_292.png",
+  29739: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_203545_667.png",
+  29740: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_203431_539.png",
+  29741: "https://img.azusa.wiki/images/2025/08/09/wechat_2025-08-09_204244_541.png",
+  29744: "https://zhezhe885.github.io/picx-images-hosting/簪花郎.7snj3v721c.webp"
 };
