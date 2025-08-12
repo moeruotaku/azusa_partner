@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.12.40
+// @version     2025.08.12.61
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12398,6 +12398,7 @@ const bgm_tags = {
   425733: "轻小说|夏乃実|恋爱|后宫|大小姐",
   425745: "中国|腰斩|国漫|古风|原创|快穿",
   425826: "漫画|奇幻|搞笑|加藤拓弐|2023|KADOKAWA|连载中|ガしガし|TS|百合",
+  425931: "漫画|国漫|剧情|冒险|古风|中国",
   426078: "画集|永野护",
   426153: "画集|画集·设定集",
   426258: "画集",
@@ -13400,6 +13401,7 @@ const bgm_tags = {
   524399: "Galgame|PC|游戏|ADV|R18gal",
   524427: "Galgame|まどそふと|FD|废萌|宇都宮つみれ|2025|PC|R18|校园|白毛|纯爱",
   524477: "国产|Galgame|AVG|PC|中国|GAL|全年龄|STEAM",
+  524576: "国产|Galgame|全年龄|视觉小说|电波|PC|meta|短篇|AVG|ADV|2024",
   525135: "RPG|解谜|悬疑|PC|冒险|恐怖|ふみー|云过|RPGMaker|WISH|游戏",
   525453: "漫画|BL",
   525542: "画集",
