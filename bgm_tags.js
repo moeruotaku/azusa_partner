@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.13.38
+// @version     2025.08.13.59
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12877,6 +12877,7 @@ const bgm_tags = {
   462533: "漫画|恋爱|战斗|杀手|黑暗|暴力|連載中|2024|大瀬戸陸|分镜爽|黑道",
   462590: "成年コミック|画集|個人画集|巨乳|工口",
   462834: "设定集|画集|GAL",
+  463270: "",
   463294: "已入",
   463298: "画集·设定集|画集|福田晋一|已入|已购|画集・設定資料集",
   463335: "",
@@ -13150,6 +13151,7 @@ const bgm_tags = {
   489874: "",
   489929: "AVG|悬疑|PC|推理|2024|独立游戏|STEAM|韩国|ADV|PUZ",
   489930: "推理|悬疑|AVG|PC|韩国|汉化|独立游戏|2023|STEAM|游戏",
+  490057: "百合|漫画|已完结|单行本|漫画系列|コミックス|非单行|まめ魚|全1巻",
   490076: "PS5|悬疑|PC|Galgame|致郁|全年龄|剧情|PS4|汉化|ADV|白金",
   490077: "RPG|JRPG|PC|Gust|ガスト|2021|炼金工房|NS|PS4|STEAM",
   490095: "RPG|PC|ガスト|2021|PS4|Gust|NS|炼金工房|STEAM|JRPG",
