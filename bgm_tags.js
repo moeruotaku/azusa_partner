@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.14.04
+// @version     2025.08.14.70
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12428,6 +12428,7 @@ const bgm_tags = {
   427883: "",
   427969: "YOASOBI|OP|2023|我推的孩子|Ayase|星野爱|ikura|动画|【推しの子】|OPED|【我推的孩子】",
   427985: "轻小说|東崎惟子|悬疑|奇幻|黑暗|复仇|轻文学|2023.6",
+  428285: "百合|漫画|2023|とみさー|师生|校园|秋田書店|师生恋|同人奇迹（嘘）|短篇",
   428420: "漫画",
   428525: "",
   428529: "推理|轻小说|奇幻|国轻|陈浩基",
@@ -13473,6 +13474,7 @@ const bgm_tags = {
   536579: "日本|漫画|历史|原创|已完结",
   536639: "轻小说|駱駝|恋爱",
   536916: "日本|小说",
+  537130: "Galgame|HOOKSOFT|FD|PC|游戏|2025|废萌|ADV|渡辺僚一|黑长直|阿部まれお",
   537756: "国产|PC|Galgame|巫女|无语音",
   537847: "轻小说|恋爱",
   538228: "漫画|国漫|推理|中国",
