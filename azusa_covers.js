@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.16.05
+// @version     2025.08.16.80
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3471,5 +3471,7 @@ const azusa_covers = {
   29877: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063107_848.png",
   29878: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063355_968.png",
   29879: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063626_640.png",
-  29880: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063453_202.png"
+  29880: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063453_202.png",
+  29884: "https://tongliebookpic.blob.core.windows.net/bookcover/1dc7fb4f4b5541589c9608ddcfe5ba7d.jpg",
+  29886: "//lain.bgm.tv/r/400/pic/cover/l/0f/01/203782_d3Zyx.jpg"
 };
