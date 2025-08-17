@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.17.10
+// @version     2025.08.17.65
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -63,6 +63,7 @@ const bgm_tags = {
   463270: "",
   463804: "百合|漫画|日常",
   465508: "漫画",
+  465813: "",
   466852: "恋爱|搞笑",
   470335: "漫画|台湾|原创|中国|天坑|连载中|男神A君|中国大陆|webtoon",
   470675: "漫画|漫画系列",

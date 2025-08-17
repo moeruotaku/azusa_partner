@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.17.10
+// @version     2025.08.17.65
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12914,6 +12914,7 @@ const bgm_tags = {
   465468: "",
   465508: "漫画",
   465673: "",
+  465813: "",
   466004: "RPG|PC|游戏|汉化",
   466038: "轻小说|小说系列|2023|ファンタジア文庫|逆霧",
   466068: "耽美|漫画|中国|BL漫画|系列|纸质书",
