@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.17.74
+// @version     2025.08.18.37
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3471,5 +3471,10 @@ const azusa_covers = {
   29877: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063107_848.png",
   29878: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063355_968.png",
   29879: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063626_640.png",
-  29880: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063453_202.png"
+  29880: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063453_202.png",
+  29889: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063745_599.png",
+  29890: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_070602_540.png",
+  29892: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_070757_301.png",
+  29893: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_070713_385.png",
+  29894: "https://img.azusa.wiki/images/2025/08/14/wechat_2025-08-14_063927_680.png"
 };

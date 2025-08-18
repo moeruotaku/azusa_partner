@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.17.74
+// @version     2025.08.18.37
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -8698,6 +8698,7 @@ const bgm_tags = {
   271005: "漫画|后宫|福利向|战斗|竹村洋平|卖肉|奇幻|2019|福利|肉|集英社",
   271023: "PC|AVG|游戏",
   271046: "漫画|国漫",
+  271065: "中国",
   271292: "",
   271379: "",
   271380: "恋爱|少女|マンガ|全一卷",
