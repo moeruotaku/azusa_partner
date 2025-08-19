@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.19.36
+// @version     2025.08.19.73
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12348,6 +12348,7 @@ const bgm_tags = {
   421311: "AVG|微恐怖|2023|freegame|游戏|ADV",
   421317: "おげれつたなか|BL|BL漫画|BLコミック|短篇|漫画|竹書房|我的cp",
   421372: "百合|ARPG|削除|PC|机械少女|PS5|末世|FuRyu|NS|PS4|2023",
+  421419: "漫画|后宫|恋爱|一般向|青年漫|搞笑|福利|泥石流|女拳",
   421435: "Galgame|Purplesoftware|分割商法|黑帮|短篇|R18|2023|かずきふみ|拔作|智斗|科幻",
   421548: "异世界|战斗|漫画|齋藤勁吾|奇幻|萝莉|热血|2023|KADOKAWA|搞笑|ニコニコ静画",
   421840: "全年龄|短篇|汉化|夜のひつじ|iOS|剧情|Galgame|幼驯染|Android|2015|porori",
