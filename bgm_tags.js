@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.19.73
+// @version     2025.08.20.69
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -8156,6 +8156,7 @@ const bgm_tags = {
   244642: "百合|漫画|校园|アジイチ|2018|日常|竹書房|恋爱|漫画系列|已完结|搞笑",
   244659: "复仇|漫画系列|黑澤R|一般向|悬疑|黑暗|NTR|漫画|マンガ",
   244661: "漫画|門田昌子|短篇集|R18|画风很美|成人漫画|一般向|樱木紫乃|已完结漫画|日本|系列",
+  244959: "SRPG|同人|RPG|游戏性|アドレナ戦記|Galgame|战斗|freegame|约50或100h|魂like",
   244994: "漫画|后宫|恋爱|奇幻|搞笑|日常|魔物娘|卖肉|已完结|勇人|擦边球",
   245029: "漫画|卖肉|智弘カイ|2018|搞笑|講談社|肉|限制|NTR|マガジンポケット|爱情",
   245153: "漫画|已完结",
