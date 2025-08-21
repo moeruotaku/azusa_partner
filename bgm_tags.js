@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.21.35
+// @version     2025.08.21.74
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12834,6 +12834,7 @@ const bgm_tags = {
   457154: "",
   457341: "搞笑|转生",
   457496: "国漫|中国|原创",
+  457605: "漫画|治愈|职场",
   457686: "漫画|恋爱|日常|病态|岩葉|pua|重女|KADOKAWA|2023|恋爱喜剧|原创",
   457692: "漫画|恋爱|校园|身份交换|搞笑|岸川瑞樹|前任文学|少年ジャンプ＋|2024|奇幻|日本",
   457746: "画集|個人画集",
