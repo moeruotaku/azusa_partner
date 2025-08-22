@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.22.35
+// @version     2025.08.22.73
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13456,6 +13456,7 @@ const bgm_tags = {
   529681: "公式书|日本|纸质书|東映アニメーション|GBC|2025|设定集|マイクロマガジン社",
   529743: "画集",
   530021: "轻小说",
+  530363: "轻小说|丸戸史明|恋爱|小说|2025|37|小说系列",
   530405: "漫画|中国",
   530651: "漫画|BL",
   531067: "画集|存盘",
