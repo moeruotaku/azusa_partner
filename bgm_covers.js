@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.22.73
+// @version     2025.08.23.74
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -6770,6 +6770,7 @@ const bgm_covers = {
   196861: "f9/c8/196861_o78oR.jpg",
   196866: "e4/b9/196866_jp.jpg",
   196888: "2a/ea/196888_TmMW8.jpg",
+  196954: "ed/12/196954_E3QTF.jpg",
   196964: "a6/e8/196964_2Tm67.jpg",
   196972: "da/64/196972_UY4uC.jpg",
   197004: "53/ca/197004_S77zw.jpg",
@@ -6954,6 +6955,7 @@ const bgm_covers = {
   201512: "f5/7c/201512_5f5UT.jpg",
   201527: "4d/e6/201527_64w9l.jpg",
   201551: "d7/f1/201551_8PU5U.jpg",
+  201573: "7f/26/201573_jp.jpg",
   201575: "d0/d0/201575_jp.jpg",
   201576: "60/ef/201576_jp.jpg",
   201581: "6b/de/201581_jp.jpg",
@@ -11435,6 +11437,7 @@ const bgm_covers = {
   378539: "5d/7f/378539_IvpBM.jpg",
   378564: "27/6b/378564_jJDBD.jpg",
   378639: "79/6d/378639_7Rw9s.jpg",
+  378649: "4d/93/378649_iE3YD.jpg",
   378726: "89/62/378726_4l174.jpg",
   378778: "b6/cc/378778_q4ckq.jpg",
   378805: "73/7c/378805_JiEn3.jpg",
@@ -12373,6 +12376,7 @@ const bgm_covers = {
   422778: "54/4f/422778_g6X5n.jpg",
   422953: "76/cf/422953_okIIo.jpg",
   423115: "51/5f/423115_abqG9.jpg",
+  423149: "8a/31/423149_jB7E2.jpg",
   423160: "8d/5d/423160_K22za.jpg",
   423243: "8e/ea/423243_2Vb2a.jpg",
   423248: "86/a5/423248_x3K4z.jpg",
@@ -13256,6 +13260,7 @@ const bgm_covers = {
   499873: "a8/3d/499873_upvwZ.jpg",
   499874: "f0/b1/499874_V0cL0.jpg",
   499920: "1f/00/499920_K2W0M.jpg",
+  500226: "61/8f/500226_GmXmg.jpg",
   500841: "8f/77/500841_0W2rm.jpg",
   500873: "e1/20/500873_swW6E.jpg",
   500962: "d8/90/500962_9lYvV.jpg",
@@ -13358,6 +13363,7 @@ const bgm_covers = {
   508444: "e5/de/508444_P8qnA.jpg",
   509029: "48/31/509029_1mYgi.jpg",
   509069: "8d/db/509069_f0Mf0.jpg",
+  509166: "c3/e5/509166_8mQ9W.jpg",
   509226: "05/16/509226_4vY5V.jpg",
   509333: "19/11/509333_KQArA.jpg",
   509334: "4f/14/509334_DbdDl.jpg",
