@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.25.36
+// @version     2025.08.25.61
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -52,6 +52,7 @@ const bgm_tags = {
   334753: "Galgame|韩国|全年龄|短篇|STEAM|电影视觉小说|MidnightWorks|PC|时空跳跃|2021|科幻",
   339092: "轻小说|恋爱|校园|白毛|插画好看|纯糖|角川スニーカー文庫|燦々SUN|ももこ|KADOKAWA|小说系列",
   349339: "恋爱|漫画|人妻|巨乳|搞笑|卖肉|杀必死|ねこ末端|已完结|漫画系列|日本",
+  366616: "漫画|恋爱|宮島礼吏|2022|圈乱|兄妹|日常|漫画系列|白泉社|日本漫画",
   368804: "漫画|战斗|奇幻|講談社|2022|热血|裏那圭|漫画系列|原创|废品",
   378649: "漫画",
   380006: "BL|BLコミック|BL漫画|漫画|海王社|黒井よだか",
