@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.25.72
+// @version     2025.08.26.48
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -6795,6 +6795,7 @@ const bgm_tags = {
   197264: "漫画|校园|甘詰留太|恋爱|卖肉|白泉社|扭曲|2016|已完结|青春|日漫",
   197360: "漫画|日常|搞笑|推理|已完结|漫画系列|2015|放学后推理研究会！|单元剧|现实|中篇",
   197397: "漫画|遊人|恋爱|漫画系列|漫画シリーズ",
+  197401: "乙女向|PC|R18|乙女ゲーム|ADV|Galgame|纯爱|游戏|乙女|Kalmia8|OTO",
   197422: "日本|设定集|画集|公式书|蒸汽朋克|纸质书|その他|2016",
   197458: "漫画|岡田麿里|絵本奈央|恋爱|2016|校园|骚动时节的少女们啊|少女漫画|少女漫|講談社|少女",
   197547: "漫画",
