@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.08.28.48
+// @version     2025.08.28.73
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13272,6 +13272,7 @@ const bgm_tags = {
   498929: "",
   499005: "",
   499055: "Galgame|FrontWing|废萌|纯爱|NANACAN|小倉結衣|ななかまい|2024|白毛红瞳|短篇|八幡かや",
+  499056: "漫画",
   499107: "历史|诸星大二郎|漫画|志怪|奇幻",
   499108: "漫画|诸星大二郎|完结|奇幻|历史|漫画系列|志怪",
   499453: "",
@@ -13489,6 +13490,7 @@ const bgm_tags = {
   529681: "公式书|日本|纸质书|東映アニメーション|GBC|2025|设定集|マイクロマガジン社",
   529743: "画集",
   530021: "轻小说",
+  530159: "Fragaria|同人|Galgame|PC|游戏|STEAM|世界观|ADV|科幻|待发售",
   530363: "轻小说|丸戸史明|恋爱|小说|2025|37|小说系列",
   530405: "漫画|中国",
   530651: "漫画|BL",
