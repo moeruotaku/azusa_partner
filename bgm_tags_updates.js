@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.01.38
+// @version     2025.09.01.72
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -74,6 +74,7 @@ const bgm_tags = {
   489436: "轻小说|3pu",
   496474: "轻小说|香月美夜",
   499056: "漫画",
+  509948: "炼金工房|JRPG|PC|RPG|2025|Gust|PS5|游戏|光荣特库摩|STEAM|NS",
   519645: "轻小说|小说系列|恋爱|白毛|日本|日常|2024|校园|系列|GA文庫|小说",
   530159: "Fragaria|同人|Galgame|PC|游戏|STEAM|世界观|ADV|科幻|待发售",
   537847: "轻小说|恋爱",
