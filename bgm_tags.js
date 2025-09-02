@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.01.72
+// @version     2025.09.02.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13450,6 +13450,7 @@ const bgm_tags = {
   519040: "猎奇|PC|Galgame|重口|触手|无修正|AVG|EROGE|游戏|STEAM|Windows",
   519041: "猎奇|拔作|Windows|游戏|PC|Galgame|重口|R18|R18G|黄油|凌辱",
   519645: "轻小说|小说系列|恋爱|白毛|日本|日常|2024|校园|系列|GA文庫|小说",
+  519667: "",
   519774: "STEAM",
   520060: "ARPG|PC|游戏|PS5|XSX",
   520079: "Galgame|FD|AUGUST|PC|游戏|R18|ADV",
