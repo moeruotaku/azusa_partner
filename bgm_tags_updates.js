@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.02.36
+// @version     2025.09.02.70
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -38,6 +38,7 @@ const bgm_tags = {
   285270: "漫画|异世界|轻改|转生|高橋愛|小说改|漫画系列|2019|穿越|龙傲天|搞笑",
   292001: "漫画|漫画系列|养女儿|轻改|轻小说改|日常|异世界|美食|奇幻|搞笑|小说改",
   292874: "BL|はらだ|BL漫画|BLコミック|漫画|2019|竹書房|漫画系列|连载中|触手|日本漫画",
+  294934: "FTG|格斗|罪恶装备|PC|ARC|2021|STEAM|3渲2天花板|PS4|GG|NS",
   298455: "漫画|穿越|搞笑|音乐|小川亮|2019|四葉夕卜|派对浪客诸葛孔明|转生|热血|講談社",
   298752: "漫画|格斗|战斗|超能力|奇幻|2020|日本|原创|ゲズンタイト|系列|连载中",
   299227: "漫画|热血|战斗|集英社|周刊少年JUMP|戸塚慶文|奇幻|超能力|2020|恋爱|JUMP",
