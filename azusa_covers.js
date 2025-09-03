@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.02.70
+// @version     2025.09.03.36
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3492,5 +3492,6 @@ const azusa_covers = {
   30013: "https://res1.pubu.tw/docs/200364/41824/FDL95K_xl.jpg",
   30021: "//lain.bgm.tv/r/400/pic/cover/l/39/ef/527901_NUA21.jpg",
   30042: "https://img.azusa.wiki/images/2025/09/02/001.jpg",
-  30043: "https://img.pterclub.com/images/2025/09/02/cfb085df-c5c7-42cc-ab7b-978c0dd37e79.png"
+  30043: "https://img.pterclub.com/images/2025/09/02/cfb085df-c5c7-42cc-ab7b-978c0dd37e79.png",
+  30044: "https://ptpimg.me/a6eip9.png"
 };
