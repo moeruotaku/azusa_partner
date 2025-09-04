@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.03.73
+// @version     2025.09.04.36
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -359,6 +359,7 @@ const azusa_covers = {
   7399: "https://ebook-assets.dmm.com/digital/e-book/b000chftx02968/b000chftx02968pl.jpg",
   7406: "https://pan.abler.icu/img/2022/11/13/j8ZFgsUz/001.jpg?hash=B89Ao4pr&amp;download=1",
   7485: "https://img.pterclub.com/images/2022/11/13/000ff9b9ec4bf2c1f4d.png",
+  7502: "https://img.pterclub.com/images/2022/11/13/Bear_Story_01-000.jpg",
   7506: "https://img.pterclub.com/images/2022/11/13/2132312.jpg",
   7581: "attachments/202211/20221114041238af8c0ed12b649af8a936cae5b5ec57fe.jpg",
   7582: "attachments/202211/20221114045421ca88c76ab5790d47fdfefd5559d87862.jpg",

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.03.73
+// @version     2025.09.04.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -4433,7 +4433,6 @@ const bgm_tags = {
   115976: "SMEE|Galgame|糖|早瀬ゆう|甜|幼馴染|搞笑|2015|幼驯染|汉化|PC",
   115987: "短篇集|漫画|恐怖|ひよどり祥子|黑暗|猎奇|悬疑|2014|全一卷|短篇|奇幻",
   116038: "Galgame|FrontWing|小倉結衣|フロントウイング|秋野花|GAL|羽鳥ぴよこ|废萌|纯爱|PC|没老师线真可惜..",
-  116253: "成年コミック|はんざきじろう|2011|漫画|后宫|R18|日本漫画|成人漫画",
   116262: "Galgame|Purplesoftware|紫社|御影|克|妹|2015|妹控|クロノクロック|汉化|PC",
   116271: "漫画|東タイラ|成年コミック|漫画単行本|工口|R18|2013|H本|你好你很难n|日漫",
   116295: "Galgame|STEAM|PC|GAL|汉化|球|steam奇观之一|独立游戏|ADV",
