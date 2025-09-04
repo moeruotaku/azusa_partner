@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.04.62
+// @version     2025.09.04.72
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -14,6 +14,7 @@
 const bgm_tags = {
   6210: "BL|渡瀬悠宇|BL漫画|大正|漫画|虐|耽美|BE|亂倫|渡濑悠宇|獵奇",
   6673: "高永ひなこ|BL|女王受|BL漫画|耽美|恋する暴君|傲娇受|漫画|绿川光|掰彎|海王社",
+  19696: "百合|漫画|阿卡林|摇曳百合|日常|搞笑|一迅社|なもり|校园|百合姬|萌",
   120999: "轻小说|野村美月|轻小说系列|系列|看书计划",
   198385: "百合|漫画|tMnR|コミック百合姫|百合姬|爱上嫂子|虐|漫画系列|社会人|家庭伦理|嫂子文学",
   218102: "漫画|性转|搞笑|萌|日常|性转换|兄控|ねことうふ|别当欧尼酱了|2017|一迅社",
