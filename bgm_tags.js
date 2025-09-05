@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.04.72
+// @version     2025.09.05.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -3799,6 +3799,7 @@ const bgm_tags = {
   94745: "国漫|青春|漫画|校园|口袋巧克力|治愈|恋爱|中国|绘本|国产|昨日青空",
   94818: "已完结|漫画|漫画系列|全6卷",
   94883: "校园",
+  94928: "少女漫画|漫画|春田なな|校园|恋爱|少女|男二控|春田菜菜|少女漫|少女マンガ|漫画系列",
   94934: "少女漫画|漫画",
   94942: "少女漫画|漫画系列|少女マンガ",
   94948: "少女漫画|少女|少女マンガ|漫画|系列|已完结|春田菜菜",
