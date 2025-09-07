@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.07.71
+// @version     2025.09.08.04
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -32,7 +32,6 @@ const bgm_tags = {
   332937: "TL|漫画|R18|恋爱|女性向|穿越|奇幻|人外|TL漫画|限制",
   354130: "漫画|奇幻|2021|森下真|月刊少年マガジン|講談社|勇者|原创|漫画系列|搞笑|日常",
   355540: "恋爱|漫画|校园|日常|一般向|已完结|漫画系列|青年|逆推|日本|完结",
-  361988: "漫画|校园霸凌|致郁|奇幻|短篇|タイザン5|外星人|2021|日本|科幻|萝莉",
   367226: "恋爱|漫画|少女漫|偶像|少女|2021|少女漫画|搞笑|花とゆめ|白泉社|師走ゆき",
   404495: "AVG|游戏|PC|同人|freegame|Web|DJ|2021|短篇",
   422014: "轻小说|榛名丼|恋爱|奇幻|校园|青春|小说|2023|迷惘|复制人|日本",
