@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.08.37
+// @version     2025.09.09.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13602,6 +13602,7 @@ const bgm_tags = {
   557770: "",
   558657: "Galgame|Laplacian|全年龄|緒乃ワサビ|游戏|ADV|霜降|2025",
   558702: "",
+  558742: "小高和刚|中泽工|PC|2025|悬疑|AVG|ADV|北山猛邦|NS|游戏|推理",
   558863: "",
   558890: "Galgame|视觉小说|PC|汉化|兽耳|全年龄|游戏|ADV|云过|VN|CyberStep",
   558994: "",
