@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.09.36
+// @version     2025.09.09.68
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12760,6 +12760,7 @@ const bgm_tags = {
   449330: "漫画|轻百合|2024|音乐|动漫改|搞笑|动画改|講談社|マガジンポケット",
   449348: "国漫",
   449386: "PC|STEAM|游戏|AVG|NS|文字冒险|LGBTQIA+",
+  449427: "漫画|战斗|搞笑|怪兽|小学馆|ヨシアキ|2023|日本|变身|原创|连载中",
   449498: "FTG|2024|arcsystem|PS5|PC|游戏|ARC|NS|PS4",
   449499: "ED|2023|星灵感应|星屑テレパス|百合|造火箭|phritz|OPED|anime|贴贴|パソコン音楽クラブ",
   449502: "OP|2023|星灵感应|星屑テレパス|anime|动画|伊藤美来|OPED|きらら|Latin",
