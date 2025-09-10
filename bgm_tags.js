@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.10.72
+// @version     2025.09.10.86
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9719,6 +9719,7 @@ const bgm_tags = {
   304375: "SAGAPLANETS|Galgame|福圆美里|废萌|2020|澤田なつ|GAL|烂尾顺|PC|妹|幼なじみ",
   304378: "国漫|漫画|反套路|奇幻|科幻|热血|国产|中国|搞笑|条漫|墨柚",
   304379: "国漫|漫画|网文改|天蚕土豆|中国|DR.大吉",
+  304390: "漫画|漫画系列|マンガ|已完结|系列|原创|日本|一般向|エロ|連載中|全5卷",
   304394: "东方|Roguelike|PC|同人|STEAM|STG|车万|東方Project|2021|Re零同人社|二色幽紫蝶",
   304418: "合作",
   304421: "Galgame|全年龄|白玉|しらたま|萝莉|催泪|さかき傘|治愈|剧情|短篇|2020",
@@ -13296,6 +13297,7 @@ const bgm_tags = {
   499874: "小高和刚|打越钢太郎|PC|悬疑|AVG|ADV|SRPG|战棋|SLG|2025|游戏",
   499920: "RPG|NS|PC|游戏|PS4|PS5",
   500226: "",
+  500429: "百合|漫画|搞笑|轻百合",
   500841: "像素|SLG|PC|游戏|猫娘|步兵|無修正",
   500873: "秋乃つかさ|轻小说|Enji",
   500962: "设定集|资料",
