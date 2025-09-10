@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.10.86
+// @version     2025.09.10.95
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -18,7 +18,6 @@ const azusa_covers = {
   263: "https://p2.bahamut.com.tw/B/ACG/c/78/0000044278.JPG",
   384: "https://s3.bmp.ovh/imgs/2022/08/16/f43d971789f40f05.jpg",
   407: "https://img.gejiba.com/images/33ffe1f4181207ab5b3fbbdd33446ce5.jpg",
-  430: "https://s6.jpg.cm/2022/08/17/PlB2lD.jpg",
   870: "https://ptpimg.me/jscti4.jpg",
   1113: "attachments/202208/20220821220825bc7645ba5cfcd5a0b143e8848e388bc2.jpg.thumb.jpg",
   1283: "https://ptpimg.me/6w9519.jpg",
@@ -334,7 +333,6 @@ const azusa_covers = {
   7035: "https://ptpimg.me/847gkf.png",
   7036: "https://ptpimg.me/cft5ic.png",
   7039: "https://p.sda1.dev/8/7f86ade8897ec37f6750107825e1ed59/1.jpg",
-  7076: "https://www.z4a.net/images/2022/10/30/01000.png",
   7082: "https://www.z4a.net/images/2022/10/30/Dsxgz01-001.jpg",
   7083: "https://www.z4a.net/images/2022/10/30/Nlssjb01-001.jpg",
   7088: "https://www.z4a.net/images/2022/10/30/Sxlhp01-001.jpg",
@@ -1639,7 +1637,6 @@ const azusa_covers = {
   18116: "https://img.azusa.wiki/images/2023/08/18/LOST_XMAS_Artworks_39_A_H_1po_Image_000.jpg",
   18119: "https://img.azusa.wiki/images/2023/08/18/992173179bb1fc19583dbea3391553d749b30bd0.png400w.png",
   18123: "https://img.azusa.wiki/images/2023/08/18/1.png",
-  18132: "https://img.azusa.wiki/images/2023/08/19/001_1_tZ5Gf3S.jpg",
   18134: "https://img.azusa.wiki/images/2023/08/19/123c6431099372a1f.png",
   18136: "https://img.azusa.wiki/images/2023/08/19/img01.jpg",
   18137: "https://img.azusa.wiki/images/2023/08/19/01.jpg",
@@ -1777,7 +1774,6 @@ const azusa_covers = {
   18838: "https://cdn.akamai.steamstatic.com/steam/apps/776490/header.jpg?t=1667007869",
   18840: "https://img.azusa.wiki/images/2023/09/11/cover82c0060515dd8650.jpg",
   18851: "https://img.azusa.wiki/images/2023/09/12/125s.jpg",
-  18854: "https://img.azusa.wiki/images/2023/09/12/s6567585.jpg",
   18855: "https://img.azusa.wiki/images/2023/09/12/cover.png",
   18856: "https://img.azusa.wiki/images/2023/09/12/cover.jpg",
   18860: "https://img.azusa.wiki/images/2023/09/12/cover11254169322cf774.jpg",
@@ -3500,6 +3496,5 @@ const azusa_covers = {
   30063: "https://img.azusa.wiki/images/2025/09/05/1.jpg",
   30074: "https://files.catbox.moe/l2cumm.jpg",
   30081: "//lain.bgm.tv/r/400/pic/cover/l/ec/04/533058_xho8u.jpg",
-  30090: "https://img1.pixhost.to/images/8545/638597945_cover.jpg",
-  30100: "https://img.azusa.wiki/images/2025/09/10/001_p-cover3ea83699f04b6a92.md.jpg"
+  30090: "https://img1.pixhost.to/images/8545/638597945_cover.jpg"
 };

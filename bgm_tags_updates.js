@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.10.86
+// @version     2025.09.10.95
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -46,6 +46,7 @@ const bgm_tags = {
   456696: "Galgame|Purplesoftware|紫社|分割商法|PC|续作|かずきふみ|2024|悬疑|拔作|GAL",
   459368: "Galgame|whirlpool|明羽杏子|夏和小|秋野花|废萌|くすはらゆい|水鏡まみず|近江谷宥|2024|修女",
   467935: "轻小说|萬屋久兵衛|桃子|絵葉ましろ",
+  471368: "恋爱|漫画|成人|短篇",
   500429: "百合|漫画|搞笑|轻百合",
   501478: "",
   506788: "Galgame|AVG|Type-Moon|FD|PC|NS|Fate|游戏|Switch|2025+|2024",
