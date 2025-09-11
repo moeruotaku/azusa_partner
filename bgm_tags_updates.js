@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.10.95
+// @version     2025.09.11.37
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -37,10 +37,8 @@ const bgm_tags = {
   332937: "TL|漫画|R18|恋爱|女性向|穿越|奇幻|人外|TL漫画|限制",
   354130: "漫画|奇幻|2021|森下真|月刊少年マガジン|講談社|勇者|原创|漫画系列|搞笑|日常",
   355540: "恋爱|漫画|校园|日常|一般向|已完结|漫画系列|青年|逆推|日本|完结",
-  367226: "恋爱|漫画|少女漫|偶像|少女|2021|少女漫画|搞笑|花とゆめ|白泉社|師走ゆき",
   379566: "漫画|搞笑|四格|校园|日常|伪娘|恋爱|节操|2022|喜剧|むちまろ",
   402972: "百合|漫画|なうち|校园|恋爱|GL|KADOKAWA|漫画系列",
-  404495: "AVG|游戏|PC|同人|freegame|Web|DJ|2021|短篇",
   422014: "轻小说|榛名丼|恋爱|奇幻|校园|青春|小说|2023|迷惘|复制人|日本",
   449427: "漫画|战斗|搞笑|怪兽|小学馆|ヨシアキ|2023|日本|变身|原创|连载中",
   456696: "Galgame|Purplesoftware|紫社|分割商法|PC|续作|かずきふみ|2024|悬疑|拔作|GAL",
@@ -51,6 +49,5 @@ const bgm_tags = {
   501478: "",
   506788: "Galgame|AVG|Type-Moon|FD|PC|NS|Fate|游戏|Switch|2025+|2024",
   527456: "",
-  531887: "同人|NANTEDOW",
   558742: "小高和刚|中泽工|PC|2025|悬疑|AVG|ADV|北山猛邦|NS|游戏|推理"
 };
