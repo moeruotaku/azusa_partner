@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.11.37
+// @version     2025.09.11.61
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11062,6 +11062,7 @@ const bgm_tags = {
   354710: "轻小说|恋爱|小说系列",
   354762: "轻小说|恋爱|狗粮|校园|柚本悠斗|小说系列|纯爱|日本",
   354774: "校园|漫画|轻小说改|KADOKAWA|轻小说|小说改|轻改|漫画系列|2021|衣笠彰梧",
+  354775: "限制",
   354828: "Galgame|纯爱|女教师|黑长直|拔作|あざらしそふと＋1|黑丝|海豹社|巨乳|あざらしそふと|2022",
   354842: "Vocaloid|轻小说|音乐改|小说|小说系列|城崎",
   354844: "漫画系列|漫画|奇幻|小说改|已完结|科幻|战斗",
