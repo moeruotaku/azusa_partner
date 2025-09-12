@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.11.72
+// @version     2025.09.12.48
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12729,6 +12729,7 @@ const bgm_tags = {
   445367: "",
   445481: "BL漫画",
   445597: "乙女向|PC|乙女ゲーム|STEAM|民国|2023|国乙|freegame|同人|同人ゲーム|游戏",
+  445721: "あざらしそふと|PC|FD|纯爱|Galgame|游戏|GAL|ADV|2017-12|生肉",
   445774: "AVG|Galgame|PC|游戏",
   445848: "轻小说|三雲岳斗|标题欺诈|マニャ子|2023",
   445870: "轻小说|误解系|搞笑|异世界|后宫|日本|小说|系列|急川回レ",

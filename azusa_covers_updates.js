@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.11.72
+// @version     2025.09.12.48
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,7 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  30059: "https://img.seedvault.cn/i/2025/09/04/P001-0168b9aa69150ab263.png",
   30061: "https://img.azusa.wiki/images/2025/09/05/1.jpg",
   30063: "https://img.azusa.wiki/images/2025/09/05/1.jpg",
   30074: "https://files.catbox.moe/l2cumm.jpg",
