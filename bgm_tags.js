@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.15.35
+// @version     2025.09.16.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12205,7 +12205,6 @@ const bgm_tags = {
   416025: "轻小说|佐城明|恋爱|轻书架|6~7分|転",
   416145: "漫画系列",
   416199: "漫画|热血|天元突破",
-  416278: "漫画|BL|BL漫画|内田つち",
   416341: "",
   416345: "漫画|江川达也",
   416374: "",
@@ -12932,6 +12931,7 @@ const bgm_tags = {
   460581: "画集|设定集|2023",
   460712: "画集|mignon|R18|已购|双葉社|2023",
   460743: "Galgame|CRYSTALiA|白毛|废萌|2024|妹|萝莉|秋野花|PC|塔塔开|ADV",
+  460819: "漫画|日常|青年|生活|意识流|上班族|2023|小学馆|鍋倉夫|原创|平静",
   460897: "轻小说|衍生|短篇|赤坂アカ",
   461111: "国漫|中国|2019",
   461199: "漫画|国漫|中国|mc33910",
