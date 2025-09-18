@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.17.35
+// @version     2025.09.18.34
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13298,6 +13298,7 @@ const bgm_tags = {
   496390: "",
   496474: "轻小说|香月美夜",
   496481: "RPG|PC|游戏|NS",
+  496527: "STEAM|AVG|PC|解谜|游戏|全年龄|云过|冒险",
   496638: "神椿|Galgame|PC|AVG|全年龄|短篇|2024|百合|视觉小说|VN|雰囲気",
   496783: "恋爱|轻小说|2023",
   497085: "画集|Hiten|2024|KADOKAWA|已购",
