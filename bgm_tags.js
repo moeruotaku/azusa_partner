@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.19.73
+// @version     2025.09.21.21
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11246,6 +11246,7 @@ const bgm_tags = {
   365615: "百合|qureate|卡牌|Galgame|软色情|2022|PC|全年龄|NS|官中|デュエルプリンセス",
   365622: "金田一|漫画系列|佐藤文也|推理漫画|樹林伸|Mystery",
   365627: "漫画系列|已完结|全8卷",
+  365699: "Galgame|伪娘|PC|女装|ensemble|生肉|2022-04|Go-1|2022|GAL",
   365711: "美食|漫画|已完结|漫画系列|2007|全4卷|食文化|纪实|拉面",
   365724: "STEAM|国产|RPG|独立游戏|奇幻|像素|中国|后宫|2022|Roguelike|独立",
   365894: "武井宏之|漫画|漫画系列|周刊少年JUMP|经典|已完结|日本|少年漫画|佛教|通灵王|少年",
@@ -13446,6 +13447,7 @@ const bgm_tags = {
   509334: "设定集",
   509336: "设定集",
   509587: "AVG|PC|游戏",
+  509947: "falcom|JRPG|RPG|2025|轨迹系列|PC|Switch|NS|PS5|游戏|待发售",
   509948: "炼金工房|JRPG|PC|RPG|2025|Gust|PS5|游戏|光荣特库摩|STEAM|NS",
   509955: "传说系列|JRPG|2025|PS5|RPG|PC|PS4|NS|Switch|ARPG",
   509976: "AVG|Galgame|PC|游戏",
