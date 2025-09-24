@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.23.36
+// @version     2025.09.24.52
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13245,6 +13245,7 @@ const bgm_tags = {
   488392: "推理|魔法少女|悬疑|2025|ADV|AVG|PC|Galgame|STEAM|百合|游戏",
   488413: "漫画|周刊少年JUMP|日本|系列|原创|集英社|已完结|电子版|2024|和久井健|連載中",
   488854: "PC|恐怖|解谜|游戏|汉化|Horror",
+  488880: "百合|漫画|2024|やとさきはる|甜|搞笑|講談社|恋爱|喜剧|コミックDAYS|美食",
   489130: "Galgame|悬疑|解迷|汉化|推理|同人|PC|短篇|LINDA|アトリヱ陽暉楼|2003",
   489136: "Vocaloid|v家|洛天依|中国|2024|泛Vocaloid",
   489256: "异世界|漫画|退队流|NTR|战斗还行",
