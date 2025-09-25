@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.25.36
+// @version     2025.09.25.97
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13550,6 +13550,7 @@ const bgm_tags = {
   529106: "",
   529181: "全年龄|Galgame|PC|2025|番剧改|游戏|Laplacian|ADV|甜作|さかさうま工房|治愈",
   529236: "乙女|R18|Galgame|游戏|PC|FD|aromarie",
+  529432: "falcom|ARPG|NS2|伊苏|游戏|2025|7.5|JRPG|2025+|RPG",
   529524: "",
   529628: "漫画|BL",
   529631: "",
