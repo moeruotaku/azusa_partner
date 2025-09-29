@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.29.53
+// @version     2025.09.29.93
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -31,6 +31,7 @@ const bgm_tags = {
   372612: "漫画|奇幻|战斗|轻小说改|异世界|大叔|乍藤和樹|师徒|漫画系列|小说改|连载中",
   391432: "漫画|后宫|卖肉|奇幻|小说改|异世界|一般向|擦边球|校园|日常|搞笑",
   391665: "百合|国漫|漫画|恶役千金|刺猬猫阅读|恋爱|断S|赤色|国产|条漫|中国",
+  418009: "恋爱",
   488880: "百合|漫画|2024|やとさきはる|甜|搞笑|講談社|恋爱|喜剧|コミックDAYS|美食",
   515527: "RPG|炼金工房|PC|PS5|游戏|2025|PS4|NS|PS|JRPG",
   529432: "falcom|ARPG|NS2|伊苏|游戏|2025|7.5|JRPG|2025+|RPG"

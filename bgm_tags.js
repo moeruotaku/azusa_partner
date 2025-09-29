@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.29.53
+// @version     2025.09.29.93
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12310,6 +12310,7 @@ const bgm_tags = {
   417941: "講談社|漫画|日本|职场|编辑|日常中的坚持",
   417948: "百合|琉璃花糖制作组|国产|Galgame|全年龄|AVG|秋月恋雨|PC|2023|游戏|视觉小说",
   417994: "Galgame|key|全年龄|丘野塔也|ADV|PC|短篇|2024|GAL|2024-05|纯爱",
+  418009: "恋爱",
   418036: "漫画|搞笑",
   418048: "漫画",
   418053: "漫画",
