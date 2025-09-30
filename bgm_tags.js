@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.09.29.93
+// @version     2025.09.30.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12778,6 +12778,7 @@ const bgm_tags = {
   447141: "AVG|PC|Galgame|游戏|Cloud|R18gal|Winged|小黄油",
   447922: "",
   447955: "国产|Galgame|AVG|青梅竹马|PC|STEAM|悬疑|全年龄|废萌|纯爱|白裤袜",
+  447981: "漫画|系列|講談社|NTR|恋爱|マンガ|负反馈大于正反馈|2023|无聊|生肉|連載中",
   448259: "日本|小说|轻小说|系列|しば犬部隊",
   448262: "2023|轻小说|オーバーラップ文庫|相模優斗",
   448518: "",
