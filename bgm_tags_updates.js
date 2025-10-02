@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.02.46
+// @version     2025.10.02.62
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -17,6 +17,7 @@ const bgm_tags = {
   104586: "Vocaloid|GUMI|164",
   143372: "茶太|同人|2015|日向そら",
   209535: "漫画|异世界|性转|轻改|すえみつぢっか|穿越|小说改|2016|搞笑|性转换|漫画系列",
+  237704: "漫画|日常|小坂泰之|校园|搞笑|钓鱼|海洋|2017|连载中|画风|青春",
   265141: "漫画|异世界|轻改|转生|小说改|漫画系列|大堀ユタカ|弱智|日本|系列|奇幻",
   285114: "漫画|奇幻|治愈|樋口彰彦|搞笑|講談社|历史|漫画系列|百合|日常|2019",
   297267: "漫画|恋爱|党争|吉河美希|搞笑|2020|講談社|周刊少年magazine|週刊少年マガジン|日漫|妹",
