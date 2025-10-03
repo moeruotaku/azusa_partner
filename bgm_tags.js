@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.02.62
+// @version     2025.10.03.33
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -7521,6 +7521,7 @@ const bgm_tags = {
   219810: "CUBE|Galgame|妹|汉化|实妹|GAL|PC|石原舞|歩サラ|ADV|2017",
   219811: "Galgame|妹系|ALcotハニカム|妹|ALcot_ハニカム|瀬尾順|alcot|烂尾顺|汉化|认真就输了|武藤此史",
   219814: "漫画|日本漫画|手塚治虫|漫画系列|科幻漫画|1978",
+  219836: "国产|Galgame|七彩绘色|遥望彼方|GAL|妹控|PC|ADV|Windows|游戏",
   219864: "漫画|音乐|校园|2017|小学館|青春|阿久井真|系列|连载中|音乐漫画|日本漫画",
   219918: "漫画|搞笑|山下文吾|欢乐向|校园|后宫|人外|萌|2016|已完结|连载",
   219948: "百合|轻小说|入間人間|入间人间|科幻|小说|一卷全|2017|フライ|2021|屁股",
@@ -9233,6 +9234,7 @@ const bgm_tags = {
   289599: "柚子社|Galgame|废萌|夏和小|ゆずソフト|Yuzu-Soft|纯爱|2019|清水爱|PC|GAL",
   289699: "漫画|少女漫画|小说改|异世界|恋爱|悬疑|奇幻|漫画系列|轻改|じろあるば|B漫",
   289774: "小说|百合",
+  289826: "国产|ADV|Galgame|PC|全年龄|DOTA|STEAM|GAL|青羽|AVG|游戏",
   289833: "Galgame|FD|顏艺社|ASaProject|ASa_Project|废萌|2019|Asa|纯爱|PC|椿お姉さん",
   289834: "Galgame|FD|ASa_Project|顏艺社|ASaProject|双飞|2020|PC|Asa|废萌|纯爱",
   289876: "百合|漫画|恋爱|もちオーレ|majoccoid|2019|GL|一迅社|系列|日漫|短篇",
