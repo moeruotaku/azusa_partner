@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.04.48
+// @version     2025.10.05.59
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3511,5 +3511,6 @@ const azusa_covers = {
   30225: "https://lain.bgm.tv/r/400/pic/cover/l/af/b4/292119_HqDPx.jpg",
   30228: "https://cdn.myanonamouse.net/tor/poster.php/bDahXF+PjDO8bQ,p1L2x9V9,sUi2duhEzTL5+74V6Q0wMTIzNDU2Nzg5QUJDREVGR0hJSktMTU44N9qmOjPfy3FR58Dkq2XIpKhcjA5aP6LDl6XnX0kVs32sOTRn5f1QmKifHaeJ3Lwm80fp3r3IR9YRU1zZzTA=",
   30240: "https://lain.bgm.tv/pic/cover/l/cd/ee/21767_unPBu.jpg",
-  30253: "https://lain.bgm.tv/pic/cover/l/a9/4a/298102_WH9jV.jpg?_gl=1*p8pqr2*_ga*MjA1NzUyMjUwNC4xNzU0MDM4NTYz*_ga_1109JLGMHN*czE3NTk1NDE2MTYkbzE2JGcxJHQxNzU5NTQxNjE4JGo1OCRsMCRoMA.."
+  30253: "https://lain.bgm.tv/pic/cover/l/a9/4a/298102_WH9jV.jpg?_gl=1*p8pqr2*_ga*MjA1NzUyMjUwNC4xNzU0MDM4NTYz*_ga_1109JLGMHN*czE3NTk1NDE2MTYkbzE2JGcxJHQxNzU5NTQxNjE4JGo1OCRsMCRoMA..",
+  30268: "//lain.bgm.tv/pic/cover/l/a5/71/328029_0t22Z.jpg"
 };
