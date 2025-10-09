@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.08.65
+// @version     2025.10.09.58
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12691,6 +12691,7 @@ const bgm_tags = {
   439926: "ED|2023|lovelive|Aqours|幻日的夜羽|ラブライブ！",
   439927: "漫画|小说改|欧美漫画|科幻|国产|欧美|漫画系列|人性|国漫|震撼",
   440060: "轻小说|后宫|恋爱|小说|这不叫朋友|几乎没有正常人系列|R15|日本|桃子|2023|カクヨム",
+  440063: "BL|漫画|耽美|人外|BLコミック|奇幻|シュークリーム",
   440077: "漫画|校园|青春|日常|恋爱|偶像|矢寺圭太|连载中|原创|日本|伪娘",
   440323: "Galgame|妹|海豹社|拔作|白毛|あざらしそふと|纯爱|PC|白裤袜|2023|密语",
   440550: "小学馆|磯谷友紀|恋爱|成长|台灣東販|2023",
