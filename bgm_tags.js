@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.09.58
+// @version     2025.10.10.38
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10644,6 +10644,7 @@ const bgm_tags = {
   335937: "画集|已购|画集・設定資料集|E-Book|官方视觉画集",
   336031: "ACT|横版|像素|类银河战士恶魔城|STEAM|PC|百合|2021|动作|低俗",
   336062: "轻小说|恋爱|狗粮|2021-小说|小说|2021|富士见|戀愛|完结|純愛",
+  336108: "漫画系列|已完结|全2卷",
   336122: "HOOKSOFT|Galgame|青梅竹马|纯爱|幼驯染|输在起跑线系列|2021|花澤さくら|甜作|2021-09|汉化",
   336135: "漫画|良作|漫画系列|高达|已完结|高中|全12卷|1994",
   336137: "Galgame|后宫|拔作|qureate|PC|2021|STEAM|纯爱|GAL|双飞|ADV",
