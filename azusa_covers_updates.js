@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.13.38
+// @version     2025.10.15.36
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,10 +12,9 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  30270: "https://pic.pting.club/i/2025/10/06/68e2bafdea246.jpg",
-  30279: "https://p.sda1.dev/27/ea42d7a85d8c9bc59541794393c21d65/cover.jpg",
-  30282: "//lain.bgm.tv/r/400/pic/cover/l/c0/02/565693_wKaaz.jpg",
-  30289: "//lain.bgm.tv/r/400/pic/cover/l/2e/a7/392774_ia6BI.jpg",
-  30292: "//lain.bgm.tv/r/400/pic/cover/l/f4/dd/477276_nbuYa.jpg",
-  30315: "https://img1.pixhost.to/images/9263/648905633_cover.jpg"
+  30315: "https://img1.pixhost.to/images/9263/648905633_cover.jpg",
+  30370: "https://p.sda1.dev/27/cb515257526742ec7280dd56c16c03d8/image.png",
+  30389: "https://p.sda1.dev/27/a4bcf2ea79839314c23e02f57995dc34/image.png",
+  30393: "https://p.sda1.dev/27/bb18573a7bd6cfb6e79791b8a8481d8a/image.png",
+  30395: "https://p.sda1.dev/27/963f489b46cf8d2f93869dcb308d3ce6/image.png"
 };
