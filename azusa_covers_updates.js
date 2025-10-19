@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.16.37
+// @version     2025.10.19.78
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -21,5 +21,9 @@ const azusa_covers = {
   30409: "https://p.sda1.dev/27/8cb2d3c8bc4e9f9b6d3b71a7fa7762c7/telegram-cloud-photo-size-1-5143178583860775686-y.jpg",
   30415: "https://lain.bgm.tv/r/400/pic/cover/l/36/01/466141_T3Zn6.jpg",
   30420: "https://lain.bgm.tv/r/400/pic/cover/l/ca/e2/196324_Gqufl.jpg",
-  30423: "https://pic.pting.club/i/2025/10/15/68ef99fd54b16.jpg"
+  30423: "https://pic.pting.club/i/2025/10/15/68ef99fd54b16.jpg",
+  30470: "https://lain.bgm.tv/r/400/pic/cover/l/c0/22/328104_rUt3F.jpg",
+  30476: "https://img.nnko.me/251008-02.jpg",
+  30481: "https://img.nnko.me/251008-08.jpg",
+  30488: "https://www.tongli.com.tw/ComicImages/Images/TC0365/TC0365001A/TC0365001A.jpg"
 };
