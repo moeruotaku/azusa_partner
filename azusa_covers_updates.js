@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.23.40
+// @version     2025.10.24.36
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -18,5 +18,6 @@ const azusa_covers = {
   30488: "https://www.tongli.com.tw/ComicImages/Images/TC0365/TC0365001A/TC0365001A.jpg",
   30529: "https://lain.bgm.tv/r/400/pic/cover/l/8e/85/598961_XO0na.jpg",
   30542: "https://lain.bgm.tv/r/400/pic/cover/l/73/2e/574952_90Psw.jpg",
-  30543: "https://p.sda1.dev/28/b401e5fdae96c7878c2655bf7406190f/cover.jpg"
+  30543: "https://p.sda1.dev/28/b401e5fdae96c7878c2655bf7406190f/cover.jpg",
+  30549: "https://photo.vclib.online/i/2025/10/23/z17hzu.bmp"
 };
