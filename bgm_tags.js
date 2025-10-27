@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.26.60
+// @version     2025.10.27.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -5542,6 +5542,7 @@ const bgm_tags = {
   155440: "木下けい子|BLコミック|漫画|BL|BL漫画",
   155497: "漫画系列",
   155647: "",
+  155705: "Galgame|白もち桜|hearts|妹|萝莉|PC|GAL|2016|生肉|ADV|实妹",
   155714: "CLAMP|少女漫画|漫画|月刊Asuka|角川书店|日本漫画|漫画系列|恋爱|少女|全3卷|全三卷",
   155943: "漫画系列",
   156122: "LIGHT|正田崇|Galgame|全年龄|2016|PC|汉化|燃|Gユウスケ|短篇|GAL",
