@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.10.31.58
+// @version     2025.11.02.64
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13338,6 +13338,7 @@ const bgm_tags = {
   485396: "游戏|Android|RPG|iOS|NS|PC",
   485472: "BL漫画",
   486024: "BL漫画",
+  486042: "Galgame|民俗|CARNELIAN|ROOT|重置|2025|拔作|PC|悬疑|ADV|游戏",
   486053: "阿泉来堂|小说|悬疑|推理|系列|小说系列",
   486061: "画集",
   486165: "Galgame|全年龄|ANIPLEX.EXE|亲情|视觉小说|PC|2024|家族|游戏|穿越|kazuki",
@@ -13506,6 +13507,7 @@ const bgm_tags = {
   504239: "百合|国产|Galgame|PC|游戏|STEAM|AVG|百合不行|GAL|纯爱|短篇",
   504467: "Galgame|PC|游戏|汉化|CG|STEAM|Denpasoft|R18gal|108",
   504538: "PC|AVG|GAL|国产|Galgame|游戏|中国|STEAM|视觉小说",
+  504636: "卖肉|后宫|漫画|工口|异世界|R18|恋爱|閃凡人|修女|2024|穿越",
   504703: "百合|轻小说|师生",
   504719: "百合|国产|全年龄|Galgame|PC|AVG|VN|STEAM|GAL|中国|短篇",
   504960: "PC|游戏|短篇",
@@ -13657,6 +13659,7 @@ const bgm_tags = {
   523498: "Galgame|拔作|Escu:de|FD|PC|民俗|2025|ADV|R18|银趴|游戏",
   523706: "小说",
   523890: "漫画",
+  523908: "Galgame|CIRCUS|全年龄|初音岛|妹|废萌|萝莉|2025|DC|幼驯染",
   524201: "1993|ZARD|歌曲|影视|JPOP|日本",
   524399: "Galgame|PC|游戏|ADV|R18gal",
   524427: "Galgame|まどそふと|FD|废萌|宇都宮つみれ|2025|R18|PC|校园|白毛|游戏",
