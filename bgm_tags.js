@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.11.05.45
+// @version     2025.11.07.57
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11083,6 +11083,7 @@ const bgm_tags = {
   351250: "国漫|中国",
   351297: "国漫|小说改|玄幻|巨乳|中国|搞笑|漫画|网文改",
   351325: "中国|漫画",
+  351360: "東方|东方|同人音乐|合集|2021|秋季例大祭8",
   351376: "漫画系列|KADOKAWA|恋爱|あき|三川みり|2021",
   351417: "轻小说|細田守|小说|KADOKAWA",
   351423: "RPG|Gust|炼金工房|工作室系列|JRPG|苏菲2|百合|PC|PS4|2022|ガスト",
@@ -12186,6 +12187,7 @@ const bgm_tags = {
   410937: "恋爱|漫画|全一卷",
   410945: "漫画|奇幻|冒险|游戏改|漫画系列",
   411083: "",
+  411115: "小说改|已完结",
   411163: "漫画",
   411168: "轻小说|GA文库|后宫|恋爱|连载中|2021",
   411172: "漫画",
