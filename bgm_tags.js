@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.11.07.57
+// @version     2025.11.09.81
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13846,6 +13846,7 @@ const bgm_tags = {
   571932: "",
   573315: "",
   573423: "轻小说|葵关南|小说|深崎暮人|恋爱|日本|单行本|分卷|青春|系列|2025",
+  573899: "牛尾憲輔|OST|电锯人|2025",
   574505: "",
   575136: "小说|小说系列",
   577985: "",
