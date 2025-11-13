@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.11.10.35
+// @version     2025.11.13.57
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -6544,6 +6544,7 @@ const bgm_tags = {
   188255: "漫画|山本亮平|恋爱|后宫|奇幻|2016|幼驯染|已完结|腰斩|連載中|マンガ",
   188260: "漫画|屋宜知宏|已完结|原创|日本|战斗|热血|集英社|系列|漫画系列",
   188263: "漫画|恋爱|三秋縋|治愈|轻小说改|田口囁一|小说改|2016|完结|时代剧情|日本",
+  188271: "漫画|岩本ナオ|少女漫画|短篇|已完结|少女|全一巻|單卷|超短篇|2014|マンガ",
   188300: "漫画系列|已完结|漫画|17ans",
   188318: "BL漫画",
   188321: "BL漫画|阿部あかね|BLコミック|2016",
