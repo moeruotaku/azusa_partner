@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.11.18.44
+// @version     2025.11.21.40
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -861,6 +861,7 @@ const bgm_covers = {
   16288: "90/ff/16288_OJzUY.jpg",
   16301: "85/76/16301_G5A76.jpg",
   16316: "2e/61/16316_O0KFJ.jpg",
+  16324: "1c/7a/16324_ZO254.jpg",
   16384: "c7/6f/16384_X5M4F.jpg",
   16392: "bf/94/16392_0Mfm1.jpg",
   16395: "9e/36/16395_00snF.jpg",
@@ -3353,6 +3354,7 @@ const bgm_covers = {
   81093: "ab/07/81093_77gI2.jpg",
   81099: "71/f3/81099_4NwTT.jpg",
   81116: "00/d3/81116_6thr4.jpg",
+  81127: "70/34/81127_AKuP8.jpg",
   81131: "ed/cb/114781_nI2n7.jpg",
   81156: "2a/b0/81156_i5oz3.jpg",
   81159: "f8/06/81159_u7379.jpg",
@@ -3904,6 +3906,7 @@ const bgm_covers = {
   98021: "cf/4d/98021_42Vye.jpg",
   98072: "2a/f2/98072_omFfS.jpg",
   98080: "12/0d/98080_jp.jpg",
+  98114: "66/13/98114_I3izw.jpg",
   98253: "5f/cd/98253_g0GXq.jpg",
   98274: "4e/d0/98274_2BFC2.jpg",
   98275: "35/b0/98275_jp.jpg",
@@ -5737,6 +5740,7 @@ const bgm_covers = {
   163847: "ec/4a/163847_I1fmV.jpg",
   163848: "17/e5/163848_PABRn.jpg",
   163864: "fa/b3/163864_S4xN3.jpg",
+  163879: "1e/a2/163879_MOsXl.jpg",
   163896: "59/3a/163896_DICL5.jpg",
   163939: "a6/fc/163939_y1flK.jpg",
   163953: "dc/2a/163953_7MKrK.jpg",
@@ -13021,6 +13025,7 @@ const bgm_covers = {
   456082: "93/27/456082_GVC95.jpg",
   456330: "81/c2/456330_nG0XN.jpg",
   456344: "98/5d/456344_WcdJ9.jpg",
+  456375: "7f/b3/456375_nQY1K.jpg",
   456444: "ef/ce/456444_Ts4l7.jpg",
   456522: "4c/72/456522_BDZ9a.jpg",
   456612: "36/3e/456612_kp33p.jpg",
@@ -13508,6 +13513,7 @@ const bgm_covers = {
   500962: "d8/90/500962_9lYvV.jpg",
   501027: "3a/85/501027_dGlNm.jpg",
   501173: "a8/11/501173_m19lM.jpg",
+  501181: "d2/43/501181_Zuh9Y.jpg",
   501478: "50/0d/501478_hTH0S.jpg",
   501493: "f4/af/501493_6y0cw.jpg",
   501560: "ed/c4/501560_iyfc8.jpg",
