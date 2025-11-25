@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.11.24.37
+// @version     2025.11.25.44
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10909,6 +10909,7 @@ const bgm_tags = {
   340380: "轻小说|恋爱|小说|幼驯染|髙村資本|双子|小说系列|日常|2021|日本轻小说|あるみっく",
   340384: "BL|BLコミック|BL漫画|マンガ",
   340387: "STG|反乌托邦|STEAM|像素|黑色幽默|美少女|PC|全年龄|hinyari9|PS5|2021",
+  340402: "BL|BL漫画|汀えいじ|秒で分かる|连载中|福利|日漫|漫画|腐|意犹未尽|2022",
   340438: "打越钢太郎|AVG|推理|解谜|SpikeChunsoft|悬疑|2022|PC|NS|打越鋼太郎|ADV",
   340469: "漫画|搞笑|小说改|江戸屋ぽち|漫画系列|校园|轻改|コミックファイア|2021|江ノ島アビス",
   340550: "Galgame|纯爱|短篇|プレカノ|甜作|ADV|汉化|校园|青春|2021|PC",
@@ -13286,6 +13287,7 @@ const bgm_tags = {
   477524: "Capcom|推理|逆转裁判|AVG|PC|2024|NS|ADV|合集|重制|游戏",
   477526: "ACT|PC|独立游戏|国产|roguelike",
   477533: "Roguelike|策略|PC|游戏",
+  477650: "BL|漫画|BLコミック|鶴亀まよ|新書館|已完结|亲情|极道",
   477760: "卡牌|Roguelike|PC|独立游戏|2024|休闲|STEAM|游戏|肉鸽|小丑牌|Android",
   477849: "漫画|战斗|打拳|日本|已完结|原创|战斗分镜可以|7.1|竞技|系列|女主",
   477850: "漫画|后宫|搞笑|师生|恋爱|2024|限制|小孩开大车|卖肉|校园|福利",
