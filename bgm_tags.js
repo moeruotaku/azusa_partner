@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.04.36
+// @version     2025.12.05.42
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13483,6 +13483,7 @@ const bgm_tags = {
   494390: "科幻|热血|漫画|战斗|高达",
   495060: "",
   495135: "Galgame|同人|田中ロミオ|全年龄|FD|短篇|厨力|PC|2024|汉化|ADV",
+  495164: "漫画|成年コミック|后宫|调教|养成|本子|三飞|アルデヒド|大长篇|性好奇|R18",
   495523: "",
   495950: "小说|小说系列|今村昌弘|今村昌宏|推理",
   496150: "Galgame|海豹社|方糖社|废萌|萌木原|兽耳|あざらしそふと|PC|ADV|短篇",
@@ -13593,6 +13594,7 @@ const bgm_tags = {
   506640: "漫画",
   506756: "轻小说|小说",
   506788: "Type-Moon|Galgame|AVG|Fate|FD|Switch|NS|奈须きのこ|PC|游戏|STEAM",
+  506840: "漫画|恋爱|校园|搞笑|2024|青春|原创|週刊少年サンデー|日本|少女|晴川シンタ",
   507098: "BL漫画",
   507102: "国漫",
   507107: "国漫",
