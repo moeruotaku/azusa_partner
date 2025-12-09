@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.07.88
+// @version     2025.12.09.37
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,11 +12,13 @@
 // ==/UserScript==
 
 const bgm_covers = {
-  6784: "03/32/6784_aC6ah.jpg",
   32818: "c6/a7/32818_REH3I.jpg",
   103535: "2d/29/103535_5fVWo.jpg",
+  111234: "d7/63/111234_jp.jpg",
+  119403: "3d/f7/119403_XsJWX.jpg",
   121365: "95/20/121365_80u77.jpg",
   132823: "fc/7d/132823_GILmw.jpg",
+  154936: "96/fb/154936_jp.jpg",
   155587: "f8/91/155587_YrELD.jpg",
   185741: "72/31/185741_oK9z4.jpg",
   187715: "c1/49/187715_12H22.jpg",
@@ -34,21 +36,37 @@ const bgm_covers = {
   267399: "e4/87/267399_3vrqK.jpg",
   272961: "80/22/272961_uE9Cs.jpg",
   273878: "94/06/273878_Wp4W8.jpg",
-  282923: "4d/c0/282923_WN3Ve.jpg",
-  302050: "b6/25/302050_PMp77.jpg",
+  299168: "39/2a/299168_DY0AJ.jpg",
   303246: "ce/c1/303246_lClcC.jpg",
   304270: "11/a0/304270_IS0IG.jpg",
   308999: "6a/46/308999_k6K2y.jpg",
   322229: "1f/97/322229_bsx4b.jpg",
   326285: "3a/03/326285_rQAhA.jpg",
+  331609: "2a/83/331609_1K7U8.jpg",
+  337906: "ea/89/337906_53qLz.jpg",
+  344667: "b5/6e/344667_8QFDu.jpg",
+  357823: "bf/ed/357823_uGGSK.jpg",
+  372294: "16/a6/372294_5TtTR.jpg",
   380653: "ed/b3/380653_FaNAP.jpg",
+  388039: "e1/cd/388039_DJ7GF.jpg",
+  389637: "c0/c5/389637_FKK3F.jpg",
+  393603: "09/af/393603_c2uC4.jpg",
+  394482: "46/af/394482_E6Z9e.jpg",
   401778: "3a/78/401778_Nfqp0.jpg",
+  411978: "4c/55/411978_UuMbY.jpg",
+  433428: "26/b9/433428_8koGE.jpg",
   435044: "bb/5c/435044_d4QNs.jpg",
+  451195: "be/3a/451195_40t1L.jpg",
   456344: "98/5d/456344_WcdJ9.jpg",
   467520: "ec/71/467520_l1mxX.jpg",
   470936: "5a/98/470936_aAG01.jpg",
-  485817: "43/ad/485817_NURv2.jpg",
+  475219: "08/8c/475219_dr5Rd.jpg",
+  476442: "c6/af/476442_L9x2u.jpg",
   495164: "de/38/495164_Vex1a.jpg",
   506840: "ac/c1/506840_RdBrM.jpg",
-  513940: "fe/0b/513940_6T7zn.jpg"
+  511444: "cc/6d/511444_oIzT2.jpg",
+  513940: "fe/0b/513940_6T7zn.jpg",
+  525894: "30/16/525894_JgQfg.jpg",
+  557554: "96/c7/557554_4lOgo.jpg",
+  590822: "6a/ca/590822_iMmM5.jpg"
 };
