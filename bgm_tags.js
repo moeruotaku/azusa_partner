@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.12.35
+// @version     2025.12.15.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11008,6 +11008,7 @@ const bgm_tags = {
   345943: "轻小说|渡航|分支路线|校园|恋爱|春物结|长期未更新|团子if|日本|轻小说系列",
   345970: "中国|漫画|腰斩",
   345971: "游戏|百合|PC|Galgame|R18gal",
+  346060: "漫画|奇幻|2021|江野スミ|江野朱美|战斗|神鬼|漫画系列|猎奇|怪异|热门",
   346085: "漫画系列|短篇|系列|漫画|已完结|長田悠幸|全3卷",
   346617: "漫画|たらちねジョン|生活|2020|电影|梦想|秋田書店|日漫|未完结漫画|2021|日本",
   346712: "漫画|日常|已完结|治愈|漫画系列|狐狸|狸猫|百合|2022|くみちょう|日本漫画",
@@ -13899,6 +13900,7 @@ const bgm_tags = {
   575136: "小说|小说系列",
   577985: "",
   578334: "Galgame|PC|同人|ADV|Web|秋|短篇|VN",
+  579477: "PC|PS5|2025|JRPG|RPG|XSX|NAMCO|游戏|NS",
   579840: "",
   581012: "同人|AVG|g|PC|游戏|Galgame|2025",
   582239: "",
