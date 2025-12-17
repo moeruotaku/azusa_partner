@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.15.36
+// @version     2025.12.17.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11033,6 +11033,7 @@ const bgm_tags = {
   347430: "PC|国产|AVG|STEAM|Galgame|国g|全年龄|视觉小说|游戏|伪娘|短篇",
   347490: "Purplesoftware|Galgame|御影|紫社|克|秋野花|2021|小波すず|GAL|2021-12|PC",
   347533: "alicesoft|Galgame|兰斯|非18禁|2008|Ranceシリーズ|RPG|FD|無料配布|TBL|ファンディスク",
+  347553: "BLコミック|漫画|BL|BL漫画|赤河左岸|2021|リブレ|实体|短篇|腐|耽美",
   347780: "Galgame|Qruppo|倉骨治人|监狱|搞笑|PC|2022|燃|R18|骨折王子|GAL",
   347844: "BLコミック|漫画|笠倉出版社",
   347848: "漫画|轻小说改|恋爱|校园|2021|日常|小说改|一般向|日本|カメーリエ|搞笑",
@@ -13704,6 +13705,8 @@ const bgm_tags = {
   520917: "BL|彩漫",
   521320: "OST|日本|游戏|GAL|Digital|专辑",
   521669: "2022|CD|中国|pop",
+  522187: "Galgame|后宫|SLG|妹|拔作|PC|R18|同人|游戏|纯爱|动态CG",
+  522390: "whirlpool|Galgame|FD|近江谷宥|拔作|生肉|废萌|2024|鷹乃ゆき|兽耳|纯爱",
   522765: "轻小说|恋爱",
   523164: "",
   523498: "Galgame|拔作|Escu:de|FD|PC|民俗|2025|ADV|R18|银趴|游戏",
