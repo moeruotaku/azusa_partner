@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.19.66
+// @version     2025.12.21.76
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3248,7 +3248,6 @@ const azusa_covers = {
   28971: "https://im1.book.com.tw/image/getImage?i=https://www.books.com.tw/img/001/096/54/0010965462.jpg&amp;v=64dda2a6k&amp;w=348&amp;h=348",
   29000: "https://t.tutu.to/md/PBY4G",
   29001: "https://t.tutu.to/md/PUvzH",
-  29003: "https://t.tutu.to/md/PBwAB",
   29004: "https://t.tutu.to/md/PUBuw",
   29010: "//lain.bgm.tv/r/400/pic/cover/l/05/6c/339367_5Ry95.jpg",
   29011: "https://t.tutu.to/md/NuUHj",
@@ -3454,7 +3453,6 @@ const azusa_covers = {
   30012: "https://res1.pubu.tw/docs/89408/46729/FIoBS8_xl.jpg",
   30013: "https://res1.pubu.tw/docs/200364/41824/FDL95K_xl.jpg",
   30021: "//lain.bgm.tv/r/400/pic/cover/l/39/ef/527901_NUA21.jpg",
-  30042: "https://img.azusa.wiki/images/2025/09/02/001.jpg",
   30043: "https://img.pterclub.com/images/2025/09/02/cfb085df-c5c7-42cc-ab7b-978c0dd37e79.png",
   30044: "https://ptpimg.me/a6eip9.png",
   30059: "https://img.seedvault.cn/i/2025/09/04/P001-0168b9aa69150ab263.png",
@@ -3476,7 +3474,6 @@ const azusa_covers = {
   30270: "https://pic.pting.club/i/2025/10/06/68e2bafdea246.jpg",
   30279: "https://p.sda1.dev/27/ea42d7a85d8c9bc59541794393c21d65/cover.jpg",
   30282: "//lain.bgm.tv/r/400/pic/cover/l/c0/02/565693_wKaaz.jpg",
-  30289: "//lain.bgm.tv/r/400/pic/cover/l/2e/a7/392774_ia6BI.jpg",
   30292: "//lain.bgm.tv/r/400/pic/cover/l/f4/dd/477276_nbuYa.jpg",
   30315: "https://img1.pixhost.to/images/9263/648905633_cover.jpg",
   30370: "https://p.sda1.dev/27/cb515257526742ec7280dd56c16c03d8/image.png",
@@ -3506,14 +3503,12 @@ const azusa_covers = {
   30624: "https://lain.bgm.tv/r/400/pic/cover/l/eb/d7/156556_jp.jpg",
   30641: "https://img.azusa.wiki/images/2025/09/02/001.jpg",
   30656: "https://img.nnko.me/6a3b154b4be56c7abe32451457f39b9c.jpg",
-  30709: "https://cdn-fusion.imgcdn.store/i/2025/3156da62797b5920.jpg",
   30712: "https://lain.bgm.tv/r/400/pic/cover/l/a4/ad/490348_VTT1f.jpg",
   30713: "https://lain.bgm.tv/r/400/pic/cover/l/5e/4f/74998_36i33.jpg",
   30721: "https://img.nnko.me/c283c511453a2efd6f213859e4d3cfd9.jpg",
   30722: "https://img.nnko.me/77d2b964c2eb14e7b178b2443e64832d.png",
   30736: "https://t.tutu.to/md/PBwAB",
   30745: "https://t.vndb.org/cv/44/32244.jpg",
-  30753: "https://img.nnko.me/d3f0f8879df1beea93a918bf37f59fa6.jpg",
   30763: "https://img.nnko.me/d3f0f8879df1beea93a918bf37f59fa6.jpg",
   30787: "https://i.vgy.me/JGpUQx.jpg",
   30790: "https://s12.gifyu.com/images/b9cEB.jpg",
