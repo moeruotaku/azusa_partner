@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.22.37
+// @version     2025.12.23.57
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -42,6 +42,7 @@ const bgm_covers = {
   266498: "f1/5b/266498_3188F.jpg",
   273389: "3f/46/273389_K2t28.jpg",
   285882: "a1/f1/285882_XFchu.jpg",
+  299096: "14/5f/299096_yz7si.jpg",
   299228: "f3/1a/299228_rn18G.jpg",
   302980: "7c/a9/302980_6PFgW.jpg",
   305429: "a1/bd/305429_axzF3.jpg",
@@ -50,18 +51,20 @@ const bgm_covers = {
   318524: "31/42/318524_5558F.jpg",
   319012: "68/58/319012_3z1Fo.jpg",
   320981: "76/61/320981_Yn31S.jpg",
+  322345: "1c/6d/322345_ogWmR.jpg",
   322890: "42/df/322890_fThjv.jpg",
   326654: "51/76/326654_ogZG5.jpg",
   332037: "32/c5/332037_5B49C.jpg",
   336906: "48/27/336906_jWhm2.jpg",
   340296: "64/34/340296_HgvIg.jpg",
   340386: "0a/be/340386_4Y79j.jpg",
-  347553: "93/53/347553_5JHov.jpg",
   355555: "0c/26/355555_F43Vf.jpg",
   359219: "f1/5d/359219_roRfa.jpg",
+  378564: "27/6b/378564_jJDBD.jpg",
+  384022: "2b/90/384022_Ms01U.jpg",
   384494: "f4/12/384494_pr2pv.jpg",
   385211: "61/d9/385211_ZLbQS.jpg",
-  385970: "d6/84/385970_9Ny4e.jpg",
+  394485: "76/47/394485_hv8HK.jpg",
   406424: "47/0e/406424_QD777.jpg",
   408753: "f5/9b/408753_T2kg4.jpg",
   409281: "b0/ea/409281_GtgG7.jpg",
@@ -71,17 +74,14 @@ const bgm_covers = {
   427473: "9f/c7/427473_v7HG3.jpg",
   453555: "2a/37/453555_7AaAH.jpg",
   454674: "3a/f6/454674_bYgJw.jpg",
-  466654: "9a/46/466654_suBzO.jpg",
+  464603: "78/1b/464603_pF4Pp.jpg",
   467924: "67/cc/467924_8igOH.jpg",
   469407: "89/8c/469407_obzYL.jpg",
   487772: "11/07/487772_M0ZiI.jpg",
   502328: "59/3c/502328_CO6R6.jpg",
   506124: "7f/98/506124_kVCil.jpg",
-  509947: "8f/03/509947_yEeWw.jpg",
   510108: "77/35/510108_5svMh.jpg",
   522187: "1a/27/522187_HvQ16.jpg",
-  522390: "9e/f5/522390_m5555.jpg",
   545934: "ff/90/545934_oo5P7.jpg",
-  547340: "62/1b/547340_ZQ8TX.jpg",
-  569608: "dc/92/569608_pFB9q.jpg"
+  547340: "62/1b/547340_ZQ8TX.jpg"
 };
