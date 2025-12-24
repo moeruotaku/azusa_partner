@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.24.52
+// @version     2025.12.24.70
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -78,6 +78,7 @@ const bgm_tags = {
   467924: "",
   469407: "SMEE|Galgame|妹|废萌|纯爱|欢乐|PC|青梅竹马|GAL|2024|甜",
   487772: "漫画|日常|搞笑|石ト悠良|百合|2024|系列|已完结|忍者|腰斩|原创",
+  488392: "百合|Galgame|推理|悬疑|魔法少女|ADV|全年龄|PC|2025|游戏|AVG",
   502328: "漫画|后宫|卖肉|校园|搞笑|日本|奇幻|已完结|修女|腰斩|高中生",
   506124: "校园|恋爱|漫画|爱情|日常|黑长直|日本|7.3|小动物|伊藤京介|连载中",
   510108: "百合|漫画|伊月クロ|日本|焔すばる|日野アラシ|焼肉定食|結野ちり|本子|成年コミック|校园",
