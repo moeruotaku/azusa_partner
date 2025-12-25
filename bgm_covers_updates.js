@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2025.12.24.70
+// @version     2025.12.25.69
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -16,7 +16,6 @@ const bgm_covers = {
   40064: "b3/57/40064_YSvYS.jpg",
   45278: "f2/9d/45278_CQqzE.jpg",
   48816: "fc/80/48816_97cc1.jpg",
-  66368: "e6/a0/66368_9uy09.jpg",
   77322: "7f/16/77322_UGrCP.jpg",
   90813: "b5/6f/90813_F2WEE.jpg",
   94694: "9b/b6/94694_sfpco.jpg",
@@ -29,7 +28,6 @@ const bgm_covers = {
   162969: "66/ff/162969_jp.jpg",
   182434: "05/13/182434_PF45n.jpg",
   187871: "e2/79/187871_i33v3.jpg",
-  217552: "45/80/217552_31zsp.jpg",
   227220: "b9/2e/227220_oKeqz.jpg",
   230297: "4a/bc/230297_nHcQh.jpg",
   234799: "37/81/234799_v8GWv.jpg",
@@ -44,7 +42,9 @@ const bgm_covers = {
   299228: "f3/1a/299228_rn18G.jpg",
   302980: "7c/a9/302980_6PFgW.jpg",
   305429: "a1/bd/305429_axzF3.jpg",
+  305876: "89/e4/305876_yYJWE.jpg",
   306212: "93/0b/306212_abazo.jpg",
+  316122: "9d/77/316122_fF4iv.jpg",
   316635: "c7/f6/316635_n4d42.jpg",
   318524: "31/42/318524_5558F.jpg",
   319012: "68/58/319012_3z1Fo.jpg",
@@ -55,7 +55,6 @@ const bgm_covers = {
   326654: "51/76/326654_ogZG5.jpg",
   332037: "32/c5/332037_5B49C.jpg",
   336906: "48/27/336906_jWhm2.jpg",
-  340296: "64/34/340296_HgvIg.jpg",
   340386: "0a/be/340386_4Y79j.jpg",
   355555: "0c/26/355555_F43Vf.jpg",
   359219: "f1/5d/359219_roRfa.jpg",
@@ -72,15 +71,12 @@ const bgm_covers = {
   414664: "02/1d/414664_Rq7ou.jpg",
   427143: "97/2e/427143_QzLOZ.jpg",
   427473: "9f/c7/427473_v7HG3.jpg",
-  453555: "2a/37/453555_7AaAH.jpg",
   454674: "3a/f6/454674_bYgJw.jpg",
   464603: "78/1b/464603_pF4Pp.jpg",
   467924: "67/cc/467924_8igOH.jpg",
   469407: "89/8c/469407_obzYL.jpg",
-  487772: "11/07/487772_M0ZiI.jpg",
   488392: "df/0f/488392_h78qM.jpg",
   502328: "59/3c/502328_CO6R6.jpg",
   506124: "7f/98/506124_kVCil.jpg",
-  510108: "77/35/510108_5svMh.jpg",
-  547340: "62/1b/547340_ZQ8TX.jpg"
+  506840: "ac/c1/506840_RdBrM.jpg"
 };
