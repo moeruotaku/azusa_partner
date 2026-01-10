@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.10.00
+// @version     2026.01.11.08
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -5274,6 +5274,7 @@ const bgm_tags = {
   143901: "漫画|漫画系列|已完结|全4卷",
   144084: "乙女向|PSV|オトメイト|乙女ゲーム|Otomate|PC|AVG|STEAM|古川慎|乙女|汉化",
   144089: "国漫|搞笑|漫画|搞笑漫画|中国漫画|装逼|话题作|已完结",
+  144135: "山下和美|漫画|奇幻|2014|末世|10年代|マンガ|未完结漫画|完结|モーニング|7分",
   144171: "OST|麻枝准|Lia|多田葵|Charlotte|熊木杏里|ANANT-GARDE|2015|O.S.T.|动画",
   144173: "Galgame|艹猫|猫娘|STEAM|NEKOWORKs|PC|全年龄|GAL|sayori|2015|ネコぱら",
   144184: "漫画|西尾維新|小说改|浅見よう|推理|系列|月刊少年マガジン|剧情|悬疑|轻小说|B漫",
@@ -13697,6 +13698,7 @@ const bgm_tags = {
   511746: "韩国|iOS|PC|Galgame|游戏|Android|原画超棒",
   511827: "BL漫画",
   511869: "背筋|小说|恐怖|2024",
+  511943: "key|Galgame|续篇|AVG|PC|游戏|2024|已购|短篇|重制版|悬疑",
   512180: "大槍葦人|Galgame|PC|ADV|汉化|全年龄|游戏|冬|超短篇|8",
   512198: "",
   512205: "",
