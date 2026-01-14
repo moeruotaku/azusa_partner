@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.12.35
+// @version     2026.01.14.50
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11625,6 +11625,7 @@ const bgm_tags = {
   379564: "恋爱|漫画系列|校园|幼驯染|漫画|小说改|一般向|日常",
   379566: "漫画|搞笑|四格|校园|日常|伪娘|恋爱|节操|2022|喜剧|日本",
   379571: "漫画|短篇|单篇",
+  379637: "奇幻|轻小说改|漫画|小说改|La-na|中性角色|畫功好|日本|连载中|美少女|宫廷",
   379775: "Galgame|国产|PC|SLG|中国|AVG|STEAM|游戏|国产Galgame|2022",
   379787: "漫画|萝莉|ユイザキカズヤ|全年龄|yuizaki|少女|和风|恋爱|日常|漫画系列|茧",
   379803: "轻小说|恋爱|NTR|校园|小说系列|小说|日本|学姐|角川|2020|角川スニーカー文庫",
@@ -12306,6 +12307,7 @@ const bgm_tags = {
   413366: "Galgame|シルキーズプラス|きみしま青|拔作|PC|纯爱|2024|悬疑|ADV|续作|悬疑推理",
   413370: "ED|2023|尼尔：自动人形|动画ED|尼尔|anime|动画|2023年1月|动画歌曲|2023年",
   413620: "Galgame|废萌|白玉|きゃべつそふと|萝莉|纯爱|梱枝りこ|しらたま|PC|2023|兽耳",
+  413626: "系列|漫画|日本|已完结|买肉|青年|原创|职业",
   413682: "漫画|少女",
   413808: "Type-Moon|Fate|ARPG|光荣特库摩|JRPG|PC|2023|无双|RPG|PS5|ω-Force",
   413818: "国产|Galgame|动态CG|黄油|修仙|R18|2022|ADV|PC|STEAM|TUTGame",
