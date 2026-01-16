@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.16.43
+// @version     2026.01.16.68
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11370,6 +11370,7 @@ const bgm_tags = {
   365482: "拔作|R18|黄油|Galgame|PC|國產|官中|纯爱|同人|游戏",
   365588: "漫画|已完结|奇幻|战斗|漫画系列|大井昌和|出店宇生|全2卷",
   365615: "百合|qureate|卡牌|Galgame|软色情|PC|2022|全年龄|NS|官中|STEAM",
+  365620: "漫画|2021|异世界|奇幻|漫画系列|坂野杏梨|轻小说改|小说改|中性角色|なろう系|灾难",
   365622: "推理漫画|漫画系列|悬疑|猎奇|金田一|佐藤文也|樹林伸|Mystery",
   365627: "漫画系列|已完结|全8卷",
   365699: "Galgame|伪娘|PC|女装|ensemble|生肉|2022-04|GAL|2022|Go-1",
