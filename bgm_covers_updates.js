@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.15.66
+// @version     2026.01.16.43
 // @description bgm_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -38,6 +38,7 @@ const bgm_covers = {
   282324: "cb/a9/282324_l2i2l.jpg",
   289342: "c2/38/289342_8CnzY.jpg",
   289556: "1a/ce/289556_2q0zg.jpg",
+  295217: "31/37/295217_GQKWX.jpg",
   305872: "5d/58/305872_mVwvR.jpg",
   307014: "ee/ec/307014_cVtli.jpg",
   308287: "b5/d6/308287_Qj65Q.jpg",
@@ -45,16 +46,16 @@ const bgm_covers = {
   324663: "b5/c9/324663_3Z8N7.jpg",
   328731: "e9/e7/328731_FSBQf.jpg",
   329376: "ae/a9/329376_w1c0S.jpg",
+  329858: "15/60/329858_iJR27.jpg",
   330139: "5e/33/330139_Zrqrs.jpg",
   333366: "ab/e5/333366_CndIc.jpg",
   335248: "75/f4/335248_zSI8z.jpg",
-  338969: "2a/9a/338969_ZVL8v.jpg",
+  336906: "48/27/336906_jWhm2.jpg",
   341376: "9c/bb/341376_5MD5B.jpg",
   351025: "f3/9f/351025_f3A3z.jpg",
   364561: "0b/30/364561_k51wD.jpg",
   369127: "37/39/369127_zwxwQ.jpg",
   370560: "0d/e8/370560_sgCDF.jpg",
-  376422: "9e/14/376422_Ga1Ao.jpg",
   379637: "a9/4f/379637_j3ci2.jpg",
   382269: "a1/d8/382269_5rvJX.jpg",
   382821: "97/e7/382821_0Lb8s.jpg",
@@ -66,16 +67,18 @@ const bgm_covers = {
   412900: "fa/22/412900_QqPIb.jpg",
   413626: "bc/dd/413626_dLvhw.jpg",
   432458: "f3/af/432458_9j6EJ.jpg",
+  433639: "f7/54/433639_P3lL5.jpg",
   434727: "18/44/434727_Lxg2W.jpg",
   443706: "bd/33/443706_6IvL3.jpg",
   449549: "32/87/449549_Oo94K.jpg",
   453901: "0a/ad/453901_TyxyW.jpg",
   460819: "f0/ce/460819_u5H0Z.jpg",
   462338: "74/68/462338_yNcUs.jpg",
+  462533: "de/6c/462533_0IF5L.jpg",
+  465369: "0b/38/465369_x3iTt.jpg",
   480576: "61/da/480576_83XMK.jpg",
   481055: "a4/2b/481055_ty04m.jpg",
   481624: "96/1f/481624_9pd4W.jpg",
-  497420: "58/f7/497420_kZ9s6.jpg",
   505472: "30/29/505472_C5CTi.jpg",
   505808: "9b/83/505808_Y6Cfm.jpg",
   511943: "ba/da/511943_a8PdB.jpg",
