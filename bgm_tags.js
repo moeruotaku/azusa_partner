@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.17.69
+// @version     2026.01.18.49
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -6756,6 +6756,7 @@ const bgm_tags = {
   193697: "少女",
   193719: "恋爱|校园|后宫|漫画|兄控|青春|已完结|三角恋|漫画系列|胃药",
   193750: "少女漫",
+  193851: "漫画|悬疑|智斗|河本ほむら|吉村英明|生存|生存游戏|推理|2015|漫画系列|已完结",
   193856: "少女|恋爱|已完结|漫画|双葉社|科学|小说|少女漫|モンキー・パンチ",
   193866: "漫画|少女",
   193902: "少女|少女漫画|日本漫画|已完结",
