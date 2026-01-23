@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.22.85
+// @version     2026.01.23.85
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3519,5 +3519,7 @@ const azusa_covers = {
   31210: "https://res3.pubu.tw/docs/546718/76605/HzTjxr_xl.jpg",
   31220: "https://lain.bgm.tv/r/400/pic/cover/l/86/74/369073_0C3lz.jpg",
   31261: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265060/header.jpg",
-  31262: "https://img.seedvault.cn/i/2026/01/18/时空旅人696c72c4dd1b8296.jpg"
+  31262: "https://img.seedvault.cn/i/2026/01/18/时空旅人696c72c4dd1b8296.jpg",
+  31286: "https://s3.bmp.ovh/imgs/2026/01/20/c884b56735f60d72.jpg",
+  31287: "https://img.nnko.me/873e8f1639bee9e93411d7dc9b83653f.jpg"
 };

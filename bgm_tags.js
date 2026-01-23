@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.22.85
+// @version     2026.01.23.85
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9328,6 +9328,7 @@ const bgm_tags = {
   289589: "漫画|异世界|恋爱|奇幻|堂本裕貴|已完结|纯爱|不死勇者罗曼史|2019|マンガ|2020",
   289590: "漫画系列|漫画|科幻|系列|赛博朋克|攻壳机动队|已完结|战斗|悬疑|义体|日本",
   289599: "柚子社|Galgame|废萌|夏和小|ゆずソフト|Yuzu-Soft|纯爱|2019|清水爱|PC|GAL",
+  289602: "漫画|恋爱|搞笑|校园|少女漫画|木内ラムネ|2018|年下|少女|集英社|少女漫",
   289699: "漫画|小说改|少女漫画|已完结|异世界|转生|悬疑|奇幻|じろあるば|恋爱|B漫",
   289774: "小说|百合",
   289826: "国产|ADV|Galgame|PC|DOTA|全年龄|STEAM|GAL|青羽|游戏|AVG",
