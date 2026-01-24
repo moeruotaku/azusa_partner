@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.23.85
+// @version     2026.01.24.76
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3511,7 +3511,6 @@ const azusa_covers = {
   31103: "https://lain.bgm.tv/r/400/pic/cover/l/62/9b/241801_bO8Fy.jpg",
   31109: "https://lain.bgm.tv/r/400/pic/cover/l/38/21/566030_K81oh.jpg",
   31112: "https://img.azusa.wiki/images/2026/01/03/0.jpg",
-  31147: "https://lain.bgm.tv/r/400/pic/cover/l/c6/f4/22342_ocFlk.jpg",
   31177: "https://lain.bgm.tv/r/400/pic/cover/l/c6/f4/22342_ocFlk.jpg",
   31203: "https://lain.bgm.tv/r/400/pic/cover/l/32/58/410315_97597.jpg",
   31208: "https://img1.pixhost.to/images/11621/685046453_uwdnlrhzzcatx4rcobwrfg__.jpg",
@@ -3521,5 +3520,7 @@ const azusa_covers = {
   31261: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265060/header.jpg",
   31262: "https://img.seedvault.cn/i/2026/01/18/时空旅人696c72c4dd1b8296.jpg",
   31286: "https://s3.bmp.ovh/imgs/2026/01/20/c884b56735f60d72.jpg",
-  31287: "https://img.nnko.me/873e8f1639bee9e93411d7dc9b83653f.jpg"
+  31287: "https://img.nnko.me/873e8f1639bee9e93411d7dc9b83653f.jpg",
+  31294: "https://img.pterclub.net/images/2026/01/23/00.png",
+  31295: "https://img.seedvault.cn/i/2026/01/21/梦之阿朽 封面6970c1cc453c9296.jpg"
 };
