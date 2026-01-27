@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.26.44
+// @version     2026.01.27.42
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13157,6 +13157,7 @@ const bgm_tags = {
   460581: "设定集",
   460712: "画集|mignon|已购|R18|2023|双葉社|成年コミック",
   460743: "Galgame|CRYSTALiA|白毛|废萌|2024|妹|PC|秋野花|萝莉|塔塔开|ADV",
+  460748: "漫画|恋爱|校园|倒贴|一般向|2025-12|御姐|日常|高桥つばさ|原创|反差萌",
   460819: "漫画|日常|青年|生活|意识流|上班族|2023|思考|鍋倉夫|小学馆|原创",
   460897: "衍生|轻小说|短篇|赤坂アカ",
   461111: "国漫|中国|2019",

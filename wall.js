@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_wall
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.26.44
+// @version     2026.01.27.42
 // @description add wall to azusa
 // @author      moeruotaku
 // @license     MIT
