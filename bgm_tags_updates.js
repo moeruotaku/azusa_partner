@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.28.42
+// @version     2026.01.28.70
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -80,6 +80,7 @@ const bgm_tags = {
   498801: "漫画|山本崇一朗|日常|校园|搞笑|恋爱|棒球|小學館|连载中|原创|日本",
   506382: "轻小说",
   508750: "漫画|恋爱|类型:漫画|2024|标签:待改",
+  515527: "JRPG|炼金工房|RPG|2025|Gust|PS5|PC|游戏|PS4|工作室|STEAM",
   525615: "同人|Galgame|全年龄|雪月|世界观|短篇|PC|资源难找|幼馴染|无选项|生肉",
   526087: "轻小说",
   529128: "同人|全年龄|病娇|生肉|Galgame|超短篇",
