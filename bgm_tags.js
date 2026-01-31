@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.30.43
+// @version     2026.02.01.09
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13761,6 +13761,7 @@ const bgm_tags = {
   512789: "Galgame|全年龄|小说改|性转|PC|百合|Visual_Arts|短篇|ADV|游戏|长谷川育美",
   512796: "颜艺社|Galgame|ASaProject|废萌|2025|喜剧|PC|游戏|ADV|八日なのか|天使",
   513054: "画集|ももこ|已购|存盘",
+  513140: "轻小说|凪",
   513311: "漫画",
   513567: "同人|短篇|2024|视觉小说|ADV|PC|游戏|灵异|freegame|AVG|Web",
   513795: "漫画|卖肉|后宫|丧尸|日本|猎奇|2024|今井ユウ講談社|原创|青年漫|搞笑",
@@ -13982,6 +13983,7 @@ const bgm_tags = {
   560302: "RPG|韩国|NS|PC|STEAM|Kiwiwalks|2020",
   560376: "ADV|Galgame|全年龄|野球拳|PC|ARG|游戏|Windows|文字游戏|心理恐怖|职场恐怖",
   560465: "Galgame|全年龄|后宫|纯爱|汉化",
+  560497: "百合|轻小说|小说系列|网游|系列|エリーゼ|小说|日本",
   560803: "漫画|CLAMP|末世|战斗|台湾角川|新装版",
   560973: "",
   561574: "Galgame|R18",

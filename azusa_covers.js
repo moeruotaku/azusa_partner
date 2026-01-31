@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.01.30.43
+// @version     2026.02.01.09
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3529,5 +3529,7 @@ const azusa_covers = {
   31364: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038510/header.jpg?t=1552636766",
   31365: "https://tongliebookpic.blob.core.windows.net/bookcover/93936c6ba1414a6aee1508de57410d36.jpg",
   31366: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2363180/2f1a4472ed05c1c6249b1d65b819f33ffda7beb4/header.jpg?t=1769612417",
-  31368: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038530/header.jpg?t=1553516092"
+  31368: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038530/header.jpg?t=1553516092",
+  31379: "https://img2.pixhost.to/images/5395/689851124_cover.jpg",
+  31380: "https://img2.pixhost.to/images/5407/689984597_cover.jpg"
 };
