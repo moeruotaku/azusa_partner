@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.01.86
+// @version     2026.02.02.63
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,7 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  31335: "https://img.seedvault.cn/i/2026/01/24/海贼王顶上战争手稿集 封面69745929700c0296.jpg",
   31363: "https://lain.bgm.tv/r/400/pic/cover/l/7e/c3/254315_3c6r9.jpg",
   31364: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1038510/header.jpg?t=1552636766",
   31365: "https://tongliebookpic.blob.core.windows.net/bookcover/93936c6ba1414a6aee1508de57410d36.jpg",
