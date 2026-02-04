@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.04.43
+// @version     2026.02.04.95
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12674,6 +12674,7 @@ const bgm_tags = {
   426153: "画集|设定集|画集·设定集",
   426258: "画集",
   426302: "百合|漫画|サスケ|完结|代餐|2023|漫画系列|20话以内|百合漫画|嫂子文学|Yuri",
+  426395: "日本|漫画|系列|小说改|已完结",
   426405: "小说改|已完结|日本原作改编|中日合作|漫画|中国",
   426411: "マンガ|中日合作|日本原作改编",
   426414: "百合|美食|日常|Zcloud|漫画|伊实|国漫|中国|国产|已完结|原创",
