@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.04.95
+// @version     2026.02.05.86
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14058,6 +14058,7 @@ const bgm_tags = {
   594019: "",
   594473: "",
   597970: "",
+  598205: "",
   598961: "Galgame|同人|全年龄|短篇",
   600821: "日本|漫画|系列|已完结",
   601035: "",
