@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.08.57
+// @version     2026.02.09.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -10688,6 +10688,7 @@ const bgm_tags = {
   332404: "Galgame|metalogiq|上田メタヲ|2021|凌辱|短篇|FD|猎奇|ADV|汉化|GAL",
   332459: "漫画系列|全3卷|已完结|漫画|唯登诗树|神鬼",
   332487: "漫画|恋爱|小说改|校园|轻小说改|日常|倒贴|吉北ぽぷり|漫画系列|2021|恋爱喜剧",
+  332489: "漫画|魔法少女|TS|性转|漫画系列|赤羽ぜろ|2021|战斗|搞笑|腰斩|已完结",
   332542: "漫画|2025-11|2021|连载中|日本|奇幻|漫画系列|系列|原创",
   332560: "轻小说|森田季節|奇幻|首卷|GAGAGA文库|小说|成长|单行本|2012",
   332718: "已完结|全2卷|漫画|漫画系列",
