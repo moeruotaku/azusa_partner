@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.12.43
+// @version     2026.02.12.68
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13931,6 +13931,7 @@ const bgm_tags = {
   529662: "漆原雪人|Galgame|FrontWing|全年龄|双男主|PC|2025|重口|游戏|纯爱|妹",
   529681: "公式书|GBC|纸质书|设定集|日本|マイクロマガジン社|東映アニメーション|2025",
   529743: "画集",
+  530016: "轻小说|橘公司|约会大作战|時崎狂三|百合",
   530021: "轻小说",
   530159: "Fragaria|同人|科幻|Galgame|全年龄|ADV|PC|视觉小说|悬疑|STEAM|2025",
   530363: "轻小说|丸戸史明|恋爱|2025|小说|三角恋|小说系列|青梅竹马|丸户史明|连载文|三角恋？",
