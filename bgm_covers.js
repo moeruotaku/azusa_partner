@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.13.43
+// @version     2026.02.14.89
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -4426,6 +4426,7 @@ const bgm_covers = {
   113780: "64/2d/113780_jyyV8.jpg",
   113792: "6f/32/113792_X8eEd.jpg",
   113854: "15/f6/113854_wwGWO.jpg",
+  113866: "f1/23/113866_jp.jpg",
   113920: "97/3f/113920_4DA4H.jpg",
   113921: "02/13/113921_7b0G7.jpg",
   113923: "78/57/113923_77nI3.jpg",
@@ -10178,6 +10179,7 @@ const bgm_covers = {
   313882: "44/37/313882_gZX0W.jpg",
   313947: "e5/da/313947_1Aui2.jpg",
   313951: "cd/75/313951_Ygmi4.jpg",
+  313964: "1d/de/313964_pWil9.jpg",
   313987: "28/da/313987_uV7Pu.jpg",
   314005: "53/3b/314005_kFI3v.jpg",
   314060: "90/36/314060_N45f3.jpg",
@@ -12343,6 +12345,7 @@ const bgm_covers = {
   411841: "bc/53/411841_43L1z.jpg",
   411858: "e3/58/411858_4s021.jpg",
   411859: "51/b5/411859_QzQI1.jpg",
+  411905: "bf/9b/411905_OUk0q.jpg",
   411978: "4c/55/411978_UuMbY.jpg",
   412013: "e9/64/412013_BffB3.jpg",
   412024: "01/97/412024_M7k7O.jpg",
@@ -12674,6 +12677,7 @@ const bgm_covers = {
   423115: "51/5f/423115_abqG9.jpg",
   423149: "8a/31/423149_jB7E2.jpg",
   423160: "8d/5d/423160_K22za.jpg",
+  423212: "cf/68/423212_wyvY3.jpg",
   423243: "8e/ea/423243_2Vb2a.jpg",
   423248: "86/a5/423248_x3K4z.jpg",
   423280: "c2/ba/423280_4bOSU.jpg",
@@ -13824,6 +13828,7 @@ const bgm_covers = {
   511180: "30/a3/511180_1o1uo.jpg",
   511412: "91/13/511412_FpfCf.jpg",
   511444: "cc/6d/511444_oIzT2.jpg",
+  511646: "56/84/511646_WO3qz.jpg",
   511746: "2d/a1/511746_1ZEaG.jpg",
   511827: "a5/af/511827_xxth1.jpg",
   511869: "f1/9b/511869_n5J5i.jpg",
@@ -14040,6 +14045,7 @@ const bgm_covers = {
   553869: "65/2c/553869_FS0g5.jpg",
   553891: "46/d4/553891_uQq0Y.jpg",
   554946: "50/a4/554946_dfpw6.jpg",
+  555423: "fb/a3/555423_nNq1V.jpg",
   555742: "5f/5a/555742_7lela.jpg",
   555773: "92/db/555773_4jZ89.jpg",
   556146: "33/27/556146_mXl42.jpg",
