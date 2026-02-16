@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.14.89
+// @version     2026.02.16.56
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -702,6 +702,7 @@ const bgm_covers = {
   12578: "fd/d7/12578_iupq9.jpg",
   12580: "7a/e7/12580_q8PHD.jpg",
   12591: "89/f3/12591_YI0u3.jpg",
+  12592: "ff/47/12592_U7kRq.jpg",
   12615: "2e/3e/12615_jp.jpg",
   12616: "d1/9a/12616_U7srs.jpg",
   12708: "ad/12/12708_mRzdY.jpg",
@@ -3132,6 +3133,7 @@ const bgm_covers = {
   73333: "b0/c7/73333_xBl7B.jpg",
   73350: "b8/64/73350_jp.jpg",
   73351: "46/67/73351_jp.jpg",
+  73356: "21/8f/73356_3wCMC.jpg",
   73366: "0b/9e/73366_pY9uP.jpg",
   73391: "23/4f/73391_jp.jpg",
   73404: "42/c2/73404_rzsN2.jpg",
@@ -11150,6 +11152,7 @@ const bgm_covers = {
   349082: "24/35/349082_66e66.jpg",
   349098: "d6/67/349098_9335W.jpg",
   349103: "12/bc/349103_MumMt.jpg",
+  349243: "c4/05/349243_1MzWl.jpg",
   349268: "3b/7c/349268_7v0JG.jpg",
   349274: "3a/bb/349274_U0IXd.jpg",
   349283: "84/c5/349283_0OtrH.jpg",
@@ -13342,6 +13345,7 @@ const bgm_covers = {
   469407: "89/8c/469407_obzYL.jpg",
   469528: "23/64/469528_9oWMd.jpg",
   469606: "5b/8d/469606_TiN6V.jpg",
+  469840: "f1/19/469840_v0lyR.jpg",
   470048: "a6/a8/470048_Ru2E3.jpg",
   470126: "c6/7c/470126_REE05.jpg",
   470276: "87/aa/470276_UjXuf.jpg",
@@ -13884,6 +13888,7 @@ const bgm_covers = {
   520079: "5b/cd/520079_yJsq3.jpg",
   520142: "5f/e8/520142_yIfvv.jpg",
   520341: "49/17/520341_S3u8s.jpg",
+  520346: "5b/12/520346_3uhhx.jpg",
   520583: "4b/a0/520583_4r421.jpg",
   520595: "b2/9c/520595_hzT4L.jpg",
   520917: "27/8c/520917_3D05F.jpg",
@@ -13957,6 +13962,7 @@ const bgm_covers = {
   531624: "7d/ee/531624_Ir7wH.jpg",
   531861: "b2/a3/531861_lCnen.jpg",
   531887: "ea/2e/531887_339nN.jpg",
+  531925: "14/67/531925_GGG8W.jpg",
   531940: "94/6a/531940_OD8qx.jpg",
   532476: "0e/b2/532476_S5QYf.jpg",
   532479: "64/41/532479_GrzIL.jpg",
