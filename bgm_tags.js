@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.18.36
+// @version     2026.02.19.01
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -4382,6 +4382,7 @@ const bgm_tags = {
   111938: "奥浩哉|漫画|漫画系列|科幻|集英社",
   112064: "漫画系列|战斗|漫画|热血|王道|已完结|治愈|已完結|全8卷",
   112102: "",
+  112155: "ACT|PSV|PC|PS4|无双|BNGI|海賊無双3|繁体中文版|2015|PS3|Koeitecmo",
   112163: "画集|已购|花舞少女",
   112177: "漫画|少女漫|已完结|かずまこを|恋爱|漫画系列|全5卷",
   112202: "少女|少女漫画|集英社|漫画系列|河原和音",
