@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.02.19.93
+// @version     2026.02.22.93
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12300,6 +12300,7 @@ const bgm_tags = {
   409752: "20世纪",
   409764: "漫画|遊人",
   409781: "漫画|日本|日本漫画|系列",
+  409788: "画集|设定集",
   409817: "漫画|短篇集|大白小蟹|日本漫画|一般向|2022|短篇|リイド社|全一卷|女作者|收藏",
   409888: "Galgame|PC|百合|歩サラ|2022|NS|GAL|游戏|Rosetta|ADV|欺诈",
   409965: "轻小说|女性视角|小说|扭曲|狂气|坂上秋成|偏执",
@@ -13314,6 +13315,7 @@ const bgm_tags = {
   466851: "BL漫画|BL|国漫",
   466852: "恋爱|搞笑",
   466857: "穿越|中国|国漫|古风|言情|网文改|重生",
+  466861: "Galgame|mignon|伪娘|女装|2024|オルトロス|PC|R18|ADV|拔作|游戏",
   466904: "WA2|翻唱|galgame|白色相簿|GAL|COVER",
   466924: "",
   466927: "画集|存盘|已购|白毛",
