@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.07.72
+// @version     2026.03.08.44
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -480,6 +480,7 @@ const bgm_tags = {
   7847: "Galgame|CUBE|实姐|纯爱|姐控|黑长直|姐|夏ノ雨|PC|汉化|绀野アスタ",
   7854: "Galgame|龙少女|RPG|山本和枝|养成类|でぼの巣製作所|山本大妈|GAL|汉化|养成|ACT养成类",
   7865: "轻小说|久住四季|百合|系列|奇幻|推理|诡计|小说|女主角|推理悬疑|幻想",
+  7868: "Galgame|Navel|王雀孫|西又葵|我们没有翅膀|日语白学|人格分裂|我们不懂日语|GAL|橘子社|電波",
   7872: "leaf|电波|狂气|Galgame|電波ゲー|高橋龍也|1996|高桥龙也|兄妹|PC|GAL",
   7876: "设定集|persona|公式书",
   7877: "画集|猪股睦实|tales",
@@ -13733,7 +13734,6 @@ const bgm_tags = {
   500841: "PC|游戏|像素|步兵",
   500873: "秋乃つかさ|轻小说|Enji|青春",
   500962: "资料|设定集|科幻",
-  501027: "Galgame|Navel|王雀孫|西又葵|PC|PSV|我们没有翅膀|游戏|AVG|妹|分割商法",
   501173: "黄油|游戏|R18|RPG|r|PC|STEAM",
   501181: "漫画改|日本|漫画|系列|已完结",
   501478: "轻小说|恋爱|校园|2024|雨音恵",
