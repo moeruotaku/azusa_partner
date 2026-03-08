@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.08.44
+// @version     2026.03.08.65
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12934,6 +12934,7 @@ const bgm_tags = {
   437304: "PC|策略|游戏|STEAM|PS4",
   437529: "小说|推理|米澤穂信|悬疑|米泽穗信|文艺春秋|推理之神",
   437534: "Galgame|国产|全年龄|萝莉|AVG|致郁|2023|PC|GAL|STEAM|游戏",
+  437535: "漫画|漫画系列|原创|战争|青年|日本|系列|已完结|双恋双|输面|2023",
   437548: "PS5|PS4|Cloud|汉化|Galgame|R18gal|游戏|PC|同人|AVG",
   437556: "AVG|PC|Galgame|SLG|游戏|黄油|ADV",
   437652: "",
