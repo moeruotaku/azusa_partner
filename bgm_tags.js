@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.09.36
+// @version     2026.03.09.86
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11617,6 +11617,7 @@ const bgm_tags = {
   375145: "漫画|BL|BL漫画|志木見ビビ|工口|BLコミック",
   375202: "漫画系列",
   375205: "百合|同人|校园欺凌|全年龄|PC|Galgame|もっきゃりぺお|暴力|ADV|游戏|短篇",
+  375211: "漫画",
   375274: "百合|同人|短篇|Galgame|R18|2021|ADV|GL|なつこん|游戏|汉化",
   375316: "漫画|恋爱|幼驯染|搞笑|后宫|校园|2022|党争|日常|三簾真也|講談社",
   375334: "漫画系列",
@@ -11946,6 +11947,7 @@ const bgm_tags = {
   392296: "轻小说|森下りんご|TS|小说系列|アース・スター|エンターテイメント|漫画|性转",
   392483: "科幻|漫画系列|2022|法国原作改编|游戏改",
   392488: "轻小说|百合|小说|KADOKAWA|鴉ぴえろ|みきさい",
+  392492: "日本|漫画|系列|漫画系列|已完结",
   392553: "Galgame|Purplesoftware|拔作|2022|かずきふみ|小波すず|巨乳|PC|幼驯染|GAL|R18",
   392569: "国产|独立游戏|STEAM|反塔防|AVG|策略|中国|RPG|全年龄|百合|PC",
   392673: "",
