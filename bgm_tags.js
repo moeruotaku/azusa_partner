@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.08.65
+// @version     2026.03.09.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12348,6 +12348,7 @@ const bgm_tags = {
   410937: "恋爱|漫画|全一卷",
   410945: "漫画|奇幻|冒险|游戏改|漫画系列",
   411083: "",
+  411095: "日本|漫画|系列|已完结|影视改",
   411115: "小说改|已完结",
   411163: "漫画",
   411168: "轻小说|GA文库|后宫|恋爱|连载中|2021",
@@ -13396,6 +13397,7 @@ const bgm_tags = {
   470936: "漫画|伪娘|恋爱|校园|日常|2023|搞笑|日本|原创|连载中|ウルトラジャンプ",
   471237: "Galgame|MELLOW|垂花|2024|夢乃ゆき|NTR|PC|R18|ADV|致郁|白毛",
   471368: "恋爱|漫画|成人|短篇",
+  471501: "",
   471857: "漫画|港漫|拳皇",
   471859: "漫画",
   471904: "百合",
