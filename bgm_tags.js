@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.13.36
+// @version     2026.03.13.66
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12434,6 +12434,7 @@ const bgm_tags = {
   413370: "ED|2023|尼尔：自动人形|2023年|力荐|动画ED|动画歌曲|尼尔|2023年1月|动画",
   413620: "Galgame|废萌|白玉|きゃべつそふと|萝莉|梱枝りこ|しらたま|纯爱|PC|2023|兽耳",
   413626: "系列|漫画|职业|日本|青年|原创|买肉|已完结",
+  413681: "OST|galgame|阿保剛|80——84",
   413682: "日本|恋爱|漫画|少女|短篇集",
   413808: "Type-Moon|Fate|ARPG|光荣特库摩|JRPG|PC|无双|2023|RPG|PS5|ω-Force",
   413818: "国产|Galgame|动态CG|黄油|修仙|R18|ADV|2022|PC|STEAM|TUTGame",
