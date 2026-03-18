@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.17.38
+// @version     2026.03.18.35
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3459,34 +3459,16 @@ const azusa_covers = {
   31380: "https://img2.pixhost.to/images/5407/689984597_cover.jpg",
   31402: "https://cdn.suruga-ya.jp/database/pics_webp/game/340021555.jpg.webp",
   31434: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3699940/8a9f9abee447854b36cf603ca3d2f5842a5ee41d/header.jpg?t=1770055337",
-  31453: "https://lain.bgm.tv/r/400/pic/cover/l/18/a6/126794_jp.jpg",
   31469: "https://m.media-amazon.com/images/I/51Y1fG-lL-L.jpg",
-  31472: "https://lain.bgm.tv/r/400/pic/cover/l/cc/22/7971_UAnRW.jpg",
   31475: "https://m.media-amazon.com/images/I/51vz2u1Au3L.jpg",
-  31495: "//lain.bgm.tv/r/400/pic/cover/l/ec/a0/529267_F1ekS.jpg",
   31503: "https://m.media-amazon.com/images/I/71H1LPZUOaL._SL1000_.jpg",
   31515: "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=212001467346.jpg",
-  31540: "https://lain.bgm.tv/r/400/pic/cover/l/86/74/369073_0C3lz.jpg",
   31544: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2890940/456d61f0833713ff0e96d9ddcc972c9951bfc0fe/header.jpg?t=1762403333",
   31547: "https://img.azusa.wiki/images/2026/02/22/261134_1.jpg",
-  31561: "//lain.bgm.tv/r/400/pic/cover/l/d0/aa/358791_HR0Qi.jpg",
-  31566: "https://img.nnko.me/873e8f1639bee9e93411d7dc9b83653f.jpg",
   31574: "https://img.azusa.wiki/i/2026/02/ac0e4281-6976-4aa3-b17d-8abb08eb88be.png",
-  31575: "//lain.bgm.tv/r/400/pic/cover/l/2f/84/604127_exDlE.jpg",
   31579: "https://img.azusa.wiki/i/2026/02/740d1f72-fea2-46ef-954b-9e7a86a16a2e.png",
-  31582: "//lain.bgm.tv/r/400/pic/cover/l/a4/28/5198_jp.jpg",
-  31595: "https://ptpimg.me/s23330.jpg",
-  31596: "https://ptpimg.me/1mw1m4.jpg",
-  31597: "https://ptpimg.me/8o73z3.jpg",
-  31601: "https://lain.bgm.tv/r/400/pic/cover/l/3d/c3/505534_7BK3V.jpg",
-  31623: "https://lain.bgm.tv/r/400/pic/cover/l/af/ec/522778_5C5c2.jpg",
   31645: "https://img.azusa.wiki/i/2026/03/65eb80df-b130-4ebd-977f-9394f270f0a4.png",
-  31668: "https://tongliebookpic.blob.core.windows.net/bookcover/7cda81eba4a946c1929508de79b04e3a.jpg",
-  31669: "https://tongliebookpic.blob.core.windows.net/bookcover/a4ec48ce8c9d4e522fb908dd343eb195.jpg",
-  31712: "https://tongliebookpic.blob.core.windows.net/bookcover/f6e122e332304e4558d308dc47234cb6.jpg",
   31734: "https://tongliebookpic.blob.core.windows.net/bookcover/9236c93d01a0421bee0408de57410d36.jpg",
   31740: "https://tongliebookpic.blob.core.windows.net/bookcover/7c1ca1d3e5864b0b92cf08db5106176c.jpg",
-  31746: "https://tongliebookpic.blob.core.windows.net/bookcover/cdf1e7a5d6884556d2cf08de7b1dc58f.jpg",
-  31836: "https://img.azusa.wiki/i/2026/03/711e58c9-a5c9-4381-b746-1bdeb167b9f1.jpg",
-  31855: "https://img.azusa.wiki/i/2026/03/7295621d-f327-4c43-96b6-c499aed7d056.jpg"
+  31836: "https://img.azusa.wiki/i/2026/03/711e58c9-a5c9-4381-b746-1bdeb167b9f1.jpg"
 };
