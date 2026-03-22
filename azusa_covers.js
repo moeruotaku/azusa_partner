@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.20.35
+// @version     2026.03.22.75
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -567,7 +567,6 @@ const azusa_covers = {
   10268: "https://pic.imgdb.cn/item/63a037aab1fccdcd3693f2a0.jpg",
   10276: "https://pic.imgdb.cn/item/63a129cfb1fccdcd36ffed14.jpg",
   10288: "https://www.tongli.com.tw/ComicImages/Images/JC600/JC60001/JC60001.jpg",
-  10290: "https://oeuizuhfgxxtxduoyweozujoibikvs.xyz/i/2022/12/20/w0qp83.jpg",
   10296: "https://pic.imgdb.cn/item/63a1a1dab1fccdcd36d6683f.jpg",
   10297: "https://pic.imgdb.cn/item/63a1a2e5b1fccdcd36d96248.jpg",
   10298: "https://pic.imgdb.cn/item/63a1a3a5b1fccdcd36da5caf.jpg",
@@ -592,7 +591,6 @@ const azusa_covers = {
   10404: "https://pic.imgdb.cn/item/63a40100b1fccdcd36ba55f7.png",
   10406: "https://pic.imgdb.cn/item/63a40353b1fccdcd36bdf3cb.png",
   10407: "https://pic.imgdb.cn/item/63a406c3b1fccdcd36c39f0b.jpg",
-  10437: "https://www.tongli.com.tw/ComicImages/Images/CY0002/CY0002001/CY0002001.jpg",
   10442: "https://m.media-amazon.com/images/I/41FLHRvMg5L._UX716_FMwebp_QL85_.jpg",
   10443: "https://m.media-amazon.com/images/I/41nrUCwxoHL._UX716_FMwebp_QL85_.jpg",
   10444: "https://m.media-amazon.com/images/I/41+zxy3yDhL._UX716_FMwebp_QL85_.jpg",
@@ -3470,5 +3468,10 @@ const azusa_covers = {
   31645: "https://img.azusa.wiki/i/2026/03/65eb80df-b130-4ebd-977f-9394f270f0a4.png",
   31734: "https://tongliebookpic.blob.core.windows.net/bookcover/9236c93d01a0421bee0408de57410d36.jpg",
   31740: "https://tongliebookpic.blob.core.windows.net/bookcover/7c1ca1d3e5864b0b92cf08db5106176c.jpg",
-  31836: "https://img.azusa.wiki/i/2026/03/711e58c9-a5c9-4381-b746-1bdeb167b9f1.jpg"
+  31836: "https://img.azusa.wiki/i/2026/03/711e58c9-a5c9-4381-b746-1bdeb167b9f1.jpg",
+  31942: "https://img.azusa.wiki/i/2026/03/d6dec42d-4f6b-4552-84b7-b7682a51580c.jpg",
+  31950: "https://img.azusa.wiki/i/2026/03/68454548-defb-46f7-b035-59d581324820.jpg",
+  31970: "https://img.azusa.wiki/i/2026/03/2a6d5bec-396f-479d-8406-d7df3942b5fe.jpg",
+  31976: "https://img.azusa.wiki/i/2026/03/df64f7d0-c6fb-4ac0-aba4-b73d372851f5.jpg",
+  31977: "https://img.azusa.wiki/i/2026/03/5a220bf3-5e3b-4630-b247-8a4723563756.jpg"
 };
