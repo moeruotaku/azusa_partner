@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.25.35
+// @version     2026.03.26.82
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -13465,6 +13465,7 @@ const bgm_tags = {
   471237: "Galgame|MELLOW|垂花|2024|夢乃ゆき|NTR|PC|R18|ADV|致郁|白毛",
   471368: "恋爱|漫画|成人|短篇",
   471501: "",
+  471502: "漫画|杉崎ゆきる",
   471660: "将棋|日本|恋爱|漫画|原创|系列|連載中|连载中|2023|2025-12|互动你来我往",
   471857: "漫画|港漫|拳皇",
   471859: "漫画",
