@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.03.26.82
+// @version     2026.03.28.43
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -417,6 +417,7 @@ const bgm_covers = {
   6384: "9a/13/6384_ft5P1.jpg",
   6397: "5e/62/6397_sLgUI.jpg",
   6412: "cd/f6/6412_E11A5.jpg",
+  6479: "0a/71/6479_2gk99.jpg",
   6495: "49/ef/6495_Vulwg.jpg",
   6496: "4d/7a/6496_5K7nx.jpg",
   6507: "f3/ad/6507_pQg55.jpg",
@@ -5253,6 +5254,7 @@ const bgm_covers = {
   141545: "24/40/141545_tp7ER.jpg",
   141549: "a8/f1/141549_79GHu.jpg",
   141572: "ba/39/141572_yxbW3.jpg",
+  141669: "72/49/141669_S1AcM.jpg",
   141689: "71/28/141689_jp.jpg",
   141753: "9b/41/141753_YpzzZ.jpg",
   141797: "b5/d9/141797_ak7f7.jpg",
@@ -12833,6 +12835,7 @@ const bgm_covers = {
   427432: "86/12/427432_ggG9i.jpg",
   427443: "6e/ff/427443_0QaGm.jpg",
   427458: "97/81/427458_h1t3Q.jpg",
+  427471: "bc/7a/427471_nW7rq.jpg",
   427473: "9f/c7/427473_v7HG3.jpg",
   427571: "ed/33/427571_D2HKX.jpg",
   427573: "3f/74/427573_rdeoD.jpg",
@@ -14124,6 +14127,7 @@ const bgm_covers = {
   537130: "94/96/537130_wNLm7.jpg",
   537676: "8a/c5/537676_k0Q3d.jpg",
   537756: "ee/85/537756_iBaMA.jpg",
+  537761: "e4/b8/537761_174Ii.jpg",
   537847: "e0/54/537847_DQJkK.jpg",
   538228: "ad/fe/538228_7E7x4.jpg",
   538438: "5f/86/538438_Li5gD.jpg",
@@ -14180,6 +14184,7 @@ const bgm_covers = {
   552740: "00/58/552740_J0AVq.jpg",
   553103: "64/b3/553103_0nYY1.jpg",
   553277: "7a/7a/553277_BXz2U.jpg",
+  553290: "d9/9b/553290_VmEY6.jpg",
   553641: "53/c6/553641_Z9d8c.jpg",
   553704: "9d/ab/553704_AZqAw.jpg",
   553869: "65/2c/553869_FS0g5.jpg",
@@ -14291,6 +14296,7 @@ const bgm_covers = {
   597970: "01/30/597970_7z9dp.jpg",
   598205: "0e/eb/598205_ENeJE.jpg",
   598961: "8e/85/598961_XO0na.jpg",
+  599535: "f5/6f/599535_opnhK.jpg",
   600821: "c8/45/600821_68WQQ.jpg",
   601035: "ac/c5/601035_6UPKQ.jpg",
   601745: "19/e8/601745_jwYjZ.jpg",
