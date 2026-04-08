@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.07.41
+// @version     2026.04.08.37
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -4816,6 +4816,7 @@ const bgm_covers = {
   124859: "77/7c/124859_JzN2m.jpg",
   124877: "7b/96/124877_YyEyr.jpg",
   124972: "37/26/129661_8ztd8.jpg",
+  125012: "98/e7/125012_ba40T.jpg",
   125020: "b4/c4/125020_64t6D.jpg",
   125026: "dd/c0/125026_6lh1b.jpg",
   125076: "34/fa/125076_YNd9y.jpg",
@@ -6965,6 +6966,7 @@ const bgm_covers = {
   198057: "b3/f1/198057_EeQzW.jpg",
   198187: "2c/98/198187_WOWxV.jpg",
   198200: "b0/27/198200_1Ufel.jpg",
+  198239: "9b/6f/198239_xFLc8.jpg",
   198242: "b4/fa/198242_jp.jpg",
   198243: "5c/37/198243_jp.jpg",
   198281: "c0/33/198281_jp.jpg",
@@ -9247,6 +9249,7 @@ const bgm_covers = {
   284313: "5f/65/284313_mkDN7.jpg",
   284316: "43/51/284316_3rTH4.jpg",
   284353: "a5/f4/284353_YLl76.jpg",
+  284407: "8a/e0/284407_6q22S.jpg",
   284410: "22/ee/284410_7Amf2.jpg",
   284430: "29/14/284430_83i2z.jpg",
   284469: "99/90/284469_kZQQG.jpg",
@@ -12731,6 +12734,7 @@ const bgm_covers = {
   419653: "5b/79/419653_cSFGN.jpg",
   419708: "79/76/419708_D0a62.jpg",
   419719: "9c/20/419719_8VXH5.jpg",
+  419801: "85/e6/419801_26bS2.jpg",
   419991: "72/7e/419991_t8Bl6.jpg",
   419995: "e8/b2/419995_4Z3UP.jpg",
   420109: "22/0b/420109_s5O3o.jpg",
@@ -13054,6 +13058,7 @@ const bgm_covers = {
   440060: "78/84/440060_4453a.jpg",
   440063: "d3/1f/440063_LE3jV.jpg",
   440077: "4e/e9/440077_19yTp.jpg",
+  440080: "c6/6f/440080_30zjl.jpg",
   440323: "5d/9b/440323_MrcdJ.jpg",
   440550: "69/7d/440550_lKxzZ.jpg",
   440646: "6b/f8/440646_23zI2.jpg",
@@ -14041,6 +14046,7 @@ const bgm_covers = {
   522390: "9e/f5/522390_m5555.jpg",
   522765: "62/9c/522765_tL7rt.jpg",
   522778: "af/ec/522778_5C5c2.jpg",
+  522887: "41/17/522887_K9taG.jpg",
   523164: "7c/1d/523164_Mh1od.jpg",
   523236: "f0/49/523236_W5OIQ.jpg",
   523497: "0e/49/523497_F4aG4.jpg",
