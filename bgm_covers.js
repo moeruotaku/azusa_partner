@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.09.70
+// @version     2026.04.10.38
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -7193,6 +7193,7 @@ const bgm_covers = {
   203188: "26/a9/203188_JyQbS.jpg",
   203196: "28/5b/203196_X8hiO.jpg",
   203202: "3a/fa/203202_F6qzI.jpg",
+  203423: "f4/fb/203423_nzH1T.jpg",
   203442: "02/c3/203442_jp.jpg",
   203443: "4e/fe/203443_jp.jpg",
   203454: "db/be/203454_jp.jpg",
@@ -8473,6 +8474,7 @@ const bgm_covers = {
   249476: "f7/03/249476_p8K65.jpg",
   249482: "01/7a/249482_4hLG2.jpg",
   249661: "51/ae/249661_M7p1k.jpg",
+  249689: "fd/a6/249689_tutAW.jpg",
   249705: "44/cd/249705_dIdQ3.jpg",
   249713: "7e/ca/249713_YOmzy.jpg",
   249726: "14/05/249726_FfOfs.jpg",
@@ -11005,6 +11007,7 @@ const bgm_covers = {
   338963: "da/3e/338963_be0pU.jpg",
   338969: "2a/9a/338969_ZVL8v.jpg",
   339001: "47/ec/339001_1bzQ9.jpg",
+  339037: "31/ce/339037_Du9Ud.jpg",
   339067: "46/11/339067_4wywI.jpg",
   339092: "96/b6/339092_zZK9L.jpg",
   339138: "90/dc/339138_pSSBd.jpg",
@@ -11494,6 +11497,7 @@ const bgm_covers = {
   365063: "e6/c8/365063_8Svyy.jpg",
   365067: "d4/f0/365067_2C279.jpg",
   365099: "b8/be/365099_P12Ms.jpg",
+  365159: "03/8e/365159_6wSLP.jpg",
   365172: "f1/69/365172_NfNGU.jpg",
   365249: "ce/1c/365249_1YG1N.jpg",
   365428: "fe/a8/365428_68lQl.jpg",
@@ -12849,6 +12853,7 @@ const bgm_covers = {
   426770: "6c/69/426770_LcEd8.jpg",
   426967: "ee/d3/426967_9T9A9.jpg",
   426994: "5f/ef/426994_ggolH.jpg",
+  427129: "da/0c/427129_Ct1A7.jpg",
   427133: "61/9a/427133_8G1F2.jpg",
   427143: "97/2e/427143_QzLOZ.jpg",
   427173: "8a/c9/427173_1571I.jpg",
@@ -12901,6 +12906,7 @@ const bgm_covers = {
   430310: "8d/58/430310_2ixu2.jpg",
   430330: "e3/e2/430330_ztG03.jpg",
   430409: "b8/48/430409_Ivv20.jpg",
+  430437: "08/78/430437_bZbZb.jpg",
   430536: "89/63/430536_yO3Mm.jpg",
   430570: "86/18/430570_79sse.jpg",
   430671: "87/ec/430671_nonFL.jpg",
