@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.11.08
+// @version     2026.04.11.58
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -11152,6 +11152,7 @@ const bgm_tags = {
   345970: "中国|漫画|腰斩",
   345971: "游戏|百合|PC|汉化|Galgame|Cloud|R18gal|Winged",
   345997: "画集・設定資料集|设定集",
+  346017: "百合|漫画|职场|saijiang|实体|已完结|漫画系列|日漫|2020|短篇|猿酱",
   346060: "漫画|奇幻|2021|江野スミ|江野朱美|神鬼|猎奇|战斗|怪异|漫画系列|连载中",
   346085: "漫画系列|短篇|系列|漫画|已完结|長田悠幸|全3卷",
   346368: "人外|少女|漫画系列",
@@ -14018,6 +14019,7 @@ const bgm_tags = {
   514900: "百合|漫画|国漫|哔哩哔哩",
   515211: "ARPG|PC|银河恶魔城|NS|PS5|游戏|单机游戏|ACT|XSX|PS4",
   515385: "轻小说|小说|小林湖底|系列|2024",
+  515485: "系列|小说改|连载中|2025-11|漫画|日本",
   515527: "JRPG|炼金工房|RPG|2025|Gust|PS5|PC|游戏|PS4|工作室|STEAM",
   515592: "全年龄|同人|短篇|恐怖|电波|Web|游戏|Galgame|ADV|视觉小说|冒险",
   515749: "轻小说|日本|ネコクロ|小说|系列|义妹|等完结",
