@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.13.36
+// @version     2026.04.13.91
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -38,6 +38,7 @@ const bgm_tags = {
   198239: "BL漫画|BL|漫画|R18|日本漫画|漫画系列|高崎ぼすこ|BLコミック",
   203423: "日本|漫画|奇幻|系列|已完结|マンガ",
   208695: "漫画|押见修造|猎奇|黑暗|押見修造|悬疑|2017|诡异|病娇|母控|子控",
+  209535: "漫画|异世界|性转|轻改|すえみつぢっか|小说改|漫画系列|穿越|搞笑|2016|性转换",
   211665: "漫画|异世界|穿越|轻改|骸骨骑士|奇幻|漫画系列|龙傲天|战斗|骨王小号|轻小说改",
   211782: "漫画|异世界|轻改|转生|2016|漫画系列|小说改|そと",
   212352: "",
