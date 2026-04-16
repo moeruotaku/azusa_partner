@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.15.39
+// @version     2026.04.16.34
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -923,7 +923,6 @@ const azusa_covers = {
   13745: "https://laji.o--o.xyz/i/2023/04/03/yu7962.jpg",
   13758: "https://s1.imagehub.cc/images/2023/04/04/2c182b83fed1be7dd1b48b6399d92dce.jpeg",
   13768: "https://tongliebookpic.blob.core.windows.net/bookcover/09733446787a43ce7d6908da26676f2b.jpg",
-  13770: "https://tongliebookpic.blob.core.windows.net/bookcover/ae63f3626adf4de2215f08da31847df5.jpg",
   13773: "https://tongliebookpic.blob.core.windows.net/bookcover/e04de35027e14531f4b508d9742248d2.jpg",
   13774: "https://tongliebookpic.blob.core.windows.net/bookcover/63f1a83f21f0483fbf8e08d9cf3a5303.jpg",
   13776: "https://tongliebookpic.blob.core.windows.net/bookcover/c4b70ca416114df7722f08d88219fe63.jpg",
@@ -3486,5 +3485,6 @@ const azusa_covers = {
   32145: "https://img.azusa.wiki/i/2026/04/9307fb26-79fa-453f-9dcd-64a47f0068db.jpg",
   32163: "https://img.azusa.wiki/i/2026/04/8079b95b-0aad-4919-8c0f-23f7315ee743.jpg",
   32198: "https://img.azusa.wiki/i/2026/04/0a248c34-87b8-493f-b651-d7c8dd17a3f6.png",
-  32223: "https://img.azusa.wiki/i/2026/04/a0de4549-4739-4174-a1b0-3487b7280b93.jpg"
+  32223: "https://img.azusa.wiki/i/2026/04/a0de4549-4739-4174-a1b0-3487b7280b93.jpg",
+  32240: "https://img.azusa.wiki/i/2026/04/b6b5608f-ba87-48ae-aa04-04d444e83ed2.jpg"
 };

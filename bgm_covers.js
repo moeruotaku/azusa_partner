@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.15.39
+// @version     2026.04.16.34
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -7866,6 +7866,7 @@ const bgm_covers = {
   226369: "6e/19/226369_jp.jpg",
   226370: "72/d1/226370_jp.jpg",
   226375: "ee/1e/226375_jp.jpg",
+  226404: "2e/c9/226404_jp.jpg",
   226425: "dc/c5/226425_2PzWy.jpg",
   226472: "41/cb/226472_0Tttb.jpg",
   226545: "10/72/226545_9R5xr.jpg",
@@ -9713,6 +9714,7 @@ const bgm_covers = {
   297896: "44/44/297896_5g6vb.jpg",
   297926: "6a/2a/297926_Bs5Xx.jpg",
   298000: "84/25/298000_5ZWZb.jpg",
+  298037: "39/2c/298037_8lmhQ.jpg",
   298081: "a1/5f/298081_OkF36.jpg",
   298102: "a9/4a/298102_WH9jV.jpg",
   298144: "be/9b/298144_kvT9z.jpg",
@@ -9744,6 +9746,7 @@ const bgm_covers = {
   298758: "3c/cb/298758_OOFzJ.jpg",
   298767: "3d/1a/298767_lyc5V.jpg",
   298839: "22/6b/298839_tG4eg.jpg",
+  298981: "22/93/298981_Bw1SF.jpg",
   298982: "1a/1c/298982_fPbW3.jpg",
   299096: "14/5f/299096_yz7si.jpg",
   299142: "8b/9b/299142_h0OO6.jpg",
@@ -10196,6 +10199,7 @@ const bgm_covers = {
   312453: "08/c5/312453_kW2Kq.jpg",
   312483: "4e/69/312483_X0HDm.jpg",
   312613: "df/82/312613_Bszcz.jpg",
+  312634: "1a/81/312634_h400t.jpg",
   312642: "f2/cf/312642_t7v7b.jpg",
   312734: "08/c6/312734_Pu22E.jpg",
   312744: "64/a5/312744_ZIHb6.jpg",
@@ -11926,6 +11930,8 @@ const bgm_covers = {
   388269: "79/bc/388269_9SyXz.jpg",
   388320: "42/12/388320_V38P3.jpg",
   388322: "be/a0/388322_p7N21.jpg",
+  388381: "16/f6/388381_9yEwU.jpg",
+  388385: "61/99/388385_dYaAp.jpg",
   388415: "cf/bf/388415_3opxJ.jpg",
   388473: "24/37/388473_0qB91.jpg",
   388479: "60/b5/388479_jagls.jpg",
@@ -13051,7 +13057,9 @@ const bgm_covers = {
   438706: "01/e7/438706_XW7CZ.jpg",
   438771: "93/3d/438771_b7185.jpg",
   438782: "44/e2/438782_i3ZP1.jpg",
+  438856: "46/de/438856_zZWMb.jpg",
   438880: "e8/9d/438880_DGdc7.jpg",
+  438982: "b0/10/438982_1Tmf8.jpg",
   439085: "89/02/439085_CJq97.jpg",
   439184: "fe/97/439184_GqOX0.jpg",
   439199: "ba/68/439199_Y3k36.jpg",
@@ -14095,6 +14103,7 @@ const bgm_covers = {
   526438: "94/c3/526438_0twRv.jpg",
   526509: "7e/78/526509_M3593.jpg",
   526647: "5a/82/526647_AO5Eo.jpg",
+  526866: "f9/fb/526866_IOOIE.jpg",
   527068: "d4/c9/527068_nz4u5.jpg",
   527107: "e5/5f/527107_8ozF2.jpg",
   527267: "1b/d8/527267_lHgsq.jpg",
