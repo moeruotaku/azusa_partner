@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.16.34
+// @version     2026.04.17.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -8663,7 +8663,6 @@ const bgm_tags = {
   259659: "国产|橘子班|Galgame|短篇|STEAM|纯爱|GAL|PC|炒饭|2018|ADV",
   259667: "漫画|悬疑|萝莉|ソウマトウ|剧情|集英社|治愈|黑暗|百合|2018|少女",
   259710: "BLコミック|BL漫画|コウキ。|2017",
-  259816: "漫画|棒球|少年JUMP+|みかわ絵子|运动|竞技|2018|集英社|热血|搞笑|体育漫画",
   259872: "漫画|外传|日漫|全4卷|日本|漫画系列|通灵王|已完结",
   259924: "樹なつみ|漫画系列|少女マンガ",
   260111: "漫画|异世界|转生|史莱姆|轻改|开挂无敌|彭傑|小说改|轻小说改|搞笑|マンガ",
