@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.17.35
+// @version     2026.04.17.71
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -929,7 +929,6 @@ const azusa_covers = {
   13777: "https://s1.imagehub.cc/images/2023/04/04/3075b869fb45f57b24ddf98ace76d099.jpeg",
   13779: "https://s1.imagehub.cc/images/2023/04/04/bf5e062054768236afa04c0d0fcac7ff.jpeg",
   13782: "https://tongliebookpic.blob.core.windows.net/bookcover/5ab807c22737481aab6f08d9bdfb2778.jpg",
-  13794: "https://tongliebookpic.blob.core.windows.net/bookcover/425f2b51913e477c1c1608da76c82a6e.jpg",
   13798: "https://tongliebookpic.blob.core.windows.net/bookcover/5325b34ef0234adb319b08da05813e68.jpg",
   13799: "https://tongliebookpic.blob.core.windows.net/bookcover/256e12bbd1fb4069ab4f08d9bdfb2778.jpg",
   13812: "https://s1.imagehub.cc/images/2023/04/04/d55bbe5bb1ac4e2ad5a97ec7017b9a1f.jpeg",
@@ -1036,7 +1035,6 @@ const azusa_covers = {
   15176: "https://s1.ax1x.com/2023/04/27/p9MDADU.jpg",
   15177: "https://p.sda1.dev/11/5a254e0c1348f3a9c3c1c2be46697956/000_a1_cover.jpg",
   15199: "https://tongliebookpic.blob.core.windows.net/bookcover/9da1406e27664b0b5f6508da1772fbcc.jpg",
-  15204: "https://tongliebookpic.blob.core.windows.net/bookcover/b11578efb4da4e668ccf08da9f5e586d.jpg",
   15205: "https://tongliebookpic.blob.core.windows.net/bookcover/4372410d73a54a95c11808d93f60a694.jpg",
   15206: "https://tongliebookpic.blob.core.windows.net/bookcover/8c4e1f9fc03049197d6f08da26676f2b.jpg",
   15217: "https://tongliebookpic.blob.core.windows.net/bookcover/162ecf2a01944a1b685208d9d4e1c915.jpg",
@@ -3486,5 +3484,6 @@ const azusa_covers = {
   32198: "https://img.azusa.wiki/i/2026/04/0a248c34-87b8-493f-b651-d7c8dd17a3f6.png",
   32223: "https://img.azusa.wiki/i/2026/04/a0de4549-4739-4174-a1b0-3487b7280b93.jpg",
   32240: "https://img.azusa.wiki/i/2026/04/b6b5608f-ba87-48ae-aa04-04d444e83ed2.jpg",
-  32250: "https://img.azusa.wiki/i/2026/04/1f8d97c7-14fb-4703-900e-b31e8cd48236.jpg"
+  32250: "https://img.azusa.wiki/i/2026/04/1f8d97c7-14fb-4703-900e-b31e8cd48236.jpg",
+  32253: "https://img.azusa.wiki/i/2026/04/9aaa9f3c-18c4-401a-9431-0a2d3bb47db5.jpg"
 };
