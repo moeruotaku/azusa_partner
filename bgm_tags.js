@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.24.36
+// @version     2026.04.24.72
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12345,6 +12345,7 @@ const bgm_tags = {
   407623: "漫画|恋爱|校园|葵せきな|三角恋|日本|つづら涼|搞笑|原创|连载中|日常",
   407624: "漫画|恋爱|末世|倒贴|2022|御姐|馬かのこ|月刊ドラゴンエイジ|KADOKAWA|一般向|漫画系列",
   407647: "乙女向|山野詠子|同人|Galgame|PC|狂气|R18|乙女|乙女ゲーム|致郁|ADV",
+  407669: "Galgame|campus|PC|后宫|游戏|拔作|生肉|2018",
   407711: "HOOKSOFT|Galgame|长谷川育美|桜城なお|2023|月野きいろ|妹|纯爱|小波すず|明羽杏子|GAL",
   407751: "中国|漫画|国产|国漫",
   407767: "画集|已购|上倉エク",
@@ -14400,6 +14401,7 @@ const bgm_tags = {
   608580: "画集",
   608727: "Galgame|全年龄",
   608920: "日本|漫画|原创|已完结",
+  609192: "RPG|PS5|PC|NS|XSX|传说|to|游戏",
   609804: "",
   611212: "全年龄|Galgame|PC|游戏|ADV",
   611322: "",
