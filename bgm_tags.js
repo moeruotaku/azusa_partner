@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.04.27.70
+// @version     2026.04.28.73
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -2439,6 +2439,7 @@ const bgm_tags = {
   52518: "伊藤润二|伊藤潤二|全一卷|恐怖漫画|恐怖|小说|漫画|日漫|猎奇|单行本|小学館",
   52550: "画集|Type-Moon|武内崇|Fate|奈須きのこ|空之境界|資料集|魔法使之夜|角川书店|月姬|画集公式书",
   52552: "漫画系列|漫画|井上淳哉|CC|已完结|ワニブックス|尖端|中篇|系列",
+  52590: "机器人笔记|¬",
   52758: "画集|藤真拓哉|DOGDAYS|魔法少女奈叶|その他|存盘",
   52759: "画集|萝莉|藤真拓哉|ngm|存盘|その他",
   52775: "PSV|PC|绅士游戏|白金神作|DRPG|地雷社|2013|2013年1月|百合|种族",
