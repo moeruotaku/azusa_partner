@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.05.06.36
+// @version     2026.05.07.35
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -6023,6 +6023,7 @@ const bgm_covers = {
   171112: "af/87/171112_KuR9j.jpg",
   171116: "a7/ee/171116_yZGWk.jpg",
   171123: "d9/d9/171123_E7bEv.jpg",
+  171141: "7d/21/171141_FP9GX.jpg",
   171142: "4d/0d/171142_qzXeo.jpg",
   171146: "62/62/171146_44AAf.jpg",
   171161: "e4/1b/171161_Zf87v.jpg",
@@ -9588,6 +9589,7 @@ const bgm_covers = {
   293806: "33/4e/293806_j7jjK.jpg",
   293809: "0e/58/293809_0r288.jpg",
   293867: "77/dd/293867_7ZVgz.jpg",
+  293914: "43/3f/293914_550J4.jpg",
   293930: "ab/d3/293930_889a8.jpg",
   293937: "a3/c8/293937_2vuls.jpg",
   294030: "dc/02/294030_C6H20.jpg",
@@ -11942,6 +11944,7 @@ const bgm_covers = {
   385490: "92/8f/385490_41OV5.jpg",
   385614: "3e/25/385614_0Ggro.jpg",
   385707: "d7/7c/385707_OHvI0.jpg",
+  385710: "6c/c5/385710_Kkr4e.jpg",
   385722: "af/48/385722_ff24N.jpg",
   385729: "5b/7f/385729_hs4Pn.jpg",
   385739: "24/50/385739_CPqIU.jpg",
@@ -12485,6 +12488,7 @@ const bgm_covers = {
   410916: "0b/a5/410916_fBgi5.jpg",
   410937: "25/87/410937_Z9F0j.jpg",
   410945: "63/41/410945_MzFTH.jpg",
+  410984: "e0/67/410984_ReXpg.jpg",
   411083: "ed/02/411083_00g58.jpg",
   411095: "54/98/411095_cbgpn.jpg",
   411115: "35/2f/411115_iK4Iv.jpg",
@@ -12872,6 +12876,7 @@ const bgm_covers = {
   423275: "44/a0/423275_KdElZ.jpg",
   423280: "c2/ba/423280_4bOSU.jpg",
   423295: "e8/bc/423295_cU84S.jpg",
+  423465: "97/b2/423465_8m85m.jpg",
   423468: "9d/0b/423468_MalGa.jpg",
   423629: "94/54/423629_78rRO.jpg",
   423630: "19/8c/423630_0W56Q.jpg",
@@ -14161,6 +14166,7 @@ const bgm_covers = {
   520262: "df/cc/520262_Qqrb7.jpg",
   520341: "49/17/520341_S3u8s.jpg",
   520346: "5b/12/520346_3uhhx.jpg",
+  520498: "d8/f6/520498_Um034.jpg",
   520583: "4b/a0/520583_4r421.jpg",
   520595: "b2/9c/520595_hzT4L.jpg",
   520917: "27/8c/520917_3D05F.jpg",
