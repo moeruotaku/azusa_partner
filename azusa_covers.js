@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.05.08.36
+// @version     2026.05.09.48
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
