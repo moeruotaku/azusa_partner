@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.05.09.48
+// @version     2026.05.11.35
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14169,6 +14169,7 @@ const bgm_tags = {
   520595: "Galgame|FD|姐|PC|R18|ADV|2008|CIRCUS|短篇|幼驯染|废萌",
   520917: "BL|彩漫",
   521320: "OST|日本|游戏|GAL|Digital|专辑",
+  521514: "百合|漫画|小说改|连载中|Yuri|轻小说改|日本|校园|2024|轻改|はちこ",
   521626: "漫画|恋爱|小说改|日本|系列|少女漫|奇幻|少女漫画|BL|日漫|白毛",
   521669: "CD|中国|2022|pop",
   522187: "Galgame|SLG|后宫|拔作|妹|PC|R18|动态CG|同人|游戏|纯爱",
