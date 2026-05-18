@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.05.11.35
+// @version     2026.05.18.72
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -2437,7 +2437,6 @@ const azusa_covers = {
   23021: "https://img95.pixhost.to/images/685/467725888_cover.jpg",
   23069: "https://img.azusa.wiki/images/2024/05/13/b7958d75ddc5302a568c7bb3548a4d2a.png",
   23071: "https://img.azusa.wiki/images/2024/05/13/5f0f048c251d7512f5b5c5af2f834d46.png",
-  23074: "https://img.azusa.wiki/images/2024/05/13/cover.jpg",
   23096: "https://img.azusa.wiki/images/2024/05/14/cover.jpg",
   23102: "https://img95.pixhost.to/images/760/468569792_folder.jpg",
   23106: "https://img95.pixhost.to/images/761/468579392_cover.jpg",
@@ -2490,7 +2489,6 @@ const azusa_covers = {
   23700: "https://taiwan-image.bookwalker.com.tw/product/79164/79164_1.jpg",
   23701: "https://www.z4a.net/images/2024/06/11/2_385_cf903aa97239549.jpg",
   23722: "https://taiwan-image.bookwalker.com.tw/product/90011/90011_1.jpg",
-  23731: "https://taiwan-image.bookwalker.com.tw/product/82043/82043_1.jpg",
   23746: "https://taiwan-image.bookwalker.com.tw/product/102039/102039_1.jpg",
   23767: "https://img96.pixhost.to/images/373/478076065_cover.jpg",
   23776: "https://taiwan-image.bookwalker.com.tw/product/94750/94750_1.jpg",
@@ -3492,5 +3490,10 @@ const azusa_covers = {
   32512: "https://img.azusa.wiki/i/2026/05/3a2b3566-9d88-45bb-8c63-a244773de3ee.jpg",
   32513: "https://img.azusa.wiki/i/2026/05/89ce0947-812a-4a1b-abd8-4e6cecba6d7d.jpg",
   32514: "https://img.azusa.wiki/i/2026/05/62574b28-aba5-41fc-949f-4f8ffc908308.jpg",
-  32551: "https://img.nnko.me/873e8f1639bee9e93411d7dc9b83653f.jpg"
+  32551: "https://img.nnko.me/873e8f1639bee9e93411d7dc9b83653f.jpg",
+  32605: "https://img.azusa.wiki/i/2026/05/40de746a-7c93-48a3-aa61-6da9809da634.jpg",
+  32631: "https://img.azusa.wiki/i/2026/05/6b055634-41cf-4b70-a138-3536f7089db5.jpg",
+  32679: "https://img.azusa.wiki/i/2026/05/e8eb6360-f2f0-4937-978b-9448c0ecda80.jpg",
+  32681: "https://img.azusa.wiki/i/2026/05/3ed512a4-f758-4a8d-8fa3-7ff657927a18.jpg",
+  32685: "https://m.media-amazon.com/images/I/71OwWC-VJFL._SL1000_.jpg"
 };
