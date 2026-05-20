@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.05.19.41
+// @version     2026.05.20.71
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -1513,6 +1513,7 @@ const bgm_covers = {
   29442: "91/a8/29442_5eW9M.jpg",
   29472: "dd/d2/29472_7akta.jpg",
   29484: "c6/c0/29484_HZy39.jpg",
+  29532: "13/bf/29532_K9kfO.jpg",
   29540: "b8/51/29540_jp.jpg",
   29559: "ca/4b/29559_36863.jpg",
   29561: "9f/d4/29561_0sV00.jpg",
@@ -7744,6 +7745,7 @@ const bgm_covers = {
   221296: "15/f5/221296_XzKzQ.jpg",
   221297: "d0/29/221297_w1OMj.jpg",
   221329: "d5/c1/221329_jp.jpg",
+  221357: "09/e5/221357_qIPiY.jpg",
   221367: "9e/71/221367_Kua1A.jpg",
   221460: "a3/08/221460_vpVA7.jpg",
   221523: "ce/17/221523_W9eyB.jpg",
@@ -7770,6 +7772,7 @@ const bgm_covers = {
   222146: "0a/1d/222146_v65fv.jpg",
   222180: "3f/dc/222180_v3ve2.jpg",
   222184: "99/49/222184_QtqZ6.jpg",
+  222187: "51/f6/222187_aN3fU.jpg",
   222243: "cf/27/222243_ebHzq.jpg",
   222289: "45/bd/222289_4Z7oA.jpg",
   222323: "ea/ff/222323_SZ3ES.jpg",
@@ -7817,6 +7820,7 @@ const bgm_covers = {
   223499: "a8/c4/223499_a5f00.jpg",
   223503: "f6/38/223503_iQ6Eq.jpg",
   223520: "6e/93/223520_848q8.jpg",
+  223564: "24/a0/223564_ZFbze.jpg",
   223606: "cb/b5/223606_g3kq6.jpg",
   223649: "9b/98/223649_pkWmK.jpg",
   223841: "3b/27/223841_zqfYo.jpg",
@@ -12164,7 +12168,6 @@ const bgm_covers = {
   395943: "fb/29/395943_iy8iZ.jpg",
   395952: "38/a7/395952_U0Nfu.jpg",
   395984: "70/8c/395984_2eSoP.jpg",
-  396080: "45/0d/396080_B8jSS.jpg",
   396084: "24/f3/396084_6PI4b.jpg",
   396123: "b5/d5/396123_WIt43.jpg",
   396128: "d9/b8/396128_fgTj4.jpg",
@@ -14384,6 +14387,7 @@ const bgm_covers = {
   550010: "1b/0d/550010_3AbNc.jpg",
   550254: "99/82/550254_6bSGU.jpg",
   550317: "21/b2/550317_22jIx.jpg",
+  551223: "84/05/551223_I88e8.jpg",
   551639: "26/fc/551639_9OR93.jpg",
   551978: "87/65/551978_qsVic.jpg",
   552524: "d5/5c/552524_55ruQ.jpg",
