@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.02.39
+// @version     2026.06.03.38
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -12057,6 +12057,7 @@ const bgm_tags = {
   386718: "R18|限制|青年漫画|漫画|工口|成年コミック|日本|出轨|青年|完结|已完结",
   386862: "轻小说|乙野四方字|科幻|NTR|小说|早川書房|SF|恋爱|早川书房",
   386882: "Galgame|vtuber|hololive|全年龄|PC|2022|GAL|NS|夸|Switch|游戏",
+  386929: "漫画|小说改|推理|悬疑|大沢形画|已完结|漫画系列|浅倉秋成|中篇|黑暗|现实",
   387056: "类宝可梦|RPG|PC|2023|STEAM|独立游戏|像素|开放世界|NS|EPIC",
   387177: "漫画|恋爱|校园|はぐはぐ|上岸|倒贴|漫画系列|杀必死|JK|NTR|JC",
   387450: "完全书",
@@ -13624,6 +13625,7 @@ const bgm_tags = {
   465369: "奇幻|漫画|战斗|神鬼|致郁|历史|女性主人公|2023|别致",
   465468: "",
   465508: "漫画|战斗|奇幻",
+  465625: "PC|黄油|拔作|动态CG|SLG|游戏|Galgame|Live2D|R18|D|GAL",
   465673: "",
   465685: "画集・設定資料集",
   465813: "",
