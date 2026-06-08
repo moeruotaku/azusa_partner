@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_scores
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.08.38
+// @version     2026.06.08.72
 // @description bgm_scores
 // @author      moeruotaku
 // @license     MIT
@@ -14445,6 +14445,7 @@ const bgm_scores = {
   535564: 5,
   535662: 8.2,
   536088: 8.4,
+  536292: 4.7,
   536308: 7.3,
   536579: 6,
   536639: 5.3,

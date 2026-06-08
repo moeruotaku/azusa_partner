@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.08.38
+// @version     2026.06.08.72
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14445,6 +14445,7 @@ const bgm_tags = {
   535564: "漫画系列",
   535662: "公式书|游戏改|画集・設定資料集|画集",
   536088: "galgame|OST|2025|游戏原声集|AVG|游戏|GAL|OP|神曲之壁|ED",
+  536292: "漫画|连载中|日本|原创|卖肉|系列|2026-01",
   536308: "漫画|石黒正数|2025|石黑正数|Manga|全1巻|短篇|新装版|单卷|日本|百合",
   536579: "已完结|日本|漫画|甲斐谷忍|原创|历史",
   536639: "轻小说|恋爱|駱駝|校园|2025|智斗",
