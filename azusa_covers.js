@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.15.71
+// @version     2026.06.17.36
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3528,5 +3528,6 @@ const azusa_covers = {
   32989: "https://www.heroineanthem.com/vocal_version/zh-CN/images/banner5.jpg",
   32990: "https://www.heroineanthem.com/vocal_version/zh-CN/images/banner2.jpg",
   32993: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1373320/header.jpg?t=1657204091",
-  33041: "https://lain.bgm.tv/r/400/pic/cover/l/01/6d/656320_992gK.jpg"
+  33041: "https://lain.bgm.tv/r/400/pic/cover/l/01/6d/656320_992gK.jpg",
+  33064: "https://img.azusa.wiki/i/2026/06/7e5b714f-9f91-4c9d-b590-67611bbe428e.jpg"
 };
