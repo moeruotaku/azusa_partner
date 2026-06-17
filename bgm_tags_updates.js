@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.17.36
+// @version     2026.06.17.81
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,6 +12,8 @@
 // ==/UserScript==
 
 const bgm_tags = {
+  31731: "漫画|启蒙|教育|夫妻成长日记|克・亜樹|爱情|白泉社|1997|工口|漫画系列|成年コミック",
+  40643: "漫画|許斐剛|运动|集英社|ジャンプSQ.|2009|少年|体育漫画|2009-04|系列|长篇漫画",
   44591: "漫画|Fate|百合|魔法少女|Type-Moon|广山弘|魔法少女☆伊莉雅|伊莉雅|2012|小学生|魔法少女伊莉雅",
   48090: "吉田秋生|漫画|1985|少女漫画|小学館|BL|80年代|系列|耽美|耽美BL|别册少女Comic",
   65458: "少女漫画|漫画|あきづき空太|白泉社|恋爱|少女漫|2006|LaLa|少女|秋月空太|奇幻",
