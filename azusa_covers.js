@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.23.73
+// @version     2026.06.26.96
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -2414,7 +2414,6 @@ const azusa_covers = {
   22891: "https://img.azusa.wiki/images/2024/05/06/6dd1bb079ef287667413adf5cea8448d.jpg",
   22895: "https://img95.pixhost.to/images/568/466361288_cover.jpg",
   22896: "https://img.azusa.wiki/images/2024/05/06/8ea8b1412d37db4a0365884b43053577.png",
-  22916: "https://img.azusa.wiki/images/2024/05/07/cover9f2711d03c3177ab.jpg",
   22920: "https://img.azusa.wiki/images/2024/05/07/666.png",
   22931: "https://img.azusa.wiki/images/2024/01/17/01.png",
   22933: "https://img.azusa.wiki/images/2024/05/08/EXTRA_STAGE_01-1-1-1-1-1-1.png",
@@ -2889,15 +2888,12 @@ const azusa_covers = {
   25625: "https://img.azusa.wiki/images/2024/08/13/cover03dcf681dbc4dfa8.jpg",
   25626: "https://img.azusa.wiki/images/2024/08/13/coverbacfcabaab98aa80.jpg",
   25647: "https://img.azusa.wiki/images/2024/08/14/00001.jpg",
-  25651: "https://img.azusa.wiki/images/2024/08/14/SCR-20240813-tyht-2.png",
   25659: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-3.png",
   25660: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-4.png",
   25661: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-6.png",
   25664: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-7.png",
   25669: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-8.png",
-  25670: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht.jpg",
   25671: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-2.jpg",
-  25672: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-9.png",
   25673: "https://img.azusa.wiki/images/2024/08/15/SCR-20240813-tyht-11.png",
   25742: "https://img.azusa.wiki/images/2024/08/19/--.jpg",
   25743: "https://img.azusa.wiki/images/2024/08/19/-.jpg",
@@ -3542,5 +3538,10 @@ const azusa_covers = {
   33147: "https://lain.bgm.tv/r/400/pic/cover/l/2d/6d/441757_K99Ha.jpg",
   33149: "https://img.azusa.wiki/i/2026/06/0de6016e-1285-49a1-8aae-91f184805ab7.jpg",
   33150: "https://img.azusa.wiki/i/2026/06/09b954d4-3d76-4800-8741-c19c8a87d72b.jpg",
-  33175: "https://lain.bgm.tv/r/400/pic/cover/l/c3/4d/631540_3M838.jpg"
+  33175: "https://lain.bgm.tv/r/400/pic/cover/l/c3/4d/631540_3M838.jpg",
+  33202: "https://lain.bgm.tv/r/400/pic/cover/l/8a/28/466927_81efq.jpg",
+  33203: "https://img.azusa.wiki/i/2026/06/37a8ec21-8062-4112-aa22-48926325bef0.jpg",
+  33212: "https://img.azusa.wiki/i/2026/06/27a6f018-a9be-44a9-b4ae-c89e2b95605a.jpg",
+  33213: "https://img.azusa.wiki/i/2026/06/840692f7-0720-48fa-ab8d-f9db0358580c.jpg",
+  33217: "https://img.azusa.wiki/i/2026/06/d2d72c71-34fa-40ca-971d-31200186da97.jpg"
 };
