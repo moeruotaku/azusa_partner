@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.27.46
+// @version     2026.06.28.45
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -57,7 +57,6 @@ const bgm_tags = {
   401119: "漫画|搞笑|后宫|2022|校园|奇幻|恋爱|赤城あさひと|日常|講談社|漫画系列",
   406440: "漫画|2022|艺术|漫画系列|类型:漫画|标签:待改|日本漫画|BL漫画|ぱらり",
   408796: "漫画|魔法|血腥|猎奇|七沢またり|2022|堤りん|黑暗|战斗|历史相关|漫画系列",
-  429774: "漫画|7|恶女流|异世界|小说改",
   431105: "漫画|BLコミック",
   434176: "",
   446434: "奇幻|漫画|异世界|RPG|冒险|2023|日常|アッチあい|搞笑|游戏|KADOKAWA",
