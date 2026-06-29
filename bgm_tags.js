@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.29.36
+// @version     2026.06.29.71
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14611,6 +14611,7 @@ const bgm_tags = {
   553704: "",
   553869: "恋爱|职场|百合|中国|漫画|GL|网文改|小说改",
   553891: "小说|轻小说|三輪.キャナウェイ",
+  554149: "漫画|系列|原创|日本漫画|连载中|2025-12|講談社|一般向|日本",
   554946: "Galgame|妹|短篇|萝莉|インテグラル|R18|同人|PC|ADV|cittan|拔作",
   555423: "已购|画集",
   555742: "小说|百合|GL|台湾",
