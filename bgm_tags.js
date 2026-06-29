@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.06.28.45
+// @version     2026.06.29.36
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9079,6 +9079,7 @@ const bgm_tags = {
   273930: "伊藤润二|漫画|短篇集|恐怖|猎奇|2019|短篇|灵异|小学馆|小学館|原创",
   274021: "运动|漫画|百合|竞技|漫画系列|柔道|已完结|日本|系列|原创|2019",
   274033: "战斗|科幻|漫画|漫画系列|桜谷シュウ",
+  274148: "漫画|手冢治虫|手塚治虫|科幻|青年漫画|漫画系列|讽刺|SF|神作|1971|1980",
   274169: "漫画|百合|异世界|険持ちよ|芳文社|四格|Kirara|勇者与魔王|房地产|2018",
   274221: "RPG|游戏|PC|STEAM|ADV|2018|RPGMaker|全年龄|RM",
   274280: "漫画",
