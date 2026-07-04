@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.03.65
+// @version     2026.07.04.48
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -2021,7 +2021,6 @@ const azusa_covers = {
   20704: "https://ptpimg.me/ei1co3.jpg",
   20717: "https://img.azusa.wiki/images/2023/12/19/001.jpg",
   20728: "https://laji.o--o.xyz/i/2022/08/26/111duz5.jpg",
-  20729: "https://p.sda1.dev/14/086b033e48955c041ee8e42f390b9b02/ba.jpg",
   20777: "https://img.azusa.wiki/images/2023/12/23/6586dd6029ac803e1febf5ed.jpg",
   20780: "https://cdn.akamai.steamstatic.com/steam/apps/1876730/header.jpg?t=1685523405",
   20793: "https://cdn.akamai.steamstatic.com/steam/apps/2646830/header_schinese.jpg?t=1702623697",
@@ -3547,5 +3546,9 @@ const azusa_covers = {
   33230: "https://lain.bgm.tv/r/400/pic/cover/l/41/c5/604985_N9rv3.jpg",
   33235: "https://img.azusa.wiki/i/2026/06/ba27e637-22d6-4c87-831f-f872aef13dde.jpg",
   33237: "https://img.azusa.wiki/i/2026/06/e7b5aee0-213f-4886-8c69-230208766d82.jpg",
-  33309: "https://lain.bgm.tv/r/400/pic/cover/l/3b/6d/366721_hBBkK.jpg"
+  33309: "https://lain.bgm.tv/r/400/pic/cover/l/3b/6d/366721_hBBkK.jpg",
+  33324: "https://lain.bgm.tv/r/400/pic/cover/l/b2/a3/531861_lCnen.jpg",
+  33337: "https://lain.bgm.tv/pic/cover/l/e3/91/130998_1pguy.jpg",
+  33338: "https://lain.bgm.tv/pic/cover/l/f3/ac/538439_AhDU1.jpg",
+  33339: "https://lain.bgm.tv/r/400/pic/cover/l/93/ad/143035_NtCz7.jpg"
 };

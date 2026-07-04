@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.03.65
+// @version     2026.07.04.48
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -2005,6 +2005,7 @@ const bgm_covers = {
   40176: "94/42/40176_jp.jpg",
   40208: "03/26/40208_U4L3l.jpg",
   40297: "4e/73/40297_GIQ86.jpg",
+  40328: "ae/7c/40328_l14Gd.jpg",
   40428: "69/da/40428_7PECp.jpg",
   40444: "9e/d8/40444_i5BfH.jpg",
   40501: "da/2c/40501_jp.jpg",
@@ -7294,6 +7295,7 @@ const bgm_covers = {
   204488: "56/13/204488_jp.jpg",
   204556: "8c/a2/204556_81SpP.jpg",
   204640: "89/82/204640_7fO26.jpg",
+  204721: "f8/13/204721_0VlgF.jpg",
   204748: "79/fc/204748_T8xGw.jpg",
   204871: "62/ed/204871_xOoo2.jpg",
   204891: "2e/f7/204891_jp.jpg",
@@ -7852,6 +7854,7 @@ const bgm_covers = {
   222952: "a7/d7/222952_jp.jpg",
   222959: "ed/03/222959_jp.jpg",
   222965: "00/7a/222965_jp.jpg",
+  222973: "c9/85/222973_jp.jpg",
   222979: "a7/52/222979_jp.jpg",
   223001: "5a/95/223001_p3pQV.jpg",
   223063: "6e/08/223063_aR31Z.jpg",
@@ -8171,7 +8174,6 @@ const bgm_covers = {
   235100: "6c/f3/235100_k4XXA.jpg",
   235125: "d7/04/235125_14v3L.jpg",
   235201: "29/24/235201_0F2Z8.jpg",
-  235231: "57/bc/235231_8GUV7.jpg",
   235268: "ae/75/235268_IdRdG.jpg",
   235397: "ce/1c/235397_X9ajA.jpg",
   235408: "90/62/235408_oxyhE.jpg",
@@ -11567,6 +11569,7 @@ const bgm_covers = {
   357099: "62/c5/357099_Y66WY.jpg",
   357100: "45/fb/357100_T5sut.jpg",
   357102: "61/f1/357102_2AtxA.jpg",
+  357105: "9a/1c/357105_YDDIN.jpg",
   357172: "e7/aa/357172_5DK9c.jpg",
   357239: "a4/d3/357239_o277b.jpg",
   357414: "68/55/357414_7m6h2.jpg",
@@ -14707,6 +14710,7 @@ const bgm_covers = {
   571411: "98/74/571411_7zK0v.jpg",
   571638: "48/5b/571638_mc14f.jpg",
   571932: "f6/72/571932_4qPYp.jpg",
+  572996: "16/cf/572996_553vb.jpg",
   573315: "c7/e7/573315_rrrgg.jpg",
   573423: "d5/c4/573423_N7K8N.jpg",
   573899: "5a/52/573899_kXoV1.jpg",
