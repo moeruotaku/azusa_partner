@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.04.64
+// @version     2026.07.06.39
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -1583,6 +1583,7 @@ const bgm_covers = {
   30730: "e9/03/30730_PIhi6.jpg",
   30751: "f6/b3/30751_0ik4Y.jpg",
   30765: "d0/a4/30765_kQiYE.jpg",
+  30768: "cc/15/30768_jp.jpg",
   30772: "14/7b/30772_jp.jpg",
   30804: "ed/0e/30804_0oOE0.jpg",
   30826: "79/90/466652_Omubh.jpg",
@@ -1891,6 +1892,7 @@ const bgm_covers = {
   38064: "e3/79/38064_gtt7T.jpg",
   38079: "13/72/38079_76WRA.jpg",
   38080: "eb/78/38080_AFtTX.jpg",
+  38090: "9c/39/38090_h2G50.jpg",
   38144: "b7/97/38144_chVQ3.jpg",
   38156: "88/6d/38156_RmzJT.jpg",
   38160: "21/08/38160_9Pkv0.jpg",
@@ -1962,6 +1964,8 @@ const bgm_covers = {
   39199: "c5/78/39199_oJe71.jpg",
   39202: "28/36/39202_umms6.jpg",
   39203: "15/01/39203_ot2GL.jpg",
+  39210: "d5/bc/39210_jp.jpg",
+  39211: "74/b4/39211_jp.jpg",
   39250: "6e/5d/39250_0vXh6.jpg",
   39277: "8d/e9/39277_jp.jpg",
   39298: "ac/46/39298_hJ6Bi.jpg",
@@ -7306,6 +7310,7 @@ const bgm_covers = {
   205051: "4e/d6/205051_zAqCl.jpg",
   205086: "db/35/205086_jWeYt.jpg",
   205132: "77/e5/205132_jp.jpg",
+  205147: "09/e7/205147_jp.jpg",
   205164: "13/db/205164_xH6x0.jpg",
   205165: "77/70/205165_yQQzm.jpg",
   205167: "d7/20/205167_8zJaJ.jpg",
@@ -10345,6 +10350,7 @@ const bgm_covers = {
   313020: "f3/56/313020_31dQw.jpg",
   313038: "f6/bd/313038_EZwM4.jpg",
   313048: "b9/99/313048_RqYY7.jpg",
+  313078: "69/48/313078_wavr6.jpg",
   313079: "51/f1/313079_WhghL.jpg",
   313114: "6b/f5/313114_ER95Y.jpg",
   313133: "be/dc/313133_36nc4.jpg",
@@ -12755,6 +12761,7 @@ const bgm_covers = {
   412837: "12/5a/412837_X5YNB.jpg",
   412839: "61/e6/412839_iXoXV.jpg",
   412884: "91/09/412884_v2Xlc.jpg",
+  412889: "e5/0a/412889_9EIvs.jpg",
   412900: "fa/22/412900_QqPIb.jpg",
   413252: "7f/0d/413252_aZJj1.jpg",
   413262: "7d/fd/413262_Gvwk7.jpg",
@@ -13246,6 +13253,7 @@ const bgm_covers = {
   433234: "24/a1/433234_scr3O.jpg",
   433251: "67/84/433251_nJ1kF.jpg",
   433277: "fc/21/433277_1M152.jpg",
+  433315: "e3/74/433315_yFsaT.jpg",
   433396: "52/46/433396_Ubd4m.jpg",
   433398: "25/c2/433398_a4MzB.jpg",
   433428: "26/b9/433428_8koGE.jpg",
@@ -14514,6 +14522,7 @@ const bgm_covers = {
   530415: "6f/90/530415_u4X72.jpg",
   530454: "2c/b9/530454_406NP.jpg",
   530627: "3b/80/530627_8qqsY.jpg",
+  530650: "c4/a2/530650_u43LL.jpg",
   530651: "fb/e1/530651_11KUZ.jpg",
   530930: "ca/65/530930_9DGH5.jpg",
   530935: "67/33/530935_DtRBt.jpg",
@@ -14557,6 +14566,7 @@ const bgm_covers = {
   535558: "a5/70/535558_63IYc.jpg",
   535564: "3e/68/535564_jAPs2.jpg",
   535662: "b8/04/535662_A5Uwm.jpg",
+  535966: "e1/7f/535966_v88VE.jpg",
   536088: "47/a8/536088_39pLc.jpg",
   536292: "64/cc/536292_75Cii.jpg",
   536308: "d3/56/536308_FHqas.jpg",
