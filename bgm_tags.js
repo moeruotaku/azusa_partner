@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.16.36
+// @version     2026.07.17.72
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14110,6 +14110,7 @@ const bgm_tags = {
   485254: "漫画|太空|未来|短篇|SF|7.3|复制人|回归太空|保姆机器人",
   485287: "漫画|恋爱|玖珂ツニヤ|治愈|救赎|校园|单行本",
   485396: "游戏|Android|RPG|iOS|NS|PC",
+  485466: "百合|漫画|后宫|奇幻|2024|日常|コミック百合姫|しぼりかすこ|恋爱|真百|2025",
   485472: "BL漫画",
   485817: "",
   486024: "BL漫画",
@@ -14478,6 +14479,7 @@ const bgm_tags = {
   516140: "漫画|日本|吸血鬼|黑帮|中田春彌|悬疑|2024|原创|人狼|中田春弥|奇幻",
   516233: "田中芳树|小说|悬疑|2022",
   516382: "画集|存盘|日本|個人画集",
+  516633: "漫画|百合|日本|原创|连载中|2025-10|长寿种|系列",
   516981: "Windows|AVG|Galgame|PC|R18gal|R18",
   517268: "结婚·婚约|古典欧风|小说改|已完结",
   517407: "",
@@ -14779,6 +14781,7 @@ const bgm_tags = {
   569300: "同人|全年龄|短篇|meta|Galgame|治愈",
   569608: "ACT|游戏|NS2|PC|NS",
   569616: "",
+  569713: "Galgame|CRYSTALiA|推理|かずきふみ|PC|废萌|悬疑|2025|ADV|游戏|粉毛",
   570429: "2025|RPG|PC|JRPG|PS5|游戏|PS4|NS|NS2|工作室|Gust",
   570430: "2025|JRPG|RPG|PS5|NS2|PC|Gust|游戏|炼金工坊|KOEI",
   570431: "2025|JRPG|RPG|PC|NS2|PS5|STEAM|トリダモノ|Switch|ガスト",
