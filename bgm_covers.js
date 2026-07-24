@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.23.66
+// @version     2026.07.24.38
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -5808,6 +5808,7 @@ const bgm_covers = {
   161243: "6c/ab/161243_MLkkk.jpg",
   161266: "bd/f3/161266_Mogdt.jpg",
   161320: "f2/ac/161320_7070x.jpg",
+  161326: "fb/62/161326_062H2.jpg",
   161340: "81/95/161340_238e3.jpg",
   161375: "97/51/161375_YG3sq.jpg",
   161442: "b9/f6/161442_5qpph.jpg",
@@ -8480,6 +8481,7 @@ const bgm_covers = {
   244659: "d6/66/244659_iIcL6.jpg",
   244661: "c6/8e/244661_FLvgr.jpg",
   244959: "09/72/244959_7p1Y8.jpg",
+  244992: "dc/18/244992_xkz18.jpg",
   244994: "d9/5f/244994_88857.jpg",
   245029: "df/2c/245029_Mkm96.jpg",
   245153: "98/95/245153_br2Of.jpg",
@@ -9338,6 +9340,7 @@ const bgm_covers = {
   281760: "1c/26/281760_JP3pG.jpg",
   281916: "32/41/281916_M7b28.jpg",
   281917: "eb/66/281917_5bTz1.jpg",
+  281926: "ec/63/281926_dBVDR.jpg",
   281927: "48/11/281927_6u6on.jpg",
   282005: "9b/6f/282005_aK3m0.jpg",
   282107: "7e/84/282107_Rm3W9.jpg",
@@ -11849,6 +11852,7 @@ const bgm_covers = {
   369127: "37/39/369127_zwxwQ.jpg",
   369692: "38/c5/369692_jf5z2.jpg",
   369795: "0f/93/369795_2dBOq.jpg",
+  369845: "39/61/369845_2wxB9.jpg",
   369847: "88/1e/369847_1YAnt.jpg",
   370029: "3b/4b/370029_EmoE2.jpg",
   370196: "6c/a7/370196_zR9MR.jpg",
@@ -13432,6 +13436,7 @@ const bgm_covers = {
   439199: "ba/68/439199_Y3k36.jpg",
   439204: "a6/61/439204_6by06.jpg",
   439244: "e3/03/439244_ZrJr8.jpg",
+  439258: "32/de/439258_B3Nvn.jpg",
   439275: "3f/77/439275_9F292.jpg",
   439343: "61/0d/439343_ANKv6.jpg",
   439530: "54/05/439530_Madf8.jpg",
@@ -13668,6 +13673,7 @@ const bgm_covers = {
   453562: "02/46/453562_ZXVER.jpg",
   453635: "17/5b/453635_T7qwQ.jpg",
   453639: "a5/04/453639_wO1pL.jpg",
+  453713: "0f/f1/453713_C4A4t.jpg",
   453817: "dd/98/453817_U1WA5.jpg",
   453872: "36/8a/453872_gKx18.jpg",
   453901: "0a/ad/453901_TyxyW.jpg",
