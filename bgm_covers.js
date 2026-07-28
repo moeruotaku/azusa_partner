@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.27.37
+// @version     2026.07.28.57
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
