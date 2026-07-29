@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.28.57
+// @version     2026.07.29.91
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3445,7 +3445,6 @@ const azusa_covers = {
   32512: "https://img.azusa.wiki/i/2026/05/3a2b3566-9d88-45bb-8c63-a244773de3ee.jpg",
   32513: "https://img.azusa.wiki/i/2026/05/89ce0947-812a-4a1b-abd8-4e6cecba6d7d.jpg",
   32514: "https://img.azusa.wiki/i/2026/05/62574b28-aba5-41fc-949f-4f8ffc908308.jpg",
-  32605: "https://img.azusa.wiki/i/2026/05/40de746a-7c93-48a3-aa61-6da9809da634.jpg",
   32631: "https://img.azusa.wiki/i/2026/05/6b055634-41cf-4b70-a138-3536f7089db5.jpg",
   32679: "https://img.azusa.wiki/i/2026/05/e8eb6360-f2f0-4937-978b-9448c0ecda80.jpg",
   32681: "https://img.azusa.wiki/i/2026/05/3ed512a4-f758-4a8d-8fa3-7ff657927a18.jpg",
@@ -3515,7 +3514,6 @@ const azusa_covers = {
   33485: "https://img.azusa.wiki/i/2026/07/5484ede9-38bc-48c5-9dc5-819031dd130d.jpg",
   33522: "https://img.azusa.wiki/i/2026/07/62336043-f8f5-4509-8f8f-49ae64cc8fb4.jpg",
   33527: "https://img.azusa.wiki/i/2026/07/f2174cb4-1eae-4ba9-b45c-018172df0651.jpg",
-  33565: "https://img.azusa.wiki/i/2026/07/fa13df4c-805f-473c-a198-d9efe2cffcbb.webp",
   33609: "https://lain.bgm.tv/r/400/pic/cover/l/86/a9/211729_tQid7.jpg",
   33615: "https://img.azusa.wiki/i/2026/07/2f03efe1-ac9f-44e6-bf0b-c335004fe9ae.jpg",
   33625: "https://img.azusa.wiki/i/2026/07/f9ca81a6-f824-43dc-a054-0ecaaf36a096.jpg",
@@ -3530,5 +3528,7 @@ const azusa_covers = {
   33689: "https://lain.bgm.tv/r/400/pic/cover/l/65/f7/581457_xCh1x.jpg",
   33690: "https://lain.bgm.tv/r/400/pic/cover/l/fd/6b/29416_4qcgd.jpg",
   33693: "https://lain.bgm.tv/r/400/pic/cover/l/46/ce/639874_P3phZ.jpg",
-  33694: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567710/c98f2875b4209e755a04ed9d60d85c85745198fa/header_schinese.jpg?t=1784325042"
+  33694: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567710/c98f2875b4209e755a04ed9d60d85c85745198fa/header_schinese.jpg?t=1784325042",
+  33709: "https://img.azusa.wiki/i/2026/07/c7a30f0b-474e-4da7-9d45-36fe5d746b1b.jpg",
+  33719: "https://img.azusa.wiki/i/2026/07/16316748-3b8b-453c-94ef-26fc0b8cdef3.jpg"
 };
