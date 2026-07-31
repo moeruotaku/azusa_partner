@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.07.29.91
+// @version     2026.07.31.61
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,8 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  33609: "https://lain.bgm.tv/r/400/pic/cover/l/86/a9/211729_tQid7.jpg",
-  33615: "https://img.azusa.wiki/i/2026/07/2f03efe1-ac9f-44e6-bf0b-c335004fe9ae.jpg",
   33625: "https://img.azusa.wiki/i/2026/07/f9ca81a6-f824-43dc-a054-0ecaaf36a096.jpg",
   33629: "https://img.azusa.wiki/i/2026/07/ae0e1e8d-eddb-499a-8a59-9ee2d15a8434.jpg",
   33644: "https://img.azusa.wiki/i/2026/07/87ddfc8f-3b86-4663-ad31-c8e2368bc460.jpg",
@@ -28,5 +26,12 @@ const azusa_covers = {
   33693: "https://lain.bgm.tv/r/400/pic/cover/l/46/ce/639874_P3phZ.jpg",
   33694: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567710/c98f2875b4209e755a04ed9d60d85c85745198fa/header_schinese.jpg?t=1784325042",
   33709: "https://img.azusa.wiki/i/2026/07/c7a30f0b-474e-4da7-9d45-36fe5d746b1b.jpg",
-  33719: "https://img.azusa.wiki/i/2026/07/16316748-3b8b-453c-94ef-26fc0b8cdef3.jpg"
+  33719: "https://img.azusa.wiki/i/2026/07/16316748-3b8b-453c-94ef-26fc0b8cdef3.jpg",
+  33727: "https://img.azusa.wiki/i/2026/07/258b020e-c73e-4911-bf2b-120c25d580d3.png",
+  33732: "https://lain.bgm.tv/r/400/pic/cover/l/b9/2c/566727_fEk9Y.jpg",
+  33733: "https://img.azusa.wiki/i/2026/07/f2c335fe-7b4d-4179-8fe1-87a5409a40ac.jpg",
+  33739: "https://lain.bgm.tv/r/400/pic/cover/l/4b/35/461481_TO8Om.jpg",
+  33744: "https://img.azusa.wiki/i/2026/07/921f5dc6-2b61-438a-a5b4-e3b593376bdc.jpg",
+  33748: "https://img.azusa.wiki/i/2026/07/3cbe58f2-559a-4347-be65-2a1dea965061.jpg",
+  33751: "https://img.azusa.wiki/i/2026/07/aa83b563-f8bc-481b-9c5b-be5465b2eb94.jpg"
 };
