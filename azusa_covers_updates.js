@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.08.02.92
+// @version     2026.08.04.47
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,15 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  33662: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4778760/d6e240e18acf90c2265100f12c0227440eaa881b/header.jpg?t=1780813045",
-  33663: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3818900/c839a76c69aea43d9cb794be1090fe1b17a16e83/header_schinese.jpg?t=1780935577",
-  33668: "https://img.azusa.wiki/i/2026/07/3e2add04-dc4f-4da4-83f2-aa74c76a5c85.jpg",
-  33674: "https://img.azusa.wiki/i/2026/07/3bb1f450-b5e0-4de1-906b-464b3723de5a.jpg",
-  33680: "https://img.azusa.wiki/i/2026/07/f7732d53-f36f-4a31-ada2-e51499c14a8b.jpg",
-  33685: "https://img.azusa.wiki/i/2026/07/34c2b31a-bd01-49d5-a5bd-3f4a55a6d113.jpg",
-  33689: "https://lain.bgm.tv/r/400/pic/cover/l/65/f7/581457_xCh1x.jpg",
-  33690: "https://lain.bgm.tv/r/400/pic/cover/l/fd/6b/29416_4qcgd.jpg",
-  33693: "https://lain.bgm.tv/r/400/pic/cover/l/46/ce/639874_P3phZ.jpg",
   33694: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4567710/c98f2875b4209e755a04ed9d60d85c85745198fa/header_schinese.jpg?t=1784325042",
   33709: "https://img.azusa.wiki/i/2026/07/c7a30f0b-474e-4da7-9d45-36fe5d746b1b.jpg",
   33719: "https://img.azusa.wiki/i/2026/07/16316748-3b8b-453c-94ef-26fc0b8cdef3.jpg",
@@ -68,5 +59,10 @@ const azusa_covers = {
   33841: "https://img.azusa.wiki/i/2026/08/47fa77cb-55f3-4074-aa8a-f9a51a6b3f1c.jpg",
   33842: "https://img.azusa.wiki/i/2026/08/c82571ce-3187-4908-b5c3-8a390ff43984.jpg",
   33846: "https://lain.bgm.tv/r/400/pic/cover/l/08/29/272436_KhK88.jpg",
-  33847: "https://img.azusa.wiki/i/2026/08/a36fd66f-30a2-4628-b89d-fdb81da64ee9.jpg"
+  33847: "https://img.azusa.wiki/i/2026/08/a36fd66f-30a2-4628-b89d-fdb81da64ee9.jpg",
+  33864: "https://lain.bgm.tv/r/400/pic/cover/l/de/76/241816_J4Uof.jpg",
+  33878: "https://lain.bgm.tv/r/400/pic/cover/l/0f/68/332161_0mg8D.jpg",
+  33881: "https://img.azusa.wiki/i/2026/08/4728472e-589b-4c53-95af-1c10d3d7e890.jpg",
+  33882: "https://img.azusa.wiki/i/2026/08/33efff66-977c-4e8d-b550-43c53132e37b.jpg",
+  33887: "https://lain.bgm.tv/r/400/pic/cover/l/59/df/297159_oLj9u.jpg"
 };
