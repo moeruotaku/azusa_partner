@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.08.12.78
+// @version     2026.08.13.72
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,9 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  33895: "https://lain.bgm.tv/r/400/pic/cover/l/58/91/241800_HhnPD.jpg",
-  33896: "https://img.azusa.wiki/i/2026/08/a59d2dca-c0a4-407f-9344-a090a0ba0d57.jpg",
-  33899: "https://img.azusa.wiki/i/2026/08/a2c6e86f-ee1d-4561-ae90-8b44219b0ca6.jpg",
   33909: "https://img.azusa.wiki/i/2026/08/e97f675a-0e39-49ff-bfb0-60064cb770f4.jpg",
   33910: "https://img.azusa.wiki/i/2026/08/5af796e7-2011-401c-8364-1c87f8608ac1.jpg",
   33911: "https://img.azusa.wiki/i/2026/08/7b8338ac-d916-4b27-805e-342104a53fab.jpg",
@@ -49,5 +46,13 @@ const azusa_covers = {
   34012: "https://img.azusa.wiki/i/2026/08/d179d5c0-d764-4442-bd6b-cd636f62e7ec.jpg",
   34014: "https://img.azusa.wiki/i/2026/08/5450e86b-7a94-4c54-b726-f86df2d79cae.jpg",
   34022: "https://img.azusa.wiki/i/2026/08/a38ea11e-6298-4d4d-bb94-9999cad46761.jpg",
-  34023: "https://img.azusa.wiki/i/2026/08/7e0fd0af-d7e5-42c3-89fc-1864a184050b.jpg"
+  34023: "https://img.azusa.wiki/i/2026/08/7e0fd0af-d7e5-42c3-89fc-1864a184050b.jpg",
+  34029: "https://img.azusa.wiki/i/2026/08/1f84289d-2b75-4325-b5bc-574f9b6a7506.jpg",
+  34030: "https://img.azusa.wiki/i/2026/08/ad93dea4-ef0b-49b3-b3e3-242626458ae8.jpg",
+  34031: "https://img.azusa.wiki/i/2026/08/99b0ba01-67c5-4de5-8faf-42cd5876f0b8.jpg",
+  34032: "https://img.azusa.wiki/i/2026/08/6ab0c31c-ca1a-4ef6-a745-edc857cef567.jpg",
+  34034: "https://img.azusa.wiki/i/2026/08/3848a2ce-6c9f-4343-96de-a96db36b5226.jpg",
+  34039: "https://img.azusa.wiki/i/2026/08/cad15175-2002-4670-b0ee-d3da72880100.jpg",
+  34051: "https://img.azusa.wiki/i/2026/08/4628b74a-9050-400c-b8c0-ca7343c1e6a4.jpg",
+  34052: "https://img.azusa.wiki/i/2026/08/c18396b5-1fbb-4f4f-b56b-7667b6455318.jpg"
 };
