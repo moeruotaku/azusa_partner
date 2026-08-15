@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.08.13.72
+// @version     2026.08.15.61
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,18 +12,6 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  33909: "https://img.azusa.wiki/i/2026/08/e97f675a-0e39-49ff-bfb0-60064cb770f4.jpg",
-  33910: "https://img.azusa.wiki/i/2026/08/5af796e7-2011-401c-8364-1c87f8608ac1.jpg",
-  33911: "https://img.azusa.wiki/i/2026/08/7b8338ac-d916-4b27-805e-342104a53fab.jpg",
-  33912: "https://img.azusa.wiki/i/2026/08/dc6399de-364e-4463-b6fc-363de2c2e467.jpg",
-  33913: "https://img.azusa.wiki/i/2026/08/d086d289-7856-422a-8e9e-ed9b82e350ed.jpg",
-  33914: "https://img.azusa.wiki/i/2026/08/1743a358-7dcf-4989-8107-3e39464bb5b7.jpg",
-  33926: "https://img.azusa.wiki/i/2026/08/2a694301-15e2-459c-aa85-f1b2e79ae720.jpg",
-  33927: "https://img.azusa.wiki/i/2026/08/76588e3a-2051-4061-a65e-14f0b8e95d91.jpg",
-  33930: "https://img.azusa.wiki/i/2026/08/c557889d-cf99-43a3-8826-78f4d39d83ce.jpg",
-  33932: "https://img.azusa.wiki/i/2026/08/22270e9a-a67f-4da5-a0a4-47f24de6fcb6.jpg",
-  33933: "https://img.azusa.wiki/i/2026/08/af06ee0d-8254-40ac-9957-556e02ec3d0c.jpg",
-  33934: "https://img.azusa.wiki/i/2026/08/95912490-10df-4428-8cc3-f62904b031e0.jpg",
   33941: "https://img.azusa.wiki/i/2026/08/1a9a4fc6-6e20-4a13-9220-8ad9660b7685.jpg",
   33942: "https://img.azusa.wiki/i/2026/08/595c14c0-146e-4c6b-b654-c35c1ba69488.jpg",
   33943: "https://img.azusa.wiki/i/2026/08/a3917b13-e8cd-428c-ab91-6890df8f4ce8.jpg",
@@ -54,5 +42,10 @@ const azusa_covers = {
   34034: "https://img.azusa.wiki/i/2026/08/3848a2ce-6c9f-4343-96de-a96db36b5226.jpg",
   34039: "https://img.azusa.wiki/i/2026/08/cad15175-2002-4670-b0ee-d3da72880100.jpg",
   34051: "https://img.azusa.wiki/i/2026/08/4628b74a-9050-400c-b8c0-ca7343c1e6a4.jpg",
-  34052: "https://img.azusa.wiki/i/2026/08/c18396b5-1fbb-4f4f-b56b-7667b6455318.jpg"
+  34052: "https://img.azusa.wiki/i/2026/08/c18396b5-1fbb-4f4f-b56b-7667b6455318.jpg",
+  34055: "https://img.azusa.wiki/i/2026/08/ade2134b-dc9a-496f-8264-8123678fca1d.jpg",
+  34057: "https://img.azusa.wiki/i/2026/08/325a6a18-ed6b-4c4d-9470-d20e0b01f426.jpg",
+  34058: "https://img.azusa.wiki/i/2026/08/f3ea0b44-4f83-499c-be3f-fb9c61b5b3ca.jpg",
+  34060: "https://img.azusa.wiki/i/2026/08/61427438-cd0f-4b79-9453-d4de94eefd9d.jpg",
+  34068: "https://img.azusa.wiki/i/2026/08/86b6d76c-3a39-4e7f-978d-2e6bedc3e8c1.jpg"
 };
