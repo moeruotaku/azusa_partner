@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.08.16.49
+// @version     2026.08.17.64
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -2823,6 +2823,7 @@ const bgm_tags = {
   62637: "BLOOD|漫画|コミックス|玉置勉強|全1巻|全1卷",
   62758: "漫画|山田貴敏|2000年6月|日常|小学館",
   62765: "ACT|PC|赛博朋克|STEAM|PS3|Dontnod|2013|Remember|Capcom",
+  62832: "少女|漫画|少女漫画|少女漫|已完结|乙女向け|酒井真由|酒井まゆ",
   62833: "板垣恵介|漫画|格斗|搞笑|战斗|1999|已完结|猎奇|热血|漫画系列",
   62879: "漫画|板垣惠介|格斗|热血|板垣恵介|搞笑|2006|周刊少年Champion|格斗漫画|已完结|漫画系列",
   62892: "Galgame|国产|蓝天使制作组|性转点赞|PC|悬疑|GAL|AVG|全年龄|Ladomu|同人",
@@ -15145,6 +15146,7 @@ const bgm_tags = {
   641210: "",
   641362: "PC|iOS|游戏|NS|Android|PS5|PS4",
   641481: "BL漫画|小说改|已完结|漫画|中国",
+  642114: "画集",
   642733: "",
   643666: "",
   644753: "少女漫画|恋爱|日本|已完结|漫画|少女|系列|原创|少女漫",
