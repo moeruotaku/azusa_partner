@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.08.27.36
+// @version     2026.08.28.39
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14680,6 +14680,7 @@ const bgm_tags = {
   513795: "漫画|卖肉|丧尸|后宫|猎奇|日本|2024|青年漫|今井ユウ講談社|原创|搞笑",
   513882: "",
   513940: "Galgame|FrontWing|全年龄|浅生咏|松本文纪|前翼社|短篇|浅生詠|ゆさの|游戏|GAL",
+  513971: "PC|全年龄|紺野アスタ|羊宫妃那|游戏|ゆさの|Galgame|渡辺明夫|短篇|VN|26",
   514038: "百合|轻小说|恋爱|入間人間|安达与岛村|入间人间|日常|校园|2023|小说|番外",
   514416: "设定集|已入",
   514431: "画集|已购|2024|存盘|画集・设定集",
