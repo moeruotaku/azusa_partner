@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.08.31.61
+// @version     2026.09.01.38
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14894,6 +14894,7 @@ const bgm_tags = {
   538438: "漫画|少女|恋爱|国漫|奇幻|乙女向|已完结|国产|中国|纸质书|标签",
   538910: "BL|系列|漫画|日本|原创|职场|蔷薇|已完结",
   539042: "Galgame|国产|橘子班|全年龄|炒饭|短篇|PC|游戏|GAL|Windows|STEAM",
+  539793: "恋爱|少女漫画|兄友|连载中|少女漫|系列|少女|漫画|年上男主|日漫BG|搞笑艺人",
   539816: "国产|AVG|推理|武侠|悬疑|PC|解谜|STEAM|2025|游戏|Galgame",
   539883: "",
   540029: "连载中|纸质书|日本|小说|轻小说",
