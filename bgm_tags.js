@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.01.38
+// @version     2026.09.02.58
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14583,6 +14583,7 @@ const bgm_tags = {
   506756: "轻小说|治愈|爱情|日常|小说|望公太|钟爱|恋爱",
   506788: "Type-Moon|Galgame|Fate|PC|奈须きのこ|FD|AVG|游戏|STEAM|全年龄|NS",
   506840: "漫画|恋爱|校园|搞笑|青春|日本|原创|2024|女主画的超好看|週刊少年サンデー|连载中",
+  506844: "奇幻|漫画|2024|连载中|小学馆|原创|日本|老师|东立出版社|小学館",
   507098: "BL漫画",
   507102: "漫画|国漫|已完结|国漫BL|标签二",
   507107: "国漫",
@@ -15207,6 +15208,7 @@ const bgm_tags = {
   649382: "",
   649825: "Galgame|国产|PC|全年龄|短篇|视觉小说|AVG|游戏|冒险|云过",
   651905: "",
+  655873: "2026",
   656024: "法国|原创|冒险|漫画|历史|系列|公路|已完结",
   656320: "",
   657137: "悬疑|中国|已完结|科幻|战斗|漫画",
