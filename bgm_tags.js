@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.02.58
+// @version     2026.09.03.42
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14246,6 +14246,7 @@ const bgm_tags = {
   480795: "画集|设定集",
   480817: "",
   480871: "漫画|恋爱|卖肉|搞笑|校园|奇幻|日常|寺井赤音|栗原和明|系列|腰斩",
+  480993: "漫画|日本|战斗|奇幻|烂尾|已完结|腰斩|一般向|倒贴|开挂无敌|小说改",
   481047: "",
   481055: "百合|漫画|鍵穴|奇幻|已完结|恋爱|百合姬|Yuri|系列|GL|日漫",
   481121: "画集",
