@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.03.42
+// @version     2026.09.07.57
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,11 +12,7 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  34257: "https://img.azusa.wiki/i/2026/08/06f4a70a-e656-4035-86f4-b3b792246ebe.jpg",
-  34258: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4650950/4b8a20afcad0f7d06b207c2b9244a2cad1a7039d/header.jpg?t=1787793290",
-  34259: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4873820/c4a2e04249046614285f0e5831a595945ff1e95c/header.jpg?t=1785683300",
-  34260: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4211810/f4ed9d08f21e870e286ba713fdf5223fd4a2ed25/header_schinese.jpg?t=1784733743",
-  34261: "https://lain.bgm.tv/r/400/pic/cover/l/f3/2a/241897_6E2XI.jpg",
-  34263: "https://img.azusa.wiki/i/2026/08/17fd25be-54f4-42c0-9562-1fa799fb6228.jpg",
-  34283: "https://img.azusa.wiki/i/2026/09/9cbb4e97-5ceb-4860-aa3b-7f9ffb1e7253.jpg"
+  34283: "https://img.azusa.wiki/i/2026/09/9cbb4e97-5ceb-4860-aa3b-7f9ffb1e7253.jpg",
+  34287: "https://img.azusa.wiki/i/2026/09/1a41d849-79dc-4e67-925f-1d2609f306de.jpg",
+  34297: "https://img.azusa.wiki/i/2026/09/aa6e8dd0-8f06-43a8-86d7-ede33c96f139.jpg"
 };
