@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.13.47
+// @version     2026.09.14.47
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -15202,6 +15202,7 @@ const bgm_tags = {
   638596: "OST|碇子正広|松原健一|コナミ矩形波倶楽部|東野美紀|古川もとあき|专辑|1992|游戏|VGM|CD",
   639675: "游戏|Galgame|PC",
   639874: "Galgame|萝莉|PC|兽娘|夜ノみつき|艹猫|萌拔|游戏|动态CG|あにまるハーブ|兽耳",
+  640496: "轻小说|系列|小说|日本|小说系列|GA文庫|2026",
   641210: "",
   641362: "PC|iOS|游戏|NS|Android|PS5|PS4",
   641481: "BL漫画|小说改|已完结|漫画|中国",
