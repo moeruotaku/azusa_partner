@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.16.36
+// @version     2026.09.17.72
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -7058,6 +7058,7 @@ const bgm_tags = {
   196972: "Galgame|悬疑|桐月|人偶|あっぷりけ|纯爱|汉化|2017|GAL|PC|雰囲気がいい",
   197004: "ハイキュー！！",
   197024: "漫画|漫画系列|已完结|晴濑浩贵",
+  197051: "",
   197089: "轻小说|异世界|奇幻|柳野かなた|王道|穿越|剑与魔法|小说|系列|小说系列|2016",
   197090: "漫画",
   197091: "漫画",
