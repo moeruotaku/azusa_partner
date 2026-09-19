@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.18.37
+// @version     2026.09.19.79
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3357,7 +3357,6 @@ const azusa_covers = {
   30194: "https://img1.pixhost.to/images/8859/642887286_cover.jpg",
   30195: "https://img1.pixhost.to/images/8860/642913519_cover.jpg",
   30196: "https://img1.pixhost.to/images/8862/642958507_cover.jpg",
-  30270: "https://pic.pting.club/i/2025/10/06/68e2bafdea246.jpg",
   30279: "https://p.sda1.dev/27/ea42d7a85d8c9bc59541794393c21d65/cover.jpg",
   30315: "https://img1.pixhost.to/images/9263/648905633_cover.jpg",
   30370: "https://p.sda1.dev/27/cb515257526742ec7280dd56c16c03d8/image.png",
@@ -3602,7 +3601,6 @@ const azusa_covers = {
   34030: "https://img.azusa.wiki/i/2026/08/ad93dea4-ef0b-49b3-b3e3-242626458ae8.jpg",
   34031: "https://img.azusa.wiki/i/2026/08/99b0ba01-67c5-4de5-8faf-42cd5876f0b8.jpg",
   34032: "https://img.azusa.wiki/i/2026/08/6ab0c31c-ca1a-4ef6-a745-edc857cef567.jpg",
-  34034: "https://img.azusa.wiki/i/2026/08/3848a2ce-6c9f-4343-96de-a96db36b5226.jpg",
   34039: "https://img.azusa.wiki/i/2026/08/cad15175-2002-4670-b0ee-d3da72880100.jpg",
   34051: "https://img.azusa.wiki/i/2026/08/4628b74a-9050-400c-b8c0-ca7343c1e6a4.jpg",
   34052: "https://img.azusa.wiki/i/2026/08/c18396b5-1fbb-4f4f-b56b-7667b6455318.jpg",
