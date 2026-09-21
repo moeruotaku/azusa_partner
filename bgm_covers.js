@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.20.36
+// @version     2026.09.21.36
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -11432,6 +11432,7 @@ const bgm_covers = {
   342573: "4f/84/342573_mP7n8.jpg",
   342838: "27/8e/342838_NH443.jpg",
   342841: "91/32/342841_FkM6X.jpg",
+  342888: "a5/70/342888_G15YG.jpg",
   342920: "f3/bf/342920_ZBIbH.jpg",
   342971: "a8/dd/342971_3w3C2.jpg",
   343037: "39/e9/343037_SDd1z.jpg",
@@ -14508,6 +14509,7 @@ const bgm_covers = {
   499471: "ff/ed/499471_SOUrr.jpg",
   499657: "51/90/499657_O2mhA.jpg",
   499667: "47/ff/499667_P7Uqv.jpg",
+  499671: "01/57/499671_w4T74.jpg",
   499873: "a8/3d/499873_upvwZ.jpg",
   499874: "f0/b1/499874_V0cL0.jpg",
   499920: "1f/00/499920_K2W0M.jpg",
@@ -14702,6 +14704,7 @@ const bgm_covers = {
   513882: "e4/aa/513882_AaakA.jpg",
   513940: "fe/0b/513940_6T7zn.jpg",
   514038: "25/8c/514038_PeLyf.jpg",
+  514290: "bb/56/514290_YYRo5.jpg",
   514416: "df/22/514416_1p5ij.jpg",
   514431: "d0/4a/514431_rV99r.jpg",
   514664: "10/12/514664_RdKdT.jpg",
