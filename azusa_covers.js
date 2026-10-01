@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.09.29.69
+// @version     2026.10.01.40
 // @description azusa_covers
 // @author      moeruotaku
 // @license     MIT
@@ -3652,5 +3652,8 @@ const azusa_covers = {
   34469: "https://img.azusa.wiki/i/2026/09/c8fc4d43-0929-4d46-a4b6-bff135f5de12.jpg",
   34471: "https://img.azusa.wiki/i/2026/09/59e3f86f-ee0a-497b-96ac-59f96241a849.jpg",
   34490: "https://img.azusa.wiki/i/2026/09/176ab075-bf56-4260-8c35-cf3fc181e4f8.jpg",
-  34499: "https://lain.bgm.tv/r/400/pic/cover/l/26/75/523502_RYCrR.jpg"
+  34499: "https://lain.bgm.tv/r/400/pic/cover/l/26/75/523502_RYCrR.jpg",
+  34510: "https://www.peppercarrot.com/0_sources/0ther/press/hi-res/2015-10-12_logo_by-David-Revoy.jpg",
+  34514: "https://p.sda1.dev/35/d29052b1c3e6ae0ad81d7017f436bd0b/cover2.jpg",
+  34518: "https://p.sda1.dev/35/bd5d0ba56306ed679185e28099dc50cd/07.jpg"
 };
