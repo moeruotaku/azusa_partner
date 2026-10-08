@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_covers
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.10.06.41
+// @version     2026.10.08.51
 // @description bgm_covers
 // @author      moeruotaku
 // @license     MIT
@@ -10122,6 +10122,7 @@ const bgm_covers = {
   301614: "46/34/301614_cbWXS.jpg",
   301616: "72/c9/301616_2t71g.jpg",
   301619: "f3/95/301619_ctEfT.jpg",
+  301622: "27/1c/301622_Zlhf6.jpg",
   301689: "eb/20/301689_p5ecc.jpg",
   301696: "48/ae/301696_Vx0V0.jpg",
   301699: "ce/0b/301699_0opP0.jpg",
@@ -10596,6 +10597,7 @@ const bgm_covers = {
   315883: "17/23/315883_lIN33.jpg",
   315899: "96/15/315899_Ii0SZ.jpg",
   315904: "e6/e6/315904_kPqng.jpg",
+  315918: "5c/81/315918_p75Jh.jpg",
   315946: "fc/8f/315946_965Ug.jpg",
   316082: "17/33/316082_UnBJb.jpg",
   316119: "a9/1e/316119_7A6p7.jpg",
@@ -14361,6 +14363,7 @@ const bgm_covers = {
   484776: "f0/cc/484776_czUNU.jpg",
   484834: "d6/48/484834_EPZ8b.jpg",
   485015: "fe/a2/485015_46tB6.jpg",
+  485030: "a8/96/485030_8kMPl.jpg",
   485035: "0a/05/485035_5rzw5.jpg",
   485046: "43/f6/485046_2tG3h.jpg",
   485102: "27/45/485102_moG8f.jpg",
@@ -14619,6 +14622,7 @@ const bgm_covers = {
   505355: "3f/30/505355_33ssh.jpg",
   505383: "ae/09/505383_ZYYyg.jpg",
   505428: "70/db/505428_HVamG.jpg",
+  505445: "44/c5/505445_b5PNa.jpg",
   505451: "0e/aa/505451_Rdkv6.jpg",
   505457: "2a/ef/505457_z98Nz.jpg",
   505472: "30/29/505472_C5CTi.jpg",
@@ -14986,6 +14990,7 @@ const bgm_covers = {
   541537: "66/13/541537_VFgyi.jpg",
   541812: "e2/dd/541812_1L8N4.jpg",
   541868: "6c/00/541868_ze9bE.jpg",
+  542030: "eb/07/542030_n92ee.jpg",
   542035: "84/4a/542035_ew9Lt.jpg",
   542118: "f9/ce/542118_MB1U2.jpg",
   542353: "37/d8/542353_giAqJ.jpg",
@@ -15057,6 +15062,7 @@ const bgm_covers = {
   556370: "ee/85/556370_2AOel.jpg",
   556500: "d7/8e/556500_UXd24.jpg",
   556548: "ba/8f/556548_OFiXb.jpg",
+  556816: "16/73/556816_lKO23.jpg",
   557328: "e0/71/557328_5e8qQ.jpg",
   557401: "1c/1a/557401_wrZ7T.jpg",
   557519: "a6/6b/557519_30m18.jpg",
