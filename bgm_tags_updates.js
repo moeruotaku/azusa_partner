@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.10.17.68
+// @version     2026.10.18.39
 // @description bgm_tags_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,9 +12,10 @@
 // ==/UserScript==
 
 const bgm_tags = {
+  3510: "海贼王|尾田荣一郎|JUMP|热血|漫画|少年漫画|集英社|燃|神作|少年JUMP|OP",
+  13982: "漫画|热血|加藤和惠|JUMP|青驱|集英社|青之驱魔师|恶魔|战斗|青の祓魔師|少年漫画",
   149172: "漫画|历史|坂本眞一|青年漫画|2015|社会|黑暗|集英社|坂本真一|中篇|系列",
   234799: "漫画|恋爱|色气|校园|福田晋一|cosplay|辣妹|日常|日本|2018|爱情",
-  241011: "治愈|日常|漫画|一般向|桜井海|2018|日本漫画|pixivコミック|ガンガンpixiv|toku",
   257333: "漫画|番外|搞笑|赤坂アカ|2018|G3井田|校园|配角|漫画系列|集英社|恋爱",
   272768: "漫画|Type-Moon|fgo|2019|游戏改|一迅社|系列|日本|漫画系列|奇幻|完结",
   276371: "漫画|恋爱|杀必死|校园|日常|中田ゆみ|一迅社|2019|已完结|师生恋|伪娘",
