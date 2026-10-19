@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.10.18.39
+// @version     2026.10.19.40
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -9564,6 +9564,7 @@ const bgm_tags = {
   285882: "漫画|恋爱|后宫|校园|cosplay|搞笑|卖肉|日本|2019|橋本悠|肉",
   285929: "RPG|四块二茶会|国产|独立游戏|STEAM|PC|JRPG|2019|催泪|奇幻|治愈",
   285932: "RPG|PS4|地雷社|百合|コンパイルハート|PC|PS5|JRPG|2022|Galgame|STEAM",
+  285997: "漫画|猎奇|重口|医学|木津克久|木々津克久|2019|画风|38|木木津克久",
   286098: "漫画|搞笑|2018|COMICリュエル|えびぽ",
   286110: "ACT|PS4|海贼无双|PC|2020|海贼王|无双|万代南梦宫|XboxOne|Switch|繁体中文版",
   286111: "漫画|2010|反战？|完结|百田尚樹|双葉社|漫画アクション|（本そういち）|須本壮一",
