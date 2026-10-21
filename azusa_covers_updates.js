@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_azusa_covers_updates
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.10.19.40
+// @version     2026.10.21.67
 // @description azusa_covers_updates
 // @author      moeruotaku
 // @license     MIT
@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 const azusa_covers = {
-  34629: "https://img.azusa.wiki/i/2026/10/6908011c-bbcd-4e20-a1b3-b8bf0816d7e0.jpg",
-  34630: "https://img.azusa.wiki/i/2026/10/78b88f9a-5b38-433e-bdfd-74c9ede3b1b4.jpg",
-  34644: "https://img.azusa.wiki/i/2026/10/cb3de663-0501-4a91-8a47-39cbc04c6c7a.jpg"
+  34644: "https://img.azusa.wiki/i/2026/10/cb3de663-0501-4a91-8a47-39cbc04c6c7a.jpg",
+  34653: "https://img.azusa.wiki/p/AQEAAAAAAAAN3zCeqIOx7Wp39g6U9fVQrwA/AQHOHfyMNU2WgaKeYbGHf_wsWbvUQNZq3ojanQ31WhjVbGKl7nz5a48bUjd8yGgysrByqAHKlI2lUxJW2YEActTYsiObSTy_L3FtskeQbg",
+  34654: "https://img.azusa.wiki/p/AQEAAAAAAAAN31SkzSgMVjeewBdHXktbuUw/AQGY1oGEvprbbyg0G1K_h7dDtkK_ADUjrvcRaJV7F22IKmqVC2ypnk81_vClK3svKsOafxqxZQDNkKKuiCCXv6GeeYN6NliDP9hcmBRlfA"
 };
