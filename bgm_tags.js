@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.11.11.73
+// @version     2026.11.14.46
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -6595,6 +6595,7 @@ const bgm_tags = {
   183217: "Galgame|全年龄|5pb.|PSV|纯爱|感谢逆向移植|林直孝|汉化|2016|PC|感动",
   183231: "漫画|战斗|奇幻|生存|已完结|漫画系列",
   183283: "吸血鬼|漫画|2016|少女漫|主仆恋|主仆|日漫BG|COMICリュエル|娘娘腔|倉野ユーイチ",
+  183396: "漫画|野上武志|百合|鈴木貴昭|少女与战车|漫画系列|コミックフラッパー|¬|铃木贵昭|待补|ダウンロード待ち",
   183418: "漫画|热血|竞技|日本桥阳子|講談社|漫画系列",
   183483: "漫画系列",
   183569: "漫画|少女漫|少女漫画|漫画系列|已完结|日漫BG|夏目ココロ",
