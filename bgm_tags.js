@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        azusa_partner_library_bgm_tags
 // @namespace   https://greasyfork.org/users/1396048-moeruotaku
-// @version     2026.11.20.69
+// @version     2026.11.22.08
 // @description bgm_tags
 // @author      moeruotaku
 // @license     MIT
@@ -14527,6 +14527,7 @@ const bgm_tags = {
   497420: "百合|漫画|校园|サスケ|2024|已完结|搞笑|青春|日本|系列",
   497606: "百合|全年龄|AVG|STEAM|Galgame|吸血鬼|真百|同人|PC|游戏|GL",
   497607: "漫画|日本|连载中|艾尔登法环|系列|漫画系列",
+  497629: "日本|漫画|少年|原创",
   497759: "白井智之|推理|小说|悬疑|科幻|2024|推理小说|猎奇|轻小说|短篇集|脑洞",
   497788: "小说|轻小说|青春|已购",
   497793: "BLコミック",
